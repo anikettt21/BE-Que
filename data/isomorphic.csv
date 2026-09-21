@@ -1,0 +1,5175 @@
+cell_type_name,female_n,female_broad_class,male_n,male_cell_type,male_superclass
+R1-6,6,CNS neuron,3377,R1-R6,ol_sensory
+KCab,653,CNS neuron,1681,KCab-s,cb_intrinsic
+KCg-m,894,CNS neuron,1346,KCg-m,cb_intrinsic
+Tm3,92,CNS neuron,2054,Tm3,ol_intrinsic
+Tm9,337,CNS neuron,1771,Tm9,ol_intrinsic
+Mi9,220,CNS neuron,1775,Mi9,ol_intrinsic
+T3,10,CNS neuron,1940,T3,ol_intrinsic
+Tm1,161,CNS neuron,1777,Tm1,ol_intrinsic
+T4b,247,CNS neuron,1690,T4b,ol_intrinsic
+Mi4,114,CNS neuron,1772,Mi4,ol_intrinsic
+T2a,13,CNS neuron,1872,T2a,ol_intrinsic
+T4c,88,CNS neuron,1778,T4c,ol_intrinsic
+T5c,145,CNS neuron,1720,T5c,ol_intrinsic
+Tm2,98,CNS neuron,1766,Tm2,ol_intrinsic
+Mi1,79,CNS neuron,1773,Mi1,ol_intrinsic
+T5b,130,CNS neuron,1715,T5b,ol_intrinsic
+Tm20,64,CNS neuron,1762,Tm20,ol_intrinsic
+T4a,129,CNS neuron,1684,T4a,ol_intrinsic
+T4d,100,CNS neuron,1710,T4d,ol_intrinsic
+T5a,130,CNS neuron,1664,T5a,ol_intrinsic
+C3,13,CNS neuron,1779,C3,ol_intrinsic
+L5,4,CNS neuron,1788,L5,ol_intrinsic
+L2,2,,1779,L2,ol_intrinsic
+L1,2,CNS neuron,1776,L1,ol_intrinsic
+T1,1,CNS neuron,1777,T1,ol_intrinsic
+L3,1,,1772,L3,ol_intrinsic
+C2,11,CNS neuron,1745,C2,ol_intrinsic
+T5d,102,CNS neuron,1620,T5d,ol_intrinsic
+Tm4,45,CNS neuron,1670,Tm4,ol_intrinsic
+T2,27,CNS neuron,1630,T2,ol_intrinsic
+BM_InOm,870,sensory neuron,706,BM_InOm,cb_sensory
+Dm2,102,CNS neuron,1452,Dm2,ol_intrinsic
+TmY5a,22,CNS neuron,1364,TmY5a,ol_intrinsic
+Tm27,3,,1367,TmY18,ol_intrinsic
+R8,31,sensory neuron,1329,R8y,ol_sensory
+R7,37,sensory neuron,1300,R7y,ol_sensory
+Dm3p,5,,1204,Dm3a,ol_intrinsic
+Mi15,22,CNS neuron,1151,Mi15,ol_intrinsic
+Dm3q,4,,1136,Dm3b,ol_intrinsic
+Mi2,40,CNS neuron,986,Mi2,ol_intrinsic
+Mi13,41,CNS neuron,910,Mi13,ol_intrinsic
+Tm5f,3,,898,Tm5Y,ol_intrinsic
+TmY3,10,CNS neuron,824,TmY3,ol_intrinsic
+Dm3v,5,,787,Dm3c,ol_intrinsic
+Tm5c,34,CNS neuron,750,Tm5c,ol_intrinsic
+LC12,240,CNS neuron,498,LC12,visual_projection
+Tm5a,28,CNS neuron,624,Tm5a,ol_intrinsic
+Y3,15,,627,Y3,ol_intrinsic
+Dm10,1,CNS neuron,626,Dm10,ol_intrinsic
+Tm5e,14,,559,Tm37,ol_intrinsic
+Tm5d,19,,544,Tm29,ol_intrinsic
+TmY10,4,,552,TmY10,ol_intrinsic
+Tm5b,20,,522,Tm5b,ol_intrinsic
+TmY14,42,,477,TmY14,visual_projection
+TmY9q,2,,515,TmY9b,ol_intrinsic
+Dm15,5,CNS neuron,485,Dm15,ol_intrinsic
+LC17,134,CNS neuron,353,LC17,visual_projection
+Sm02,4,,472,Cm1,ol_intrinsic
+TmY9q__perp,2,,471,TmY9a,ol_intrinsic
+LLPC1,183,CNS neuron,285,LLPC1,visual_projection
+Tm7,25,,426,Tm39,ol_intrinsic
+LLPC2,195,CNS neuron,250,LLPC2,visual_projection
+TmY31,2,,395,TmY17,ol_intrinsic
+Sm01,2,,383,Cm2,ol_intrinsic
+KCapbp-ap1,180,CNS neuron,197,KCa'b'-ap1,cb_intrinsic
+Tm36,3,,372,TmY21,ol_intrinsic
+LC10a,85,CNS neuron,275,LC10a,visual_projection
+LPC1,124,CNS neuron,224,LPC1,visual_projection
+KCapbp-ap2,55,CNS neuron,291,KCa'b'-ap2,cb_intrinsic
+Li01,105,,232,Li22,ol_intrinsic
+Sm07,9,,323,Cm3,ol_intrinsic
+MeTu1,76,CNS neuron,250,MeTu1,visual_projection
+KCapbp-m,118,CNS neuron,205,KCa'b'-m,cb_intrinsic
+LC10c,66,CNS neuron,255,LC10c-1,visual_projection
+LC13,143,,177,LC13,visual_projection
+Mi14,3,,315,Mi14,ol_intrinsic
+KCg-d,105,CNS neuron,206,KCg-d,cb_intrinsic
+LC16,127,CNS neuron,182,LC16,visual_projection
+LLPC3,88,,219,LLPC3,visual_projection
+LC18,98,CNS neuron,208,LC18,visual_projection
+LC9,87,CNS neuron,219,LC9,visual_projection
+LC10d,82,CNS neuron,214,LC10d,visual_projection
+Tm37,3,,280,Tm33,ol_intrinsic
+Dm12,3,CNS neuron,276,Dm12,ol_intrinsic
+Dm9,1,CNS neuron,273,Dm9,ol_intrinsic
+LPLC2,74,CNS neuron,185,LPLC2,visual_projection
+Sm03,5,,251,Cm4,ol_intrinsic
+Li05,48,,207,Li21,ol_intrinsic
+Li10,38,,217,Li14,ol_intrinsic
+Pm01,6,CNS neuron,246,Pm1,ol_intrinsic
+Li06,1,,245,Tm24,ol_intrinsic
+BM_vOcci_vPoOr,198,sensory neuron,26,BM_vOcci_vPoOr,cb_sensory
+Pm03,5,,219,Pm2a,ol_intrinsic
+LC15,96,,126,LC15,visual_projection
+Sm08,8,,214,Cm5,ol_intrinsic
+LC11,75,CNS neuron,143,LC11,visual_projection
+ORN_DA1,14,sensory neuron,204,ORN_DA1,cb_sensory
+Sm06,6,,211,Cm6,ol_intrinsic
+LB3,128,sensory neuron,87,LB3d,cb_sensory
+LC21,60,CNS neuron,153,LC21,visual_projection
+Y4,3,,208,Y14,ol_intrinsic
+ORN_VA1v,76,sensory neuron,130,ORN_VA1v,cb_sensory
+Y1,9,,193,Y13,ol_intrinsic
+MeTu3c,23,,173,MeTu3c,visual_projection
+Sm05,4,,191,Mi16,ol_intrinsic
+Y12,9,,186,Y12,ol_intrinsic
+LC4,68,CNS neuron,126,LC4,visual_projection
+LPC2,38,CNS neuron,154,LPC2,visual_projection
+Sm04,1,,189,Mi17,ol_intrinsic
+Sm12,7,,182,Cm8,ol_intrinsic
+Sm09,4,,184,Cm7,ol_intrinsic
+LC6,62,CNS neuron,124,LC6,visual_projection
+Pm02,4,CNS neuron,182,Pm5,ol_intrinsic
+MTe51,59,,122,MeVP1,visual_projection
+KCab-p,49,CNS neuron,129,KCab-p,cb_intrinsic
+Tlp1,38,,139,Tlp12,ol_intrinsic
+Tm32,2,,174,Tm34,ol_intrinsic
+LPLC1,35,CNS neuron,134,LPLC1,visual_projection
+TmY16,1,,168,TmY16,ol_intrinsic
+ORN_VA1d,35,sensory neuron,132,ORN_VA1d,cb_sensory
+MeTu4a,19,,146,MeTu4a,visual_projection
+Y11,12,,153,Y11,ol_intrinsic
+JO-B,147,sensory neuron,13,JO-B-unclear,cb_sensory
+Dm11,1,,158,Dm11,ol_intrinsic
+MLt3,13,,145,MeLo2,ol_intrinsic
+Tm8b,1,,155,Tm36,ol_intrinsic
+LC10e,45,CNS neuron,110,LC10e,visual_projection
+Sm15,8,,143,Cm9,ol_intrinsic
+MeTu4c,6,,143,MeTu4c,visual_projection
+Li02,27,,119,Li23,ol_intrinsic
+ORN_VL1,64,sensory neuron,82,ORN_VL1,cb_sensory
+LC22,70,,73,LC22,visual_projection
+ORN_DL3,40,sensory neuron,103,ORN_DL3,cb_sensory
+Li03,29,,113,Li27,ol_intrinsic
+LC10b,45,CNS neuron,95,LC10b,visual_projection
+LPLC4,43,CNS neuron,97,LPLC4,visual_projection
+LPi04,15,CNS neuron,123,LPi3a,ol_intrinsic
+BM_Taste,96,sensory neuron,40,BM_Taste,cb_sensory
+Li17,19,,117,Li25,ol_intrinsic
+MTe01a,36,,99,MeVP6,visual_projection
+ORN_VA2,51,sensory neuron,83,ORN_VA2,cb_sensory
+Tlp4,19,,115,Tlp13,ol_intrinsic
+cLP02,33,,101,LPT111,visual_centrifugal
+LC26,57,,75,LC26,visual_projection
+LPi09,9,,119,LPi34,ol_intrinsic
+Pm08,2,,124,Pm2b,ol_intrinsic
+MLt1,2,,123,MeLo1,ol_intrinsic
+ORN_VM5d,41,sensory neuron,84,ORN_VM5d,cb_sensory
+Tm31,1,,124,Tm30,ol_intrinsic
+LC24,30,,94,LC24,visual_projection
+MTe02,41,,76,MeVP2,visual_projection
+ORN_DM1,40,sensory neuron,74,ORN_DM1,cb_sensory
+LPi07,7,,104,LPi3412,ol_intrinsic
+ORN_DL1,28,sensory neuron,83,ORN_DL1,cb_sensory
+Li13,41,,65,Li13,ol_intrinsic
+LC20b,26,CNS neuron,79,LC20b,visual_projection
+ORN_VL2a,4,sensory neuron,98,ORN_VL2a,cb_sensory
+ORN_VM4,24,sensory neuron,78,ORN_VM4,cb_sensory
+LCe02,44,,57,LC30,visual_projection
+Dm20,2,CNS neuron,98,Dm20,ol_intrinsic
+LPi05,4,,95,LPi2e,ol_intrinsic
+Sm10,9,,89,Cm10,ol_intrinsic
+vDeltaA_a,28,,70,vDeltaA_a,cb_intrinsic
+MLt4,1,,96,MeLo7,ol_intrinsic
+MTe54,27,,69,MeVP3,visual_projection
+ORN_V,41,sensory neuron,55,ORN_V,cb_sensory
+MTe01b,43,,52,MeVP7,visual_projection
+LCe03,43,,51,LoVP13,visual_projection
+MeTu3b,13,,80,MeTu3b,visual_projection
+ORN_DM2,38,sensory neuron,54,ORN_DM2,cb_sensory
+ORN_DM6,33,sensory neuron,58,ORN_DM6,cb_sensory
+LC25,34,CNS neuron,56,LC25,visual_projection
+vDeltaK,43,,47,vDeltaK,cb_intrinsic
+LMa1,16,,73,MeLo13,ol_intrinsic
+LMa4,3,,86,TmY19a,ol_intrinsic
+Tm34,2,,86,Tm35,ol_intrinsic
+ORN_VA6,24,sensory neuron,63,ORN_VA6,cb_sensory
+LLPt,17,,69,LOLP1,ol_intrinsic
+FS3,9,,76,FS3_d,cb_intrinsic
+MeTu2a,15,,70,MeTu2a,visual_projection
+Dm1,2,CNS neuron,80,Dm1,ol_intrinsic
+MTe50,27,,55,MeVP11,visual_projection
+cLP01,21,,61,LPT112,visual_centrifugal
+Tlp5,13,,68,Tlp11,ol_intrinsic
+PFNa,22,,58,PFNa,cb_intrinsic
+Sm16,10,,70,Cm12,ol_intrinsic
+Pm04,5,,74,Pm10,ol_intrinsic
+Sm19,3,,75,Cm11a,ol_intrinsic
+FC3,25,,52,FC3_b,cb_intrinsic
+LC20a,13,,62,LC20a,visual_projection
+LMt4,25,,50,MeLo11,ol_intrinsic
+Li11,7,,68,Li34a,ol_intrinsic
+MTe03,14,,61,MeVP10,visual_projection
+vDeltaA_b,44,,31,vDeltaA_b,cb_intrinsic
+LC27,28,,46,LC27,visual_projection
+LC40,40,CNS neuron,34,LC40,visual_projection
+ORN_VM2,32,sensory neuron,41,ORN_VM2,cb_sensory
+LC28a,10,,62,LC28,visual_projection
+Li18,21,,51,Li19,ol_intrinsic
+ORN_DM3,9,sensory neuron,63,ORN_DM3,cb_sensory
+ORN_VM3,29,sensory neuron,43,ORN_VM3,cb_sensory
+FS4A,14,,57,FS4A,cb_intrinsic
+LC28b,9,,61,LoVP5,visual_projection
+Pm09,1,,69,Pm3,ol_intrinsic
+LMt2,7,,61,MeLo10,ol_intrinsic
+LC31a,35,,32,LC31a,visual_projection
+LCe01b,15,,52,LoVP1,visual_projection
+LPi11,6,,61,LPi43,ol_intrinsic
+Li09,7,,60,Li34b,ol_intrinsic
+Sm20,11,,56,Cm11b,ol_intrinsic
+Tlp14,9,,58,Tlp14,ol_intrinsic
+Dm6,4,CNS neuron,62,Dm6,ol_intrinsic
+FC1C,15,,51,FC1E,cb_intrinsic
+aMe5,24,,42,aMe5,visual_projection
+LPi02,4,,61,LPi2d,ol_intrinsic
+MLt7,3,,62,MeLo6,ol_intrinsic
+LPi10,10,,54,LPi2c,ol_intrinsic
+vDeltaM,9,,55,vDeltaM,cb_intrinsic
+Dm18,5,CNS neuron,58,Dm18,ol_intrinsic
+FC1D,38,,25,FC1D,cb_intrinsic
+LMt1,13,,50,MeLo12,ol_intrinsic
+ORN_DL4,1,,62,ORN_DL4,cb_sensory
+Li04,30,,31,Li18b,ol_intrinsic
+vDeltaL,23,,37,vDeltaL,cb_intrinsic
+MTe52,19,,40,MeVP4,visual_projection
+PAM08,9,,50,PAM08,cb_intrinsic
+FC2C,11,,47,FC2C,cb_intrinsic
+LCe04,16,,42,LoVP12,visual_projection
+Li08,9,,49,Li18a,ol_intrinsic
+Sm22,6,,52,Cm13,ol_intrinsic
+cLP03,19,,39,LPT114,visual_centrifugal
+vDeltaB,27,,31,vDeltaB,cb_intrinsic
+FS2,15,,42,FS2,cb_intrinsic
+LC33,25,,32,LC33,visual_projection
+ORN_DA2,9,sensory neuron,48,ORN_DA2,cb_sensory
+Dm13,3,CNS neuron,53,Dm13,ol_intrinsic
+ORN_DM5,21,sensory neuron,35,ORN_DM5,cb_sensory
+Pm10,2,,54,Pm9,ol_intrinsic
+DmDRA1,5,,50,Dm-DRA1,ol_intrinsic
+LPTe01,15,,40,LPT100,visual_projection
+LT52,21,,34,LT52,visual_projection
+ORN_VA3,25,sensory neuron,30,ORN_VA3,cb_sensory
+ORN_VL2p,10,sensory neuron,45,ORN_VL2p,cb_sensory
+LC29,14,,40,LC29,visual_projection
+LC36,22,,32,LC36,visual_projection
+ORN_DM4,22,sensory neuron,32,ORN_DM4,cb_sensory
+ORN_VC1,25,sensory neuron,29,ORN_VC1,cb_sensory
+AN_AVLP_53,23,sensory neuron,30,AN10B047,ascending_neuron
+LPi08,7,,46,LPi3b,ol_intrinsic
+ORN_VM7d,17,sensory neuron,36,ORN_VM7d,cb_sensory
+PFR_a,25,CNS neuron,28,PFR_a,cb_intrinsic
+Sm23,5,,48,Cm14,ol_intrinsic
+ORN_VM6v,18,sensory neuron,34,ORN_VM6v,cb_sensory
+PFNv,32,,20,PFNv,cb_intrinsic
+Sm13,5,,47,Cm15,ol_intrinsic
+EPG,5,,46,EPG,cb_intrinsic
+ORN_VA4,17,sensory neuron,34,ORN_VA4,cb_sensory
+ORN_VC5,20,sensory neuron,31,ORN_VC5,cb_sensory
+PFNd,10,,40,PFNd,cb_intrinsic
+ORN_VM5v,15,sensory neuron,34,ORN_VM5v,cb_sensory
+PAM01,5,,44,PAM01,cb_intrinsic
+LCe01a,4,,44,LoVP2,visual_projection
+LMa2,1,,47,MeLo8,ol_intrinsic
+LMt3,9,,39,MeLo14,ol_intrinsic
+ORN_VA7l,19,sensory neuron,29,ORN_VA7l,cb_sensory
+BM_MaPa,32,sensory neuron,15,BM_MaPa,cb_sensory
+Li12,7,,40,Li20,ol_intrinsic
+LC14b,3,,43,LC14b,ol_intrinsic
+ORN_DC1,14,sensory neuron,32,ORN_DC1,cb_sensory
+ORN_VA7m,22,sensory neuron,24,ORN_VA7m,cb_sensory
+Sm21,2,,44,Cm11c,ol_intrinsic
+FS4B,16,,29,FS4B,cb_intrinsic
+JO-A,21,sensory neuron,24,JO-A-unclear,cb_sensory
+LPi06,11,,34,LPi4a,ol_intrinsic
+Li15,4,CNS neuron,41,Li15,ol_intrinsic
+Li16,7,,38,Li26,ol_intrinsic
+ORN_DL5,2,sensory neuron,43,ORN_DL5,cb_sensory
+ORN_VC2,13,sensory neuron,32,ORN_VC2,cb_sensory
+ORN_VC3,11,sensory neuron,34,ORN_VC3,cb_sensory
+ORN_VM1,12,sensory neuron,33,ORN_VM1,cb_sensory
+ORN_VM7v,20,sensory neuron,25,ORN_VM7v,cb_sensory
+MeTu3a,2,,42,MeTu3a,visual_projection
+BM_Vib,21,sensory neuron,22,BM_Vib,cb_sensory
+Delta7,1,,42,Delta7,cb_intrinsic
+MTe04,12,,31,MeVP12,visual_projection
+SLP405,7,,36,SLP405_a,cb_intrinsic
+FC2B,15,,27,FC2B,cb_intrinsic
+vDeltaC,15,,27,vDeltaC,cb_intrinsic
+MeTu4d,1,,40,MeTu4d,visual_projection
+ORN_DC3,6,sensory neuron,35,ORN_DC3,cb_sensory
+Sm14,3,,38,Cm16,ol_intrinsic
+WED057,20,,21,WED057,cb_intrinsic
+LCe05,20,,20,LoVP7,visual_projection
+ORN_VC4,2,sensory neuron,38,ORN_VC4,cb_sensory
+LT51,17,,22,LT51,visual_projection
+ORN_DA3,5,sensory neuron,34,ORN_DA3,cb_sensory
+ORN_DA4m,4,sensory neuron,35,ORN_DA4m,cb_sensory
+ORN_DP1l,6,sensory neuron,33,ORN_DP1l,cb_sensory
+vDeltaE,21,,18,vDeltaE,cb_intrinsic
+HRN_VP4,10,sensory neuron,28,HRN_VP4,cb_sensory
+LPi01,5,,33,LPi14,ol_intrinsic
+MeTu4b,6,,32,MeTu4b,visual_projection
+ORN_D,10,sensory neuron,28,ORN_D,cb_sensory
+ORN_DP1m,7,sensory neuron,31,ORN_DP1m,cb_sensory
+PAM04,6,,32,PAM04,cb_intrinsic
+hDeltaJ,7,,31,hDeltaJ,cb_intrinsic
+AN_AVLP_51,16,sensory neuron,21,AN10B045,ascending_neuron
+FS4C,9,,28,FS4C,cb_intrinsic
+LT57,16,CNS neuron,21,LoVP14,visual_projection
+MTe05,4,,33,MeVP14,visual_projection
+CB1078,10,CNS neuron,26,SAD057,cb_intrinsic
+IbSpsP,5,,31,IbSpsP,cb_intrinsic
+hDeltaK,5,,31,hDeltaK,cb_intrinsic
+LC45,12,,23,LoVP10,visual_projection
+ORN_DA4l,2,sensory neuron,33,ORN_DA4l,cb_sensory
+ORN_DL2v,12,sensory neuron,23,ORN_DL2v,cb_sensory
+ORN_VM6l,21,sensory neuron,14,ORN_VM6l,cb_sensory
+ORN_VM6m,10,sensory neuron,25,ORN_VM6m,cb_sensory
+PAM06,7,,28,PAM06,cb_intrinsic
+JO-CM,4,sensory neuron,30,JO-CM,cb_sensory
+Li14,1,,33,Tm23,ol_intrinsic
+TuBu03,11,,23,TuBu03,cb_intrinsic
+vDeltaD,13,,21,vDeltaD,cb_intrinsic
+AN_GNG_172,25,sensory neuron,8,AN07B085,ascending_neuron
+CB1876,8,,25,CB1876,cb_intrinsic
+ER3d_b,13,,20,ER3d_b,cb_intrinsic
+PFR_b,17,,16,PFR_b,cb_intrinsic
+PLP115_b,11,,22,PLP115_b,cb_intrinsic
+lLN1_bc,3,,30,lLN1_bc,cb_intrinsic
+FR1,14,,18,FR1,cb_intrinsic
+LC14a1,2,,30,LC14a-1,ol_intrinsic
+Li07,5,,27,Li35,ol_intrinsic
+MeTu2b,1,,31,MeTu2b,visual_projection
+ORN_DC2,10,sensory neuron,22,ORN_DC2,cb_sensory
+ORN_DC4,9,sensory neuron,23,ORN_DC4,cb_sensory
+Sm18,6,,26,Cm20,ol_intrinsic
+TuBu07,11,,21,TuBu07,cb_intrinsic
+ER4d,5,,26,ER4d,cb_intrinsic
+JO-CL,12,sensory neuron,19,JO-CL,cb_sensory
+LC37,16,,15,LC37,visual_projection
+PEN_b(PEN2),9,,22,PEN_b(PEN2),cb_intrinsic
+AN_AVLP_GNG_23,19,,11,AN05B062,ascending_neuron
+MeMe_e02,11,,19,MeVPMe5,ol_intrinsic
+Pm11,2,,28,Pm7,ol_intrinsic
+Sm43,2,,28,Cm18,ol_intrinsic
+TuBu08,9,,21,TuBu08,cb_intrinsic
+CB2357,15,,14,CRE054,cb_intrinsic
+DNg07,13,CNS neuron,16,DNg07,descending_neuron
+DNg12_e,23,CNS neuron,6,DNg12_e,descending_neuron
+LTe09,7,,22,LoVP8,visual_projection
+PFL3,5,,24,PFL3,cb_intrinsic
+SMP568,8,,21,SMP568_a,cb_intrinsic
+EL,10,,18,EL,cb_intrinsic
+PAM05,8,,20,PAM05,cb_intrinsic
+PAM12,6,,22,PAM12,cb_intrinsic
+PEN_a(PEN1),8,,20,PEN_a(PEN1),cb_intrinsic
+Sm30,3,,25,Cm21,ol_intrinsic
+WED033,14,,14,WED033,cb_intrinsic
+CB1079,13,,14,CRE055,cb_intrinsic
+MTe06,3,,24,MeVP15,visual_projection
+MTe07,13,sensory neuron,14,MeVPLo2,visual_projection
+LC46,14,CNS neuron,12,LC46b,visual_projection
+SIP076,8,,18,SIP076,cb_intrinsic
+cL01,4,,22,LoVC25,visual_centrifugal
+AN_IPS_GNG_6,12,,13,AN07B050,ascending_neuron
+CB1072,11,,14,CB1072,cb_intrinsic
+DNge071,9,CNS neuron,16,DNge071,descending_neuron
+aMe4,6,,19,aMe4,visual_centrifugal
+hDeltaB,6,,19,hDeltaB,cb_intrinsic
+CB1322,14,,10,CB1322,cb_intrinsic
+DNg10,12,CNS neuron,12,DNg10,descending_neuron
+LC43,10,,14,LC43,visual_projection
+LT70,13,,11,LT70,visual_centrifugal
+MTe53,7,,17,MeVP5,visual_projection
+ORN_VA5,8,sensory neuron,16,ORN_VA5,cb_sensory
+PFGs,6,,18,PFGs,cb_intrinsic
+vDeltaF,6,,18,vDeltaF,cb_intrinsic
+CB0943,8,,15,CB0943,cb_intrinsic
+CB1008,3,,20,CB1008,cb_intrinsic
+CB1094,13,,10,CB1094,cb_intrinsic
+CB2353,11,,12,GNG610,cb_intrinsic
+DNge019,9,CNS neuron,14,DNge019,descending_neuron
+DNge091,5,CNS neuron,18,DNge091,descending_neuron
+FB5V,6,,17,FB5V_a,cb_intrinsic
+FC2A,5,,18,FC2A,cb_intrinsic
+FR2,5,,18,FR2,cb_intrinsic
+HRN_VP1d,5,sensory neuron,18,HRN_VP1d,cb_sensory
+LC41,10,,13,LC41,visual_projection
+LHPV5b1,3,,20,LHPV5b1,cb_intrinsic
+LHPV5b2,5,,18,LHPV5b2,cb_intrinsic
+LPTe02,12,,11,LPT101,visual_projection
+hDeltaC,3,,20,hDeltaC,cb_intrinsic
+AVLP454_a,12,,10,AVLP454_a1,cb_intrinsic
+CB0986,9,,13,CB0986,cb_intrinsic
+CB1062,14,,8,CB1062,cb_intrinsic
+CB1469,1,,21,GNG431,cb_intrinsic
+CB2685,9,,13,CB2685,cb_intrinsic
+DNg03,10,CNS neuron,12,DNg03,descending_neuron
+ER3m,4,,18,ER3m,cb_intrinsic
+HRN_VP5,10,sensory neuron,12,HRN_VP5,cb_sensory
+LTe58,11,,11,LoVP16,visual_projection
+LTe64,10,,12,LoVP18,visual_projection
+MTe08,8,,14,MeVP17,visual_projection
+hDeltaI,5,,17,hDeltaI,cb_intrinsic
+CB1042,9,,12,PS077,cb_intrinsic
+CB1479,9,,12,GNG428,cb_intrinsic
+CB2440,12,,9,CB2440,cb_intrinsic
+LC14a2,6,,15,LC14a-2,ol_intrinsic
+LHAD1a2,5,,16,LHAD1a2,cb_intrinsic
+LHAV4a4,4,glia,17,LHAV4a4,cb_intrinsic
+PAM02,4,,17,PAM02,cb_intrinsic
+PAM10,6,,15,PAM10,cb_intrinsic
+PAM13,5,,16,PAM13,cb_intrinsic
+CB0955,2,,18,AVLP377,cb_intrinsic
+CB1148,6,,14,CB1148,cb_intrinsic
+CB1154,2,,18,CB1154,cb_intrinsic
+CB1556,5,,15,CB1556,cb_intrinsic
+CB1932,8,,12,CB1932,cb_intrinsic
+CB2081,2,,18,CB2081_a,cb_intrinsic
+CB2242,7,,13,GNG401,cb_intrinsic
+CB2245,16,,4,CB2245,cb_intrinsic
+DNpe008,2,CNS neuron,18,DNpe008,descending_neuron
+LC19,6,CNS neuron,14,LC19,visual_projection
+LC35,8,,12,LC35a,visual_projection
+LCe09,7,,13,LoVP9,visual_projection
+OCC02b,4,,16,OCC02b,visual_centrifugal
+ORN_DL2d,5,sensory neuron,15,ORN_DL2d,cb_sensory
+PAM07,6,CNS neuron,14,PAM07,cb_intrinsic
+SLP188,6,,14,SLP188,cb_intrinsic
+SMP381,8,,12,SMP381_a,cb_intrinsic
+Sm17,1,,19,Cm22,ol_intrinsic
+cM19,6,,14,PVLP046,visual_centrifugal
+AN_AVLP_43,13,,6,AN10B029,ascending_neuron
+AN_GNG_197,8,,11,AN05B053,ascending_neuron
+AN_IPS_GNG_7,8,,11,AN04B003,ascending_neuron
+AN_multi_124,2,,17,AN09A005,ascending_neuron
+AOTU059,8,,11,AOTU059,cb_intrinsic
+BM_Hau,12,sensory neuron,7,BM_Hau,cb_sensory
+CB1055,10,,9,CB1055,cb_intrinsic
+CB1638,8,,11,CB1638,cb_intrinsic
+CB1648,4,,15,IB004_a,cb_intrinsic
+CB2047,12,,7,CB2047,cb_intrinsic
+DNg12_b,3,CNS neuron,16,DNg12_b,descending_neuron
+DNge094,6,CNS neuron,13,DNge094,descending_neuron
+DNp17,7,CNS neuron,12,DNp17,descending_neuron
+LCe07,8,,11,LC23,visual_projection
+LHAV2b2a,4,,15,LHAV2b2_a,cb_intrinsic
+LHAV6a3,8,,11,LHAV6a3,cb_intrinsic
+LHPV5a1,7,,12,LHPV5a1,cb_intrinsic
+LHPV5b3,6,,13,LHPV5b3,cb_intrinsic
+LTe65,7,CNS neuron,12,LoVP26,visual_projection
+MeMe_e08,7,,12,MeVPMe1,visual_projection
+PAM14,1,,18,PAM14,cb_intrinsic
+PEG,1,,18,PEG,cb_intrinsic
+PVLP082b,10,,9,PVLP082,cb_intrinsic
+Pm1,18,CNS neuron,1,T4_unclear,ol_intrinsic
+Sm26,1,,18,Cm11d,ol_intrinsic
+AN_GNG_175,12,CNS neuron,6,AN06A060,ascending_neuron
+AN_GNG_SAD_32,10,CNS neuron,8,AN08B031,ascending_neuron
+AVLP149,6,,12,AVLP149,cb_intrinsic
+AVLP454_b,8,,10,AVLP454_b1,cb_intrinsic
+CB0980,8,,10,AMMC026,cb_intrinsic
+CB1114,8,,10,CB1114,cb_intrinsic
+CB1712,7,,11,SMP352,cb_intrinsic
+CB2018,10,,8,CRE052,cb_intrinsic
+CL104,14,,4,CL104,cb_intrinsic
+DNg12_a,10,CNS neuron,8,DNg12_a,descending_neuron
+ER3d_d,7,,11,ER3d_d,cb_intrinsic
+LCe06,6,,12,LoVP93,visual_projection
+LHPV5c3,6,,12,LHPV5c3,cb_intrinsic
+PAM11,3,,15,PAM11,cb_intrinsic
+SLP189,5,,13,SLP189_b,cb_intrinsic
+Sm25,1,,17,Cm23,ol_intrinsic
+AN_GNG_164,4,,13,AN08B106,ascending_neuron
+AN_GNG_VES_7,11,,6,AN01B011,ascending_neuron
+AVLP045,7,,10,AVLP045,cb_intrinsic
+AVLP232,5,,12,AVLP232,cb_intrinsic
+CB0978,11,,6,AMMC004,cb_intrinsic
+CB0989,7,,10,AMMC020,cb_intrinsic
+CB0997,8,,9,LHAV2a2,cb_intrinsic
+CB1021,9,,8,GNG624,cb_intrinsic
+CB1125,7,,10,SAD004,cb_intrinsic
+CB1339,7,,10,CB1339,cb_intrinsic
+CB1978,5,,12,AMMC025,cb_intrinsic
+CB2290,5,,12,CB2290,cb_intrinsic
+CB2774,7,,10,PS335,cb_intrinsic
+CB2901,3,,14,SLP266,cb_intrinsic
+DNES1,7,efferent neuron,10,DNES1,cb_endocrine
+DNg106,1,CNS neuron,16,DNg106,descending_neuron
+LAL110,7,,10,LAL110,cb_intrinsic
+LHAD1c2c,9,,8,LHAD1c2,cb_intrinsic
+LPT31,9,,8,LPT31,visual_projection
+MeMe_e07,7,,10,MeVPMe2,visual_projection
+SLP285,5,,12,SLP285,cb_intrinsic
+SMP171,9,,8,SMP171,cb_intrinsic
+TRN_VP1m,6,sensory neuron,11,TRN_VP1m,cb_sensory
+VES022,6,,11,VES022,cb_intrinsic
+hDeltaA,5,,12,hDeltaA,cb_intrinsic
+AN_GNG_163,8,,8,AN07B070,ascending_neuron
+AVLP040,7,,9,AVLP040,cb_intrinsic
+CB1033,9,,7,CB1033,cb_intrinsic
+CB1169,1,,15,SAD117,cb_intrinsic
+CB1357,5,,11,CB1357,cb_intrinsic
+CB1457,7,,9,CB1457,cb_intrinsic
+CB1459,8,,8,AVLP103,cb_intrinsic
+CB1482,6,,10,GNG619,cb_intrinsic
+CB1654,9,,7,CB1654,cb_intrinsic
+CB1918,5,,11,CB1918,cb_intrinsic
+CB1995,8,,8,AVLP524_b,cb_intrinsic
+CB2638,10,,6,CB2638,cb_intrinsic
+CB2744,7,,9,CB2744,cb_intrinsic
+CB3200,8,,8,AMMC031,cb_intrinsic
+CL090_c,1,,15,CL090_c,cb_intrinsic
+DA1_lPN,3,,13,DA1_lPN,cb_intrinsic
+LC34,6,,10,LC34,visual_projection
+LC39,8,,8,LC39a,visual_projection
+LHAD1b5,4,,12,LHAD1b5,cb_intrinsic
+LT78,8,,8,LT78,visual_projection
+LTe43,7,CNS neuron,9,LoVP83,visual_projection
+LTe68,5,CNS neuron,11,LoVP84,visual_projection
+M_lPNm11D,4,,12,M_lPNm11D,cb_intrinsic
+PLP172,7,,9,PLP172,cb_intrinsic
+PS055,7,,9,PS055,cb_intrinsic
+PVLP111,7,,9,PVLP111,cb_intrinsic
+SLP240_b,9,,7,SLP240_b,cb_intrinsic
+SMP427,5,,11,SMP427,cb_intrinsic
+WED163c,10,,6,WED163,cb_intrinsic
+WEDPN8B,5,,11,WEDPN8B,cb_intrinsic
+cM04,8,sensory neuron,8,aMe2,visual_centrifugal
+hDeltaL,5,,11,hDeltaL,cb_intrinsic
+l-LNv,8,,8,l-LNv,ol_intrinsic
+AN_AVLP_22,13,,2,AN05B023c,ascending_neuron
+AN_AVLP_45,9,,6,AN10B020,ascending_neuron
+AN_GNG_162,7,CNS neuron,8,AN01B004,ascending_neuron
+AN_GNG_69,4,sensory neuron,11,AN05B054_b,ascending_neuron
+AOTU007,3,,12,AOTU007_b,cb_intrinsic
+CB0743,5,,10,CB0743,cb_intrinsic
+CB0956,6,sensory neuron,9,CB0956,cb_intrinsic
+CB0977,7,,8,GNG635,cb_intrinsic
+CB1205,9,,6,CB1205,cb_intrinsic
+CB1256,7,,8,AVLP199,cb_intrinsic
+CB1311,8,,7,GNG440,cb_intrinsic
+CB1330,6,,9,CB1330,cb_intrinsic
+CB1379,10,,5,CB1379,cb_intrinsic
+CB1427,5,,10,AMMC035,cb_intrinsic
+CB1439,7,,8,WED201,cb_intrinsic
+CB1794,7,,8,CB1794,cb_intrinsic
+CB1826,7,,8,AMMC003,cb_intrinsic
+CB1851,5,,10,IB002,cb_intrinsic
+CB1881,7,,8,WED143_a,cb_intrinsic
+CB1920,4,,11,PVLP072,cb_intrinsic
+CB1997,2,,13,CB1997,cb_intrinsic
+CB2050,6,,9,CB2050,cb_intrinsic
+CB2066,5,,10,CB2066,cb_intrinsic
+CB2148,5,,10,CB2148,cb_intrinsic
+CB2259,8,,7,IB004_b,cb_intrinsic
+CB2342,5,,10,CB2342,cb_intrinsic
+CB2431,9,,6,CB2431,cb_intrinsic
+CB2448,6,,9,CB2448,cb_intrinsic
+CB2503,9,,6,CB2503,cb_intrinsic
+CB2558,2,,13,CB2558,cb_intrinsic
+CB3386,7,,8,SLP229,cb_intrinsic
+CL091,6,,9,CL091,cb_intrinsic
+CL182,5,,10,CL182,cb_intrinsic
+DNpe054,7,CNS neuron,8,DNpe054,descending_neuron
+LHAV1a3,3,,12,LHAV1a3,cb_intrinsic
+LTe66,9,CNS neuron,6,LoVP25,visual_projection
+MTe10,7,,8,MeVP54,visual_projection
+MeMe_e01,3,,12,MeVPMe9,visual_projection
+PFL1,1,,14,PFL1,cb_intrinsic
+PLP064_a,7,,8,PLP064_a,cb_intrinsic
+PLP158,5,sensory neuron,10,PLP158,cb_intrinsic
+PVLP097,1,,14,PVLP097,cb_intrinsic
+PVLP133,11,,4,PVLP133,cb_intrinsic
+SLP289,4,,11,SLP289,cb_intrinsic
+SMP261,2,,13,SMP261,cb_intrinsic
+WED002,3,,12,WED002,cb_intrinsic
+WED028,9,,6,WED028,cb_intrinsic
+WED040,8,,7,WED040_b,cb_intrinsic
+WED162,6,,9,WED162,cb_intrinsic
+cL02b,5,,10,LoVC27,visual_centrifugal
+vDeltaJ,4,,11,vDeltaJ,cb_intrinsic
+AN_GNG_178,9,CNS neuron,5,AN06B002,ascending_neuron
+AN_GNG_IPS_19,3,sensory neuron,11,AN07B069_b,ascending_neuron
+AVLP297,6,,8,AVLP297,cb_intrinsic
+AVLP486,5,,9,AVLP486,cb_intrinsic
+AVLP494,8,,6,AVLP494,cb_intrinsic
+AVLP541a,6,,8,AVLP541,cb_intrinsic
+BM_Vt_PoOc,6,sensory neuron,8,BM_Vt_PoOc,cb_sensory
+CB0825,9,,5,GNG465,cb_intrinsic
+CB0951,8,,6,CB0951,cb_intrinsic
+CB1046,2,,12,WED143_c,cb_intrinsic
+CB1145,7,,7,CB1145,cb_intrinsic
+CB1170,7,,7,SLP176,cb_intrinsic
+CB1227,3,,11,CB1227,cb_intrinsic
+CB1258,7,,7,LHPV2b3,cb_intrinsic
+CB1292,8,,6,LAL189,cb_intrinsic
+CB1424,9,,5,GNG435,cb_intrinsic
+CB1552,6,,8,AVLP526,cb_intrinsic
+CB1640,3,,11,LHAV7b1,cb_intrinsic
+CB1983,8,,6,CB1983,cb_intrinsic
+CB2195,6,,8,GNG309,cb_intrinsic
+CB2292,4,,10,CB2292,cb_intrinsic
+CB2343,6,,8,CB2343,cb_intrinsic
+CB2701,9,,5,CB2701,cb_intrinsic
+CB2872,7,,7,PS353,cb_intrinsic
+CB3050,3,,11,CB3050,cb_intrinsic
+CB3739,7,,7,CB3739,cb_intrinsic
+CL252,6,,8,CL252,cb_intrinsic
+CRE044,6,,8,CRE044,cb_intrinsic
+CRE068,10,,4,CRE068,cb_intrinsic
+DNge085,6,CNS neuron,8,DNge085,descending_neuron
+FB6A,8,,6,FB6A_a,cb_intrinsic
+FB8G,8,,6,FB8G,cb_intrinsic
+IB032,6,,8,IB032,cb_intrinsic
+LHAV4a1_b,6,,8,LHAV4a1_b,cb_intrinsic
+LHPV6r1,4,,10,,cb_intrinsic
+Li22,1,,13,Li28,ol_intrinsic
+PFL2,2,,12,PFL2,cb_intrinsic
+PLP181,10,,4,PLP181,cb_intrinsic
+SA_VTV_6,3,sensory neuron,11,SAxx02,sensory_ascending
+SIP003_a,4,,10,SIP003_a,cb_intrinsic
+SLP275,4,,10,SLP275,cb_intrinsic
+SMP409,3,,11,SMP409,cb_intrinsic
+SMP452,4,,10,SMP452,cb_intrinsic
+TuBu04,2,,12,TuBu04,cb_intrinsic
+VC5_lvPN,2,,12,VC5_lvPN,cb_intrinsic
+WED056,6,,8,WED056,cb_intrinsic
+cL03,4,,10,LoVC24,visual_centrifugal
+hDeltaD,6,,8,hDeltaD,cb_intrinsic
+lLN2X12,1,,13,lLN2X12,cb_intrinsic
+AN_AVLP_34,7,,6,AN10B027,ascending_neuron
+AN_GNG_182,2,,11,AN08B081,ascending_neuron
+AN_GNG_187,6,,7,AN08B098,ascending_neuron
+AVLP550b,2,,11,AVLP550b,cb_intrinsic
+CB0738,2,,11,PVLP064,cb_intrinsic
+CB1073,7,,6,CB1073,cb_intrinsic
+CB1098,5,,8,AMMC015,cb_intrinsic
+CB1181,7,,6,CB1181,cb_intrinsic
+CB1268,2,,11,CB1268,cb_intrinsic
+CB1295,5,,8,PRW039,cb_intrinsic
+CB1355,6,,7,LAL136_b,cb_intrinsic
+CB1372,4,,9,SMP738,cb_intrinsic
+CB1401,4,,9,LHAV4d5,cb_intrinsic
+CB1454,5,,8,CRE051,cb_intrinsic
+CB1510,9,,4,CB1510,cb_intrinsic
+CB1728,7,,6,GNG416,cb_intrinsic
+CB1750,5,,8,LAL060_a,cb_intrinsic
+CB1827,5,,8,WED009,cb_intrinsic
+CB1897,3,,10,CB1897,cb_intrinsic
+CB2037,7,,6,CB2037,cb_intrinsic
+CB2049,5,,8,CB2049,cb_intrinsic
+CB2171,5,,8,AVLP311_b1,cb_intrinsic
+CB2186,5,,8,AVLP349,cb_intrinsic
+CB2246,6,,7,CB2246,cb_intrinsic
+CB2392,5,,8,PS341,cb_intrinsic
+CB2896,5,,8,CB2896,cb_intrinsic
+CB2989,3,,10,SLP267,cb_intrinsic
+CB3033,5,,8,LAL050,cb_intrinsic
+CB3269,9,,4,CB3269,cb_intrinsic
+CB3320,7,,6,CB3320,cb_intrinsic
+CB3865,3,,10,CB3865,cb_intrinsic
+CL048,6,,7,CL048,cb_intrinsic
+DNg02_a,3,CNS neuron,10,DNg02_a,descending_neuron
+DNg09,5,CNS neuron,8,DNg09_a,descending_neuron
+DNge025,10,CNS neuron,3,DNge025,descending_neuron
+DNpe009,3,CNS neuron,10,DNpe009,descending_neuron
+HRN_VP1l,5,sensory neuron,8,HRN_VP1l,cb_sensory
+JO-mz,2,sensory neuron,11,JO-mz,cb_sensory
+LAL021,5,,8,LAL021,cb_intrinsic
+LAL031,7,,6,LAL031,cb_intrinsic
+LAL087,3,,10,LAL087,cb_intrinsic
+LCe08,1,,12,LoVP3,visual_projection
+LHAV4b2,3,,10,LHAV4b2,cb_intrinsic
+LHAV4c2,4,,9,LHAV4c2,cb_intrinsic
+LHAV4d1,1,,12,LHAV4d1,cb_intrinsic
+LHPV4a10,1,,12,LHPV4a10,cb_intrinsic
+LHPV4h1,4,,9,LHPV4h1,cb_intrinsic
+LHPV5c1,5,,8,LHPV5c1,cb_intrinsic
+LHPV6f1,2,,11,LHPV6f1,cb_intrinsic
+LT81,2,,11,LT81,visual_projection
+LTe38a,5,,8,LoVP17,visual_projection
+MBON10,4,,9,MBON10,cb_intrinsic
+MTe09,5,,8,MeVP16,visual_projection
+PAM03,1,,12,PAM03,cb_intrinsic
+PAM09,4,,9,PAM09,cb_intrinsic
+PLP046b,9,,4,PLP046,cb_intrinsic
+PLP182,11,,2,PLP182,cb_intrinsic
+PS002,7,,6,PS002,cb_intrinsic
+PVLP112b,7,,6,PVLP112,cb_intrinsic
+SIP047b,5,,8,SIP047,cb_intrinsic
+SMP281,2,,11,SMP281,cb_intrinsic
+SMP282,4,,9,SMP282,cb_intrinsic
+SMP461,5,,8,SMP461,cb_intrinsic
+TuBu02,1,,12,TuBu02,cb_intrinsic
+TuBu05,2,,11,TuBu05,cb_intrinsic
+TuBu06,3,,10,TuBu06,cb_intrinsic
+VM5d_adPN,1,,12,VM5d_adPN,cb_intrinsic
+WED032,5,,8,WED032,cb_intrinsic
+WED164b,7,,6,WED164,cb_intrinsic
+WEDPN1A,3,,10,WEDPN1A,cb_intrinsic
+hDeltaH,5,,8,hDeltaH,cb_intrinsic
+mAL4,9,,4,mAL4A,cb_intrinsic
+v2LN3A1_b,4,,9,v2LN3A1_b,cb_intrinsic
+AN_GNG_92,6,,6,AN05B104,ascending_neuron
+AN_IPS_LAL_1,6,CNS neuron,6,AN07B037_a,ascending_neuron
+AOTU050b,4,,8,AOTU050,cb_intrinsic
+AOTU060,5,,7,AOTU060,cb_intrinsic
+AVLP051,6,,6,AVLP051,cb_intrinsic
+AVLP300_a,7,,5,AVLP300_a,cb_intrinsic
+CB0946,1,,11,SLP324,cb_intrinsic
+CB0957,6,,6,AMMC036,cb_intrinsic
+CB0961,1,,11,GNG454,cb_intrinsic
+CB1023,3,,9,CB1023,cb_intrinsic
+CB1064,6,,6,CRE028,cb_intrinsic
+CB1096,6,,6,PRW042,cb_intrinsic
+CB1168,3,,9,CB1168,cb_intrinsic
+CB1251,4,,8,CRE039,cb_intrinsic
+CB1265,5,,7,CB1265,cb_intrinsic
+CB1340,3,,9,PVLP085,cb_intrinsic
+CB1359,2,,10,CB1359,cb_intrinsic
+CB1383,4,,8,WED055_b,cb_intrinsic
+CB1399,7,,5,AVLP004_a,cb_intrinsic
+CB1543,6,,6,AVLP525,cb_intrinsic
+CB1558,5,,7,AOTU055,cb_intrinsic
+CB1586,4,,8,SMP487,cb_intrinsic
+CB1601,5,,7,CB1601,cb_intrinsic
+CB1604,3,,9,CB1604,cb_intrinsic
+CB1699,6,,6,CB1699,cb_intrinsic
+CB1705,4,,8,CB1705,cb_intrinsic
+CB1717,9,,3,CB1717,cb_intrinsic
+CB1783,6,,6,aSP10A_a,cb_intrinsic
+CB1789,3,,9,CB1789,cb_intrinsic
+CB1812,6,,6,CB1812,cb_intrinsic
+CB1852,3,,9,CB1852,cb_intrinsic
+CB1891,4,,8,VES034_b,cb_intrinsic
+CB1923,1,,11,CB1923,cb_intrinsic
+CB1937,2,,10,GNG410,cb_intrinsic
+CB1948,5,,7,CB1948,cb_intrinsic
+CB1957,4,,8,SMP450,cb_intrinsic
+CB2057,4,,8,AVLP168,cb_intrinsic
+CB2207,5,,7,CB2207,cb_intrinsic
+CB2252,3,,9,CB2252,cb_intrinsic
+CB2479,4,,8,CB2479,cb_intrinsic
+CB2539,3,,9,CB2539,cb_intrinsic
+CB2625,4,,8,CB2625,cb_intrinsic
+CB2659,7,,5,CB2659,cb_intrinsic
+CB2710,1,,11,WEDPN8C,cb_intrinsic
+CB2720,4,,8,CB2720,cb_intrinsic
+CB2792,4,,8,CB2792,cb_intrinsic
+CB2919,6,,6,CB2919,cb_intrinsic
+CB3037,7,,5,GNG376,cb_intrinsic
+CB3043,5,,7,CB3043,cb_intrinsic
+CB3189,9,sensory neuron,3,GNG371,cb_intrinsic
+CB3293,7,,5,CB3293,cb_intrinsic
+CB3873,8,,4,CB3873,cb_intrinsic
+CL089_b,5,,7,CL089_b,cb_intrinsic
+CL210_a,2,,10,CL210_a,cb_intrinsic
+CL283c,8,,4,CL283_c,cb_intrinsic
+CRE065,6,,6,CRE065,cb_intrinsic
+DL3_lPN,1,,11,DL3_lPN,cb_intrinsic
+ER4m,1,,11,ER4m,cb_intrinsic
+FB4A,4,,8,FB4A_a,cb_intrinsic
+FB5W,3,,9,FB5W_a,cb_intrinsic
+IB084,5,,7,IB084,cb_intrinsic
+LAL022,6,,6,LAL022,cb_intrinsic
+LAL048,2,,10,LAL048,cb_intrinsic
+LAL196,6,,6,LAL196,cb_intrinsic
+LHAV1d2,2,,10,LHAV1d2,cb_intrinsic
+LHAV2b1,4,,8,LHAV2b1,cb_intrinsic
+LPi03,1,,11,LPi3c,ol_intrinsic
+LTe01,6,,6,LoVP32,visual_projection
+LTe63,6,,6,LoVP33,visual_projection
+MTe11,6,,6,MeVP58,visual_projection
+PLP025b,4,,8,PLP025,cb_intrinsic
+PLP037b,4,,8,PLP037,cb_intrinsic
+PLP089b,5,,7,PLP089,cb_intrinsic
+PLP108,3,,9,PLP108,cb_intrinsic
+PLP180,6,,6,PLP180,cb_intrinsic
+PVLP007,1,,11,PVLP007,cb_intrinsic
+PVLP060,6,,6,PVLP060,cb_intrinsic
+SA1,3,,9,SA1_b,cb_intrinsic
+SA2,3,,9,SA2_b,cb_intrinsic
+SA3,4,,8,SA3,cb_intrinsic
+SIP015,4,,8,SIP015,cb_intrinsic
+SIP089,3,,9,SIP089,cb_intrinsic
+SLP152,4,,8,SLP152,cb_intrinsic
+SLP314,4,,8,SLP314,cb_intrinsic
+SMP307,4,,8,SMP307,cb_intrinsic
+VST1,7,,5,VST1,visual_projection
+VST2,5,,7,VST2,visual_projection
+WEDPN6A,4,,8,WEDPN6A,cb_intrinsic
+cL02a,6,,6,LoVC26,visual_centrifugal
+AN_AVLP_GNG_21,5,,6,AN10B019,ascending_neuron
+AN_GNG_169,7,,4,ANXXX024,ascending_neuron
+AN_GNG_190,7,,4,AN17A013,ascending_neuron
+AVLP121,5,,6,AVLP121,cb_intrinsic
+AVLP178,8,,3,AVLP178,cb_intrinsic
+AVLP283,6,,5,AVLP283,cb_intrinsic
+AVLP295,5,,6,AVLP295,cb_intrinsic
+AVLP299_b,6,,5,AVLP299_b,cb_intrinsic
+AVLP584,3,,8,AVLP584,cb_intrinsic
+CB0930,5,,6,CB0930,cb_intrinsic
+CB0975,3,,8,CB0975,cb_intrinsic
+CB0981,5,,6,PS345,cb_intrinsic
+CB1011,2,,9,CB1011,cb_intrinsic
+CB1012,4,,7,CB1012,cb_intrinsic
+CB1030,5,,6,CB1030,cb_intrinsic
+CB1049,3,,8,PRW044,cb_intrinsic
+CB1109,1,,10,CB1109,cb_intrinsic
+CB1201,2,,9,CB1201,cb_intrinsic
+CB1220,2,,9,CB1220,cb_intrinsic
+CB1260,6,,5,CB1260,cb_intrinsic
+CB1276,3,,8,CB1276,cb_intrinsic
+CB1289,4,,7,CB1289,cb_intrinsic
+CB1291,5,,6,GNG662,cb_intrinsic
+CB1333,1,,10,CB1333,cb_intrinsic
+CB1342,1,CNS neuron,10,PS331,cb_intrinsic
+CB1369,5,,6,PRW037,cb_intrinsic
+CB1417,5,,6,CB1417,cb_intrinsic
+CB1451,4,,7,CL189,cb_intrinsic
+CB1523,6,,5,CB1523,cb_intrinsic
+CB1542,1,CNS neuron,10,SAD051_a,cb_intrinsic
+CB1565,7,,4,CB1565,cb_intrinsic
+CB1570,1,,10,CB1570,cb_intrinsic
+CB1583,5,,6,GNG422,cb_intrinsic
+CB1595,2,,9,CB1595,cb_intrinsic
+CB1663,5,,6,CB1663,cb_intrinsic
+CB1809,5,,6,CB1809,cb_intrinsic
+CB1833,2,,9,CB1833,cb_intrinsic
+CB1853,6,,5,CB1853,cb_intrinsic
+CB1901,2,,9,CB1901,cb_intrinsic
+CB1953,5,,6,"LHPV6h3,SLP276",cb_intrinsic
+CB2131,3,,8,aIPg1,cb_intrinsic
+CB2190,2,,9,WED040_a,cb_intrinsic
+CB2205,7,,4,CB2205,cb_intrinsic
+CB2214,2,,9,SIP074_b,cb_intrinsic
+CB2216,3,,8,AOTU056,cb_intrinsic
+CB2287,9,,2,AVLP548_g1,cb_intrinsic
+CB2297,5,,6,SLP334,cb_intrinsic
+CB2428,7,,4,AVLP179,cb_intrinsic
+CB2708,3,,8,IB054,cb_intrinsic
+CB2757,4,,7,LHAV4g7_b,cb_intrinsic
+CB2778,6,,5,WEDPN18,cb_intrinsic
+CB2820,5,,6,GNG380,cb_intrinsic
+CB2834,5,,6,WED030_a,cb_intrinsic
+CB2892,3,,8,CB2892,cb_intrinsic
+CB3029,1,,10,AVLP387,cb_intrinsic
+CB3127,3,,8,AOTU001,cb_intrinsic
+CB3248,5,,6,LHPV6h1_b,cb_intrinsic
+CB3322,7,,4,CB3322,cb_intrinsic
+CB3366,1,,10,AVLP385,cb_intrinsic
+CB3417,1,,10,CB3417,cb_intrinsic
+CB3768,4,,7,CB3768,cb_intrinsic
+CB3860,7,,4,SMP321_a,cb_intrinsic
+CL086_c,2,,9,CL086_c,cb_intrinsic
+CL171,4,,7,CL171,cb_intrinsic
+CL268,5,,6,CL268,cb_intrinsic
+CL269,4,,7,CL269,cb_intrinsic
+CRE016,5,,6,CRE016,cb_intrinsic
+CRE103b,5,,6,CRE103,cb_intrinsic
+DL2d_adPN,2,,9,DL2d_adPN,cb_intrinsic
+DL2v_adPN,3,,8,DL2v_adPN,cb_intrinsic
+DNg01,2,CNS neuron,9,DNg01_a,descending_neuron
+DNge020,3,CNS neuron,8,DNge020,descending_neuron
+FB7A,5,,6,FB7A,cb_intrinsic
+FB7E,5,,6,FB7E,cb_intrinsic
+FB8F_a,4,,7,FB8F_a,cb_intrinsic
+FB8F_b,2,,9,FB8F_b,cb_intrinsic
+FB8I,5,,6,FB8I,cb_intrinsic
+LAL043a,5,,6,LAL043_a,cb_intrinsic
+LHAV7a3,3,,8,LHAV7a3,cb_intrinsic
+LHPD4b1a,3,,8,LHPD4b1,cb_intrinsic
+LHPV2e1_a,5,,6,LHPV2e1_a,cb_intrinsic
+LHPV5d1,3,,8,LHPV5d1,cb_intrinsic
+MC65,5,,6,MeVP62,visual_projection
+M_vPNml53,3,,8,M_vPNml53,cb_intrinsic
+PLP160,4,,7,PLP160,cb_intrinsic
+PS192,7,,4,PS192,cb_intrinsic
+PS194,5,,6,PS194,cb_intrinsic
+PVLP088,4,,7,PVLP088,cb_intrinsic
+PVLP092,5,,6,PVLP092,cb_intrinsic
+PVLP099,3,,8,PVLP099,cb_intrinsic
+PVLP103,4,,7,PVLP103,cb_intrinsic
+SIP027,4,,7,SIP027,cb_intrinsic
+SLP160,2,,9,SLP160,cb_intrinsic
+SLP312,5,,6,SLP312,cb_intrinsic
+SMP006,2,,9,SMP006,cb_intrinsic
+SMP008,2,,9,SMP008,cb_intrinsic
+SMP262,5,,6,SMP262,cb_intrinsic
+SMP408_d,1,,10,SMP408_d,cb_intrinsic
+SMP429,5,,6,SMP429,cb_intrinsic
+SMP578,5,,6,SMP578,cb_intrinsic
+TRN_VP2,4,sensory neuron,7,TRN_VP2,cb_sensory
+WED023,5,,6,WED023,cb_intrinsic
+WED095,3,,8,WED095,cb_intrinsic
+aMe26,5,,6,aMe26,visual_projection
+cL02c,4,,7,LoVC29,visual_centrifugal
+cL18,5,,6,LoVC15,visual_centrifugal
+cM08c,5,,6,MeVC20,visual_centrifugal
+hDeltaE,3,,8,hDeltaE,cb_intrinsic
+hDeltaG,3,,8,hDeltaG,cb_intrinsic
+AN_AVLP_SAD_5,7,,3,AN10B045,ascending_neuron
+AOTU015,2,,8,AOTU015,cb_intrinsic
+AOTU062,4,,6,AOTU062,cb_intrinsic
+AVLP039,4,,6,AVLP039,cb_intrinsic
+AVLP049,3,,7,AVLP049,cb_intrinsic
+AVLP050,3,,7,AVLP050,cb_intrinsic
+AVLP224_a,4,,6,AVLP224_a,cb_intrinsic
+AVLP230,4,,6,AVLP230,cb_intrinsic
+AVLP309b,4,,6,AVLP309,cb_intrinsic
+AVLP347,6,,4,AVLP347,cb_intrinsic
+AVLP394,4,,6,AVLP394,cb_intrinsic
+AVLP523,4,,6,AVLP523,cb_intrinsic
+AVLP558,4,,6,AVLP558,cb_intrinsic
+CB.FB5D3,2,,8,FB5G_a,cb_intrinsic
+CB.FB8E1,2,,8,FB8H,cb_intrinsic
+CB0361,3,,7,AOTU004,cb_intrinsic
+CB0732,2,,8,PVLP098,cb_intrinsic
+CB0744,5,,5,CB0744,cb_intrinsic
+CB0973,2,,8,CB0973,cb_intrinsic
+CB1063,4,,6,CRE037,cb_intrinsic
+CB1149,3,,7,CB1149,cb_intrinsic
+CB1155,4,,6,SLP179_a,cb_intrinsic
+CB1163,2,,8,SMP174,cb_intrinsic
+CB1305,1,,9,LHAV2k5,cb_intrinsic
+CB1306,6,,4,SLP094_b,cb_intrinsic
+CB1435,5,,5,PS335,cb_intrinsic
+CB1437,4,,6,LHAV2k1,cb_intrinsic
+CB1458,4,,6,CB1458,cb_intrinsic
+CB1475,6,,4,GNG429,cb_intrinsic
+CB1488,5,,5,GNG320,cb_intrinsic
+CB1498,3,,7,AVLP452,cb_intrinsic
+CB1605,6,,4,AVLP401,cb_intrinsic
+CB1613,6,,4,CB1613,cb_intrinsic
+CB1622,5,,5,SAD078,cb_intrinsic
+CB1628,4,,6,CB1628,cb_intrinsic
+CB1781,2,,8,SMP243,cb_intrinsic
+CB1822,4,,6,GNG412,cb_intrinsic
+CB1836,1,,9,CB1836,cb_intrinsic
+CB1843,6,,4,LHAV2b5,cb_intrinsic
+CB1888,4,,6,CL274,cb_intrinsic
+CB1909,2,,8,CB1909,cb_intrinsic
+CB1939,1,,9,LHPD3a4_c,cb_intrinsic
+CB1979,4,,6,SLP040,cb_intrinsic
+CB2000,5,,5,CB2000,cb_intrinsic
+CB2002,4,,6,LAL061,cb_intrinsic
+CB2036,2,,8,SLP187,cb_intrinsic
+CB2079,4,,6,LHPV5j1,cb_intrinsic
+CB2149,2,,8,AMMC002,cb_intrinsic
+CB2198,2,,8,GNG402,cb_intrinsic
+CB2285,2,,8,CB2285,cb_intrinsic
+CB2302,5,,5,CB2302,cb_intrinsic
+CB2313,6,,4,AMMC016,cb_intrinsic
+CB2456,4,,6,GNG395,cb_intrinsic
+CB2501,4,,6,CB2501,cb_intrinsic
+CB2517,2,,8,SLP414,cb_intrinsic
+CB2545,6,,4,WED047,cb_intrinsic
+CB2552,6,,4,LHAD3f1_b,cb_intrinsic
+CB2567,2,,8,VES037,cb_intrinsic
+CB2582,4,,6,PS110,cb_intrinsic
+CB2592,3,,7,CB2592,cb_intrinsic
+CB2707,3,,7,LHPV4a5,cb_intrinsic
+CB2777,6,,4,AVLP166,cb_intrinsic
+CB2817,4,,6,SMP581,cb_intrinsic
+CB2831,3,,7,CB2831,cb_intrinsic
+CB2876,4,,6,CB2876,cb_intrinsic
+CB2957,4,,6,WED030_a,cb_intrinsic
+CB2968,5,,5,PRW024,cb_intrinsic
+CB2993,8,,2,CB2993,cb_intrinsic
+CB2995,5,,5,CB2995,cb_intrinsic
+CB3024,2,,8,CB3024,cb_intrinsic
+CB3054,4,,6,SLP322,cb_intrinsic
+CB3105,5,,5,SAD104,cb_intrinsic
+CB3143,6,,4,CB3143,cb_intrinsic
+CB3153,7,,3,GNG372,cb_intrinsic
+CB3245,4,glia,6,CB3245,cb_intrinsic
+CB3261,2,,8,CB3261,cb_intrinsic
+CB3308,2,,8,CB3308,cb_intrinsic
+CB3383,1,,9,VM6_lvPN,cb_intrinsic
+CB3385,7,,3,GNG363,cb_intrinsic
+CB3425,6,,4,AVLP354,cb_intrinsic
+CB3449,4,,6,SMP219,cb_intrinsic
+CB3486,4,CNS neuron,6,WED207,cb_intrinsic
+CB3503,4,,6,CB3503,cb_intrinsic
+CB3508,4,,6,SMP223,cb_intrinsic
+CB3539,5,,5,CB3539,cb_intrinsic
+CB3623,2,,8,VP2+Z_lvPN,cb_intrinsic
+CB3794,4,,6,PS337,cb_intrinsic
+CEM,4,,6,CEM,cb_motor
+CL023,4,,6,CL023,cb_intrinsic
+CL128c,4,,6,CL128_b,cb_intrinsic
+CL170,4,,6,CL170,cb_intrinsic
+CL253,6,,4,CL253,cb_intrinsic
+CL254,4,,6,CL254,cb_intrinsic
+CL272_b,6,,4,CL272_b1,cb_intrinsic
+CRE027,6,,4,CRE027,cb_intrinsic
+CRE056,1,,9,CRE056,cb_intrinsic
+CRE095b,5,,5,CRE095,cb_intrinsic
+DNp16,6,CNS neuron,4,DNp16_a,descending_neuron
+FB2M,4,,6,FB2M_a,cb_intrinsic
+FB4D,4,,6,FB4D_a,cb_intrinsic
+FB7K,6,,4,FB7K,cb_intrinsic
+LAL030a,8,,2,LAL030_b,cb_intrinsic
+LAL089,4,,6,LAL089,cb_intrinsic
+LC44,5,,5,LC44,visual_projection
+LHAV4b1,5,,5,LHAV4b1,cb_intrinsic
+LHPD4a1,2,,8,LHPD4a1,cb_intrinsic
+LT74,4,,6,LT74,visual_projection
+LT77,4,,6,LT77,visual_projection
+MTe12,4,,6,MeVP21,visual_projection
+PLP028,2,,8,PLP028,cb_intrinsic
+PLP042b,2,,8,PLP042_c,cb_intrinsic
+PLP099,3,,7,PLP099,cb_intrinsic
+PS188,3,,7,PS188,cb_intrinsic
+PS221,2,,8,PS221,cb_intrinsic
+PVLP033,1,,9,PVLP033,cb_intrinsic
+PVLP105,5,,5,PVLP105,cb_intrinsic
+PVLP113,3,,7,PVLP113,cb_intrinsic
+SAD021_a,4,,6,SAD021_a,cb_intrinsic
+SAD047,3,,7,SAD047,cb_intrinsic
+SIP003_b,4,,6,SIP003_b,cb_intrinsic
+SLP128,4,,6,SLP128,cb_intrinsic
+SLP222,6,,4,SLP222,cb_intrinsic
+SLP240_a,5,,5,SLP240_a,cb_intrinsic
+SLP290,4,,6,SLP290,cb_intrinsic
+SMP091,4,,6,SMP091,cb_intrinsic
+SMP172,5,,5,SMP172,cb_intrinsic
+SMP229,1,,9,SMP229,cb_intrinsic
+SMP248b,2,,8,SMP248_c,cb_intrinsic
+TRN_VP3a,4,sensory neuron,6,TRN_VP3a,cb_sensory
+VES020,4,,6,VES020,cb_intrinsic
+VP1l+_lvPN,1,,9,VP1l+_lvPN,cb_intrinsic
+WED012,5,,5,WED012,cb_intrinsic
+WED025,4,,6,WED025,cb_intrinsic
+WED100,4,,6,WED100,cb_intrinsic
+WED101,5,,5,WED101,cb_intrinsic
+WED114,4,,6,WED114,cb_intrinsic
+WED168,2,,8,WED168,cb_intrinsic
+hDeltaM,2,,8,hDeltaM,cb_intrinsic
+AOTU053,6,,3,AOTU053,cb_intrinsic
+AOTU058,1,,8,AOTU058,cb_intrinsic
+AOTU061,2,,7,AOTU061,cb_intrinsic
+AVLP047,3,,6,AVLP047,cb_intrinsic
+AVLP109,3,,6,AVLP109,cb_intrinsic
+AVLP136,5,,4,AVLP136,cb_intrinsic
+AVLP189_a,5,,4,AVLP189_a,cb_intrinsic
+AVLP229,3,,6,AVLP229,cb_intrinsic
+AVLP294,5,,4,AVLP294,cb_intrinsic
+AVLP298,6,,3,AVLP298,cb_intrinsic
+AVLP300_b,3,,6,AVLP300_b,cb_intrinsic
+AVLP312b,5,,4,AVLP312,cb_intrinsic
+AVLP465a,3,,6,AVLP465,cb_intrinsic
+CB.FBTI1,1,,8,SAF,cb_intrinsic
+CB0947,2,,7,CB0947,cb_intrinsic
+CB0952,1,,8,LHPV3a3_b,cb_intrinsic
+CB0982,5,sensory neuron,4,CB0982,cb_intrinsic
+CB1013,1,,8,v2LN34D,cb_intrinsic
+CB1024,1,,8,CB1024,cb_intrinsic
+CB1032,2,,7,"SLP283,SLP284",cb_intrinsic
+CB1048,1,,8,CB1048,cb_intrinsic
+CB1076,1,,8,CB1076,cb_intrinsic
+CB1100,2,,7,LHAV2h1,cb_intrinsic
+CB1131,4,,5,CB1131,cb_intrinsic
+CB1134,3,,6,LHPD4a2,cb_intrinsic
+CB1183,5,,4,LHAV2c1,cb_intrinsic
+CB1202,5,,4,CB1202,cb_intrinsic
+CB1229,4,,5,GNG444,cb_intrinsic
+CB1236,4,,5,AVLP176_d,cb_intrinsic
+CB1246,2,,7,CB1246,cb_intrinsic
+CB1253,1,,8,SMP740,cb_intrinsic
+CB1264,3,,6,GNG442,cb_intrinsic
+CB1296,2,,7,CB1296_a,cb_intrinsic
+CB1318,1,,8,SLP088_a,cb_intrinsic
+CB1345,1,,8,SMP739,cb_intrinsic
+CB1363,3,,6,LHPV2b3,cb_intrinsic
+CB1368,5,,4,CB1368,cb_intrinsic
+CB1397,1,,8,GNG438,cb_intrinsic
+CB1419,5,,4,CB1419,cb_intrinsic
+CB1420,5,,4,CL049,cb_intrinsic
+CB1504,4,,5,CB1504,cb_intrinsic
+CB1511,1,,8,LHPV4c1_b,cb_intrinsic
+CB1515,1,,8,LHPV4b4,cb_intrinsic
+CB1544,1,,8,PVLP048,cb_intrinsic
+CB1569,7,,2,AVLP318,cb_intrinsic
+CB1591,2,,7,CRE003_a,cb_intrinsic
+CB1637,3,,6,SLP038,cb_intrinsic
+CB1646,4,,5,LHPV4g2,cb_intrinsic
+CB1660,3,,6,AVLP485,cb_intrinsic
+CB1662,4,,5,GNG634,cb_intrinsic
+CB1664,3,,6,LHAV4b4,cb_intrinsic
+CB1665,5,,4,LHAV3b1,cb_intrinsic
+CB1696,1,,8,SLP217,cb_intrinsic
+CB1701,2,,7,CB1701,cb_intrinsic
+CB1708,5,,4,GNG613,cb_intrinsic
+CB1735,3,,6,CB1735,cb_intrinsic
+CB1804,5,,4,CB1804,cb_intrinsic
+CB1818,5,,4,CB1818,cb_intrinsic
+CB1838,1,,8,CB1838,cb_intrinsic
+CB1871,1,,8,CB1871,cb_intrinsic
+CB1885,2,,7,CB1885,cb_intrinsic
+CB1903,6,,3,CB1903,cb_intrinsic
+CB1975,1,,8,CB1975,cb_intrinsic
+CB2008,3,,6,AVLP410,cb_intrinsic
+CB2100,3,,6,AVLP329,cb_intrinsic
+CB2105,5,,4,CB2105,cb_intrinsic
+CB2135,3,,6,LHPV4i1,cb_intrinsic
+CB2139,4,,5,WED204,cb_intrinsic
+CB2202,3,,6,AVLP353,cb_intrinsic
+CB2203,4,,5,WED030_b,cb_intrinsic
+CB2208,1,,8,CB2208,cb_intrinsic
+CB2244,4,,5,LHPD2c6,cb_intrinsic
+CB2251,4,,5,CB2251,cb_intrinsic
+CB2269,4,,5,CB2269,cb_intrinsic
+CB2309,5,,4,CB2309,cb_intrinsic
+CB2341,4,,5,LAL136_a,cb_intrinsic
+CB2404,2,,7,CB2404,cb_intrinsic
+CB2415,7,,2,GNG659,cb_intrinsic
+CB2460,4,,5,LAL060_b,cb_intrinsic
+CB2461,4,,5,GNG657,cb_intrinsic
+CB2463,5,,4,CB2463,cb_intrinsic
+CB2476,3,,6,LHAV5a6_b,cb_intrinsic
+CB2480,3,,6,CB2480,cb_intrinsic
+CB2494,3,,6,CB2494,cb_intrinsic
+CB2512,7,,2,CB2512,cb_intrinsic
+CB2523,6,,3,CB2523,cb_intrinsic
+CB2532,1,,8,SLP112,cb_intrinsic
+CB2534,1,,8,LHAV2c1,cb_intrinsic
+CB2574,2,,7,AVLP225_b2,cb_intrinsic
+CB2600,3,,6,CB2600,cb_intrinsic
+CB2639,4,,5,AVLP002,cb_intrinsic
+CB2642,2,,7,CB2642,cb_intrinsic
+CB2684,4,,5,AVLP401,cb_intrinsic
+CB2750,3,,6,LHAV4e2_b2,cb_intrinsic
+CB2823,1,,8,CB2823,cb_intrinsic
+CB2920,4,,5,CB2920,cb_intrinsic
+CB2950,1,,8,CB2950,cb_intrinsic
+CB2962,2,,7,GNG379,cb_intrinsic
+CB2966,5,,4,CB2966,cb_intrinsic
+CB3004,5,,4,GNG377,cb_intrinsic
+CB3005,2,,7,CB3005,cb_intrinsic
+CB3017,1,,8,SMP468,cb_intrinsic
+CB3104,3,,6,CB3104,cb_intrinsic
+CB3121,3,,6,CB3121,cb_intrinsic
+CB3122,5,,4,AVLP115,cb_intrinsic
+CB3150,3,,6,GNG338,cb_intrinsic
+CB3252,2,,7,CB3252,cb_intrinsic
+CB3337,4,,5,AVLP231,cb_intrinsic
+CB3439,3,,6,CB3439,cb_intrinsic
+CB3464,1,,8,CB3464,cb_intrinsic
+CB3579,7,,2,AVLP110_b,cb_intrinsic
+CB3743,3,,6,CB3743,cb_intrinsic
+CB3765,1,,8,SMP232,cb_intrinsic
+CL005,6,,3,CL005,cb_intrinsic
+CL006,5,,4,CL006,cb_intrinsic
+CL042,5,,4,CL042,cb_intrinsic
+CL118,4,,5,CL118,cb_intrinsic
+CL152,5,,4,CL152,cb_intrinsic
+CL172,4,,5,CL172,cb_intrinsic
+CRE081,3,,6,CRE081,cb_intrinsic
+DNg92_b,5,CNS neuron,4,DNg92_b,descending_neuron
+DNge024,2,CNS neuron,7,DNge024,descending_neuron
+DNge089,3,CNS neuron,6,DNge089,descending_neuron
+DNge115,1,CNS neuron,8,DNge115,descending_neuron
+DNge116,5,CNS neuron,4,DNge116,descending_neuron
+FB4O,3,,6,FB4O,cb_intrinsic
+FB4Q_b,4,,5,FB4Q_c,cb_intrinsic
+FB5X,3,,6,FB5X,cb_intrinsic
+FB5Z,5,,4,FB5Z,cb_intrinsic
+FB7D,1,,8,FB7D_a,cb_intrinsic
+JO-DA,4,sensory neuron,5,JO-DA,cb_sensory
+LAL030d,3,,6,LAL030_b,cb_intrinsic
+LAL037,5,,4,LAL037,cb_intrinsic
+LAL086,5,,4,LAL086,cb_intrinsic
+LAL150a,3,,6,LAL150,cb_intrinsic
+LB1b,3,sensory neuron,6,LB1b,cb_sensory
+LHAD1b1_b,1,,8,LHAD1b1_b,cb_intrinsic
+LHAV1a1,1,,8,LHAV1a1,cb_intrinsic
+LHAV7a5,3,,6,LHAV7a5,cb_intrinsic
+LHAV7a7,3,,6,LHAV7a7,cb_intrinsic
+LHAV9a1_b,3,,6,LHAV9a1_b,cb_intrinsic
+LHPV2d1,5,,4,LHPV2d1,cb_intrinsic
+LHPV4b3,2,,7,LHPV4b3,cb_intrinsic
+LHPV4c4,5,,4,LHPV4c4,cb_intrinsic
+LHPV5b6,3,,6,LHPV5b6,cb_intrinsic
+LHPV5g1_b,2,,7,LHPV5g1_b,cb_intrinsic
+LNd_c,3,,6,LNd_c,cb_intrinsic
+LT38,4,,5,LoVC17,visual_centrifugal
+LTe03,4,,5,LoVP89,visual_projection
+LTe38b,4,,5,LoVP75,visual_projection
+Li26,1,,8,Li29,ol_intrinsic
+MB-C1,4,,5,MB-C1,cb_intrinsic
+MTe13,3,,6,MeVP18,visual_projection
+M_vPNml84,1,,8,M_vPNml84,cb_intrinsic
+PLP106,3,,6,PLP106,cb_intrinsic
+PLP115_a,5,,4,PLP115_a,cb_intrinsic
+PLP165,4,,5,PLP165,cb_intrinsic
+PS005_a,1,,8,PS005_a,cb_intrinsic
+PS038a,3,,6,PS038,cb_intrinsic
+PS078,3,CNS neuron,6,PS078,cb_intrinsic
+PS118,3,,6,PS118,cb_intrinsic
+PVLP028,5,,4,PVLP028,cb_intrinsic
+SAD030,2,,7,SAD030,cb_intrinsic
+SLP024a,2,,7,SLP024,cb_intrinsic
+SLP102,1,,8,SLP102,cb_intrinsic
+SLP103,1,,8,SLP103,cb_intrinsic
+SLP158,3,,6,SLP158,cb_intrinsic
+SLP223,6,,3,SLP223,cb_intrinsic
+SLP246,4,,5,SLP246,cb_intrinsic
+SLP450,3,,6,SLP450,cb_intrinsic
+SMP016_b,1,,8,SMP016_b,cb_intrinsic
+SMP057,5,,4,SMP057,cb_intrinsic
+SMP065,5,,4,SMP065,cb_intrinsic
+SMP068,5,,4,SMP068,cb_intrinsic
+SMP210,2,,7,SMP210,cb_intrinsic
+SMP567,5,,4,SMP567,cb_intrinsic
+VA1v_adPN,1,,8,VA1v_adPN,cb_intrinsic
+VA7m_lPN,3,,6,VA7m_lPN,cb_intrinsic
+VM7d_adPN,2,,7,VM7d_adPN,cb_intrinsic
+VSm,5,,4,VSm,visual_projection
+WED096a,5,,4,WED096,cb_intrinsic
+WED164a,2,,7,WED164,cb_intrinsic
+aMe10,6,,3,aMe10,visual_projection
+cM03,3,,6,MeVC27,visual_centrifugal
+s-LNv_b,1,,8,s-LNv,visual_projection
+v2LN46b,2,,7,v2LN46,cb_intrinsic
+5-HTPLP01,4,,4,5-HTPLP01,cb_intrinsic
+ALIN1,4,,4,ALIN1,cb_intrinsic
+AN_AVLP_29,6,,2,AN08B018,ascending_neuron
+AN_AVLP_48,1,,7,AN10B048,ascending_neuron
+AN_GNG_127,6,,2,AN12B076,ascending_neuron
+AN_GNG_134,2,,6,AN17A024,ascending_neuron
+AN_GNG_142,2,,6,AN07B110,ascending_neuron
+AN_GNG_149,2,,6,AN08B099_a,ascending_neuron
+AN_GNG_167,6,,2,AN09B030,ascending_neuron
+AN_GNG_186,2,,6,AN04A001,ascending_neuron
+AN_GNG_188,2,,6,AN12B060,ascending_neuron
+AN_GNG_22,4,,4,ANXXX049,ascending_neuron
+AN_GNG_SAD_33,2,,6,AN01B005,ascending_neuron
+AN_GNG_VES_4,3,,5,ANXXX145,ascending_neuron
+AN_multi_117,4,,4,AN09B033,ascending_neuron
+AN_multi_41,6,,2,AN06B012,ascending_neuron
+AOTU020,4,,4,AOTU020,cb_intrinsic
+AOTU037,3,,5,AOTU037,cb_intrinsic
+AVLP046,4,,4,AVLP046,cb_intrinsic
+AVLP089,4,,4,AVLP089,cb_intrinsic
+AVLP099,4,,4,AVLP099,cb_intrinsic
+AVLP116,4,,4,AVLP116,cb_intrinsic
+AVLP120,3,CNS neuron,5,AVLP120,cb_intrinsic
+AVLP186,4,,4,AVLP186,cb_intrinsic
+AVLP195,4,,4,AVLP195,cb_intrinsic
+AVLP219b,4,,4,AVLP219_b,cb_intrinsic
+AVLP243,4,,4,AVLP243,cb_intrinsic
+AVLP244,2,,6,AVLP244,cb_intrinsic
+AVLP299_a,3,,5,AVLP299_c,cb_intrinsic
+AVLP305,4,,4,AVLP305,cb_intrinsic
+AVLP390,4,,4,AVLP390,cb_intrinsic
+AVLP423,1,,7,AVLP423,cb_intrinsic
+AVLP444,4,,4,AVLP444,cb_intrinsic
+AVLP462a,3,,5,AVLP462,cb_intrinsic
+AVLP465b,2,,6,AVLP465,cb_intrinsic
+AVLP490,4,,4,AVLP490,cb_intrinsic
+AVLP492,4,,4,AVLP492,cb_intrinsic
+AVLP496b,4,,4,AVLP496,cb_intrinsic
+AVLP548_f,4,,4,AVLP548_f1,cb_intrinsic
+AVLP566,4,,4,AVLP566,cb_intrinsic
+CB.FB1E0,2,,6,FB1E_a,cb_intrinsic
+CB0115,2,,6,CB0115,cb_intrinsic
+CB0731,4,,4,GNG474,cb_intrinsic
+CB0751,4,,4,CB0751,cb_intrinsic
+CB0766,4,,4,PVLP071,cb_intrinsic
+CB0784,4,,4,PS336,cb_intrinsic
+CB0800,5,,3,CB0800,cb_intrinsic
+CB0806,4,,4,GNG180,cb_intrinsic
+CB0854,4,,4,GNG461,cb_intrinsic
+CB0950,2,,6,SMP132,cb_intrinsic
+CB0983,4,,4,PS351,cb_intrinsic
+CB0987,4,,4,PS326,cb_intrinsic
+CB0991,4,glia,4,PRW075,cb_intrinsic
+CB1017,4,,4,CB1017,cb_intrinsic
+CB1090,3,,5,aSP10A_b,cb_intrinsic
+CB1095,3,,5,PRW043,cb_intrinsic
+CB1140,5,,3,CB1140,cb_intrinsic
+CB1171,1,,7,CB1171,cb_intrinsic
+CB1193,5,,3,AVLP415,cb_intrinsic
+CB1206,2,,6,CB1206,cb_intrinsic
+CB1212,1,,7,CB1212,cb_intrinsic
+CB1214,4,,4,SMP267,cb_intrinsic
+CB1238,4,,4,CB1238,cb_intrinsic
+CB1252,3,,5,CB1252,cb_intrinsic
+CB1350,4,,4,AMMC014,cb_intrinsic
+CB1406,2,,6,CB1406,cb_intrinsic
+CB1412,4,,4,CB1412,cb_intrinsic
+CB1431,4,,4,GNG434,cb_intrinsic
+CB1444,4,,4,CL365,cb_intrinsic
+CB1447,2,,6,CB1447,cb_intrinsic
+CB1476,2,,6,AVLP611,cb_intrinsic
+CB1516,5,,3,CL351,cb_intrinsic
+CB1553,6,,2,CRE003_b,cb_intrinsic
+CB1582,4,,4,GNG423,cb_intrinsic
+CB1610,2,,6,CB1610,cb_intrinsic
+CB1641,3,,5,CB1641,cb_intrinsic
+CB1737,1,,7,LHPV6a9_b,cb_intrinsic
+CB1739,4,,4,LHAV5a9_a,cb_intrinsic
+CB1753,4,,4,LHAV1f1,cb_intrinsic
+CB1770,4,,4,SMP216,cb_intrinsic
+CB1775,3,,5,SMP590_b,cb_intrinsic
+CB1780,4,,4,AVLP124,cb_intrinsic
+CB1823,3,,5,CB1823,cb_intrinsic
+CB1834,4,,4,CB1834,cb_intrinsic
+CB1844,2,,6,CB1844,cb_intrinsic
+CB1845,3,,5,GNG411,cb_intrinsic
+CB1846,2,,6,CB1846,cb_intrinsic
+CB1858,2,,6,SMP299,cb_intrinsic
+CB1884,1,,7,CB1884,cb_intrinsic
+CB1889,4,,4,AVLP137,cb_intrinsic
+CB1890,2,,6,PS270,cb_intrinsic
+CB1908,2,,6,CB1908,cb_intrinsic
+CB1956,2,,6,CB1956,cb_intrinsic
+CB1958,4,,4,CB1958,cb_intrinsic
+CB2022,4,,4,LHPV4c1_c,cb_intrinsic
+CB2025,4,,4,CRE092,cb_intrinsic
+CB2035,2,,6,CB2035,cb_intrinsic
+CB2045,4,,4,CB2045,cb_intrinsic
+CB2053,5,,3,CB2053,cb_intrinsic
+CB2067,3,,5,AMMC022,cb_intrinsic
+CB2075,1,,7,SMP380,cb_intrinsic
+CB2084,4,,4,CB2084,cb_intrinsic
+CB2087,4,,4,CB2087,cb_intrinsic
+CB2106,1,,7,SLP082,cb_intrinsic
+CB2116,1,,7,CB2116,cb_intrinsic
+CB2122,4,,4,SLP461,cb_intrinsic
+CB2133,2,,6,CB2133,cb_intrinsic
+CB2152,4,,4,CB2152,cb_intrinsic
+CB2180,3,,5,LHAV2c1,cb_intrinsic
+CB2194,5,,3,CB2194,cb_intrinsic
+CB2196,2,,6,CB2196,cb_intrinsic
+CB2228,3,,5,CB2228,cb_intrinsic
+CB2232,6,,2,CB2232,cb_intrinsic
+CB2278,2,,6,PVLP034,cb_intrinsic
+CB2294,4,,4,CB2294,cb_intrinsic
+CB2298,3,,5,CB2298,cb_intrinsic
+CB2396,3,,5,CB2396,cb_intrinsic
+CB2398,1,,7,CB2398,cb_intrinsic
+CB2419,3,,5,LHAV3e5,cb_intrinsic
+CB2443,2,,6,SLP316,cb_intrinsic
+CB2458,5,,3,CB2458,cb_intrinsic
+CB2467,1,,7,CB2467,cb_intrinsic
+CB2522,3,,5,CB2522,cb_intrinsic
+CB2541,2,,6,SLP176,cb_intrinsic
+CB2588,2,,6,PRW025,cb_intrinsic
+CB2643,1,,7,SMP734,cb_intrinsic
+CB2666,2,,6,PS285,cb_intrinsic
+CB2671,4,,4,CB2671,cb_intrinsic
+CB2679,3,,5,CB2679,cb_intrinsic
+CB2693,1,,7,CB2693,cb_intrinsic
+CB2694,2,,6,CB2694,cb_intrinsic
+CB2700,4,,4,GNG385,cb_intrinsic
+CB2739,4,,4,LHPD3a2_b,cb_intrinsic
+CB2828,4,,4,LHPV2c1_a,cb_intrinsic
+CB2840,4,,4,AVLP036,cb_intrinsic
+CB2873,2,,6,CB2873,cb_intrinsic
+CB2906,4,,4,CB2906,cb_intrinsic
+CB2910,2,,6,CB2910,cb_intrinsic
+CB2912,3,,5,CB2912,cb_intrinsic
+CB2923,2,,6,LHPV4b2,cb_intrinsic
+CB3015,5,,3,CB3015,cb_intrinsic
+CB3019,3,,5,CB3019,cb_intrinsic
+CB3044,4,,4,CB3044,cb_intrinsic
+CB3072,3,,5,SMP382,cb_intrinsic
+CB3110,1,,7,LHPD2a2,cb_intrinsic
+CB3184,4,,4,CB3184,cb_intrinsic
+CB3194,4,,4,LHPD2c2,cb_intrinsic
+CB3207,2,,6,CB3207,cb_intrinsic
+CB3329,1,,7,CB3329,cb_intrinsic
+CB3371,3,,5,AMMC021,cb_intrinsic
+CB3476,3,,5,CB3476,cb_intrinsic
+CB3500,4,,4,PRW017,cb_intrinsic
+CB3505,3,,5,SMP302,cb_intrinsic
+CB3565,7,sensory neuron,1,PRW015,cb_intrinsic
+CB3567,4,,4,AVLP405,cb_intrinsic
+CB3660,3,,5,CB3660,cb_intrinsic
+CB3697,4,,4,CB3697,cb_intrinsic
+CB3714,4,,4,GNG163,cb_intrinsic
+CB3734,5,,3,CB3734,cb_intrinsic
+CB3735,3,,5,LHPV6f5,cb_intrinsic
+CB3759,1,,7,CB3759,cb_intrinsic
+CB3870,4,,4,CB3870,cb_intrinsic
+CL004,4,,4,CL004,cb_intrinsic
+CL018b,4,,4,CL018,cb_intrinsic
+CL062_a,4,,4,CL062_a1,cb_intrinsic
+CL062_b,2,,6,CL062_b1,cb_intrinsic
+CL071b,2,,6,CL071_b,cb_intrinsic
+CL086_e,1,,7,CL086_e,cb_intrinsic
+CL101,4,,4,CL101,cb_intrinsic
+CL128a,3,,5,CL128a,cb_intrinsic
+CL131,4,,4,CL131,cb_intrinsic
+CL132,4,,4,CL132,cb_intrinsic
+CL267,4,,4,CL267,cb_intrinsic
+CL270b,4,,4,AVLP521,cb_intrinsic
+CL272_a,2,,6,CL272_a1,cb_intrinsic
+CL290,5,,3,CL290,cb_intrinsic
+CL359,4,,4,CL359,cb_intrinsic
+CRE005,4,,4,CRE005,cb_intrinsic
+CRE080c,4,,4,CRE080_c,cb_intrinsic
+CRE106,4,,4,CRE106,cb_intrinsic
+CREa1A_T01,4,,4,ATL005,cb_intrinsic
+DC3_adPN,2,,6,DC3_adPN,cb_intrinsic
+DM5_lPN,1,,7,DM5_lPN,cb_intrinsic
+DM6_adPN,1,,7,DM6_adPN,cb_intrinsic
+DNb03,4,CNS neuron,4,DNb03,descending_neuron
+DNg11,2,CNS neuron,6,DNg11,descending_neuron
+DNg18_b,2,CNS neuron,6,DNg18_b,descending_neuron
+DNg26,4,CNS neuron,4,DNg26,descending_neuron
+DNg36_b,3,CNS neuron,5,DNg36_b,descending_neuron
+DNg79,4,CNS neuron,4,DNg79,descending_neuron
+DNge111,2,CNS neuron,6,DNge111,descending_neuron
+DNp41,4,CNS neuron,4,DNp41,descending_neuron
+DNpe014,4,CNS neuron,4,DNpe014,descending_neuron
+DNx02,4,sensory neuron,4,DNx02,sensory_descending
+DSKMP3,4,,4,DSKMP3,cb_intrinsic
+FB1A,4,,4,FB1A,cb_intrinsic
+FB4K,4,,4,FB4K,cb_intrinsic
+FB5B,2,,6,FB5B,cb_intrinsic
+FB7H,6,,2,FB7H,cb_intrinsic
+FB7L,2,,6,FB7L,cb_intrinsic
+FB9A,2,,6,FB9A,cb_intrinsic
+HBeyelet,1,,7,HBeyelet,ol_sensory
+IB066,4,,4,IB066,cb_intrinsic
+KCa'b'-ap1,6,CNS neuron,2,KCa'b'-ap1,cb_intrinsic
+LAL085,4,,4,LAL085,cb_intrinsic
+LAL133a,2,,6,LAL133_a,cb_intrinsic
+LAL155,4,,4,LAL155,cb_intrinsic
+LHAD1b4,3,,5,LHAD1b4,cb_intrinsic
+LHAV2b7_b,4,,4,LHAV2b7_b,cb_intrinsic
+LHAV4g1c,4,,4,LHAV4g1,cb_intrinsic
+LHAV9a1_c,2,,6,LHAV9a1_c,cb_intrinsic
+LHCENT10,4,,4,LHCENT10,cb_intrinsic
+LHPD5d1,4,,4,LHPD5d1,cb_intrinsic
+LHPV2a1_a,2,,6,LHPV2a1_a,cb_intrinsic
+LHPV2i2a,6,,2,LHPV2i2_a,cb_intrinsic
+LHPV5g2,2,,6,LHPV5g2,cb_intrinsic
+LHPV6h1,1,,7,LHPV6h1,cb_intrinsic
+LHPV6h2,1,,7,LHPV6h2,cb_intrinsic
+LLPC4,2,,6,LLPC4,visual_projection
+LTe37,4,,4,LoVP74,visual_projection
+LTe54,4,,4,LoVP39,visual_projection
+MBON18,6,CNS neuron,2,MBON18,cb_intrinsic
+MTe16,4,,4,MeVP46,visual_projection
+MTe17,4,,4,MeVP40,visual_projection
+MTe47,4,,4,MeVPLo1,visual_projection
+M_lv2PN9t49,4,,4,M_lv2PN9t49_a,cb_intrinsic
+M_lvPNm41,3,glia,5,M_lvPNm41,cb_intrinsic
+M_vPNml63,1,,7,M_vPNml63,cb_intrinsic
+MeMe_e04,4,,4,MeVPMe8,visual_projection
+OA-AL2b2,4,,4,MeVCMe1,visual_centrifugal
+OA-AL2i2,4,,4,OA-AL2i2,visual_centrifugal
+OA-AL2i3,4,CNS neuron,4,OA-AL2i3,visual_centrifugal
+OA-ASM1,4,,4,OA-ASM1,visual_centrifugal
+PLP009,2,,6,PLP009,cb_intrinsic
+PLP039,2,,6,PLP039,cb_intrinsic
+PLP044,2,,6,PLP044,cb_intrinsic
+PLP095,4,,4,PLP095,cb_intrinsic
+PLP100,5,,3,PLP100,cb_intrinsic
+PLP162,4,sensory neuron,4,PLP162,cb_intrinsic
+PLP164,2,,6,PLP164,cb_intrinsic
+PLP174,3,,5,PLP174,cb_intrinsic
+PLP187,2,,6,PLP187,cb_intrinsic
+PLP199,4,,4,PLP199,cb_intrinsic
+PLP231,4,,4,PLP231,cb_intrinsic
+PLP254,4,,4,PLP254,cb_intrinsic
+PPM1201,4,,4,PPM1201,cb_intrinsic
+PS054,4,,4,PS054,cb_intrinsic
+PS084,2,,6,PS084,cb_intrinsic
+PS106,4,,4,PS106,cb_intrinsic
+PS137,4,,4,PS137,cb_intrinsic
+PS140,4,,4,PS140,cb_intrinsic
+PS146,4,,4,PS146,cb_intrinsic
+PS198,4,,4,PS197,cb_intrinsic
+PS233,4,,4,PS233,cb_intrinsic
+PS239,4,,4,PS239,cb_intrinsic
+PS241b,2,,6,PS241,cb_intrinsic
+PS291,4,,4,PS291,cb_intrinsic
+PVLP012,4,,4,PVLP012,cb_intrinsic
+PVLP139,4,,4,PVLP139,cb_intrinsic
+PVLP144,2,,6,PVLP144,cb_intrinsic
+PVLP151,4,,4,PVLP151,cb_intrinsic
+SAD009,5,,3,SAD009,cb_intrinsic
+SAD021_c,4,,4,SAD021_c,cb_intrinsic
+SIP053b,2,,6,SIP053,cb_intrinsic
+SLP019,2,,6,SLP019,cb_intrinsic
+SLP065,3,,5,SLP065,cb_intrinsic
+SLP129_c,2,,6,SLP129_c,cb_intrinsic
+SLP288a,3,,5,SLP288,cb_intrinsic
+SLP464,4,,4,SLP464,cb_intrinsic
+SMP043,4,,4,SMP043,cb_intrinsic
+SMP069,4,,4,SMP069,cb_intrinsic
+SMP151,4,,4,SMP151,cb_intrinsic
+SMP279_b,5,,3,SMP279_b,cb_intrinsic
+SMP315,2,,6,SMP315,cb_intrinsic
+SMP323,2,,6,SMP323,cb_intrinsic
+SMP326a,4,,4,SMP326,cb_intrinsic
+SMP331b,2,,6,SMP331,cb_intrinsic
+SMP371,4,,4,SMP371_a,cb_intrinsic
+SMP448,2,,6,SMP448,cb_intrinsic
+SMP572,4,,4,SMP572,cb_intrinsic
+Sm28,1,,7,Cm-DRA,ol_intrinsic
+VES023,1,,7,VES023,cb_intrinsic
+WED041a,2,,6,WED041,cb_intrinsic
+WED072,2,,6,WED072,cb_intrinsic
+WED092c,4,,4,WED092,cb_intrinsic
+WED161,3,,5,WED161,cb_intrinsic
+WEDPN2A,2,,6,WEDPN2A,cb_intrinsic
+WEDPN7C,5,,3,WEDPN7C,cb_intrinsic
+aMe12,2,,6,aMe12,visual_projection
+aMe17b,3,,5,aMe17b,visual_centrifugal
+cL04,4,,4,LoVC19,visual_centrifugal
+cLLP02,4,,4,LoVC22,visual_centrifugal
+cM08b,4,,4,MeVC22,visual_centrifugal
+lLN2X02,2,,6,lLN2X02,cb_intrinsic
+v2LN34E,1,,7,v2LN34E,cb_intrinsic
+AMMC-A1,1,,6,AMMC-A1,cb_intrinsic
+AN_AVLP_37,2,,5,ANXXX007,ascending_neuron
+AN_AVLP_GNG_13,3,,4,AN05B050_c,ascending_neuron
+AN_GNG_193,5,sensory neuron,2,AN09B044,ascending_neuron
+AN_GNG_AVLP_2,5,,2,AN09B021,ascending_neuron
+AN_GNG_FLA_2,5,,2,AN05B106,ascending_neuron
+AN_GNG_WED_3,3,,4,AN18B019,ascending_neuron
+AN_SPS_IPS_2,5,,2,AN07B078_a,ascending_neuron
+AN_multi_54,5,,2,AN08B066,ascending_neuron
+AOTU051,1,,6,AOTU051,cb_intrinsic
+AVLP013,1,,6,AVLP013,cb_intrinsic
+AVLP048,5,,2,AVLP048,cb_intrinsic
+AVLP107,3,,4,AVLP107,cb_intrinsic
+AVLP140,4,,3,AVLP140,cb_intrinsic
+AVLP189_b,2,,5,AVLP189_b,cb_intrinsic
+AVLP219c,1,,6,AVLP219_c,cb_intrinsic
+AVLP287,4,,3,AVLP287,cb_intrinsic
+AVLP288,3,,4,AVLP288,cb_intrinsic
+AVLP293,3,,4,AVLP293,cb_intrinsic
+AVLP308,3,,4,AVLP308,cb_intrinsic
+AVLP316,1,,6,AVLP316,cb_intrinsic
+AVLP323,3,,4,AVLP323,cb_intrinsic
+AVLP451b,3,,4,AVLP451,cb_intrinsic
+AVLP451c,5,,2,AVLP451,cb_intrinsic
+AVLP479,3,,4,AVLP479,cb_intrinsic
+AVLP488,3,,4,AVLP488,cb_intrinsic
+AVLP489,3,,4,AVLP489,cb_intrinsic
+AVLP557,3,,4,AVLP557,cb_intrinsic
+AVLP560,2,,5,AVLP560,cb_intrinsic
+AVLP574,3,,4,AVLP574,cb_intrinsic
+CB.FB1E1,2,,5,FB1D,cb_intrinsic
+CB.FB2I3,1,,6,FB2D,cb_intrinsic
+CB0385,3,,4,PVLP096,cb_intrinsic
+CB0696,5,,2,GNG483,cb_intrinsic
+CB0704,3,,4,GNG482,cb_intrinsic
+CB0716,5,,2,GNG052,cb_intrinsic
+CB0717,3,,4,GNG481,cb_intrinsic
+CB0734,3,,4,CB0734,cb_intrinsic
+CB0763,3,,4,CB0763,cb_intrinsic
+CB0813,2,,5,PVLP078,cb_intrinsic
+CB0814,4,,3,GNG466,cb_intrinsic
+CB0830,3,,4,GNG464,cb_intrinsic
+CB0865,3,CNS neuron,4,VES087,cb_intrinsic
+CB0884,5,,2,GNG061,cb_intrinsic
+CB0937,1,,6,CB0937,cb_intrinsic
+CB0964,3,,4,GNG452,cb_intrinsic
+CB0994,3,,4,CB0994,cb_intrinsic
+CB1003,3,,4,LHAV4e1_b,cb_intrinsic
+CB1044,3,,4,CB1044,cb_intrinsic
+CB1053,1,,6,PS229,cb_intrinsic
+CB1065,2,,5,CB1065,cb_intrinsic
+CB1165,1,,6,CB1165,cb_intrinsic
+CB1167,3,,4,LHAV5b1,cb_intrinsic
+CB1182,2,,5,LHAV2b3,cb_intrinsic
+CB1185,3,,4,CB1185,cb_intrinsic
+CB1219,1,,6,CB1219,cb_intrinsic
+CB1222,3,,4,CB1222,cb_intrinsic
+CB1232,1,,6,GNG443,cb_intrinsic
+CB1244,1,,6,LHAD1b2_b,cb_intrinsic
+CB1262,2,,5,CL190,cb_intrinsic
+CB1282,2,,5,CB1282,cb_intrinsic
+CB1287,5,,2,CB1287,cb_intrinsic
+CB1293,3,,4,LHAV4d4,cb_intrinsic
+CB1300,3,,4,CB1300,cb_intrinsic
+CB1314,2,,5,CB1314,cb_intrinsic
+CB1337,1,,6,CB1337,cb_intrinsic
+CB1387,1,,6,CB1387,cb_intrinsic
+CB1389,1,,6,CB1389,cb_intrinsic
+CB1428,4,,3,CB1428,cb_intrinsic
+CB1429,3,,4,SLP372,cb_intrinsic
+CB1442,5,,2,CB1442,cb_intrinsic
+CB1445,3,,4,SMP347,cb_intrinsic
+CB1448,3,,4,CB1448,cb_intrinsic
+CB1456,2,,5,CB1456,cb_intrinsic
+CB1491,2,,5,LHAV1f1,cb_intrinsic
+CB1503,2,,5,CB1503,cb_intrinsic
+CB1512,3,,4,LHAV3b6_b,cb_intrinsic
+CB1524,3,,4,LHAV3e4_a,cb_intrinsic
+CB1537,2,,5,CB1537,cb_intrinsic
+CB1538,3,,4,CB1538,cb_intrinsic
+CB1549,3,,4,CB1549,cb_intrinsic
+CB1554,2,,5,CB1554,cb_intrinsic
+CB1584,4,,3,VES031,cb_intrinsic
+CB1629,1,,6,CB1629,cb_intrinsic
+CB1679,1,,6,CB1679,cb_intrinsic
+CB1680,2,,5,GNG646,cb_intrinsic
+CB1687,2,,5,CB1687,cb_intrinsic
+CB1718,2,,5,PRW035,cb_intrinsic
+CB1721,3,,4,CRE014,cb_intrinsic
+CB1774,4,,3,CB1774,cb_intrinsic
+CB1807,1,,6,SMP279_a,cb_intrinsic
+CB1816,3,,4,WED206,cb_intrinsic
+CB1819,3,,4,PVLP073,cb_intrinsic
+CB1839,3,,4,AVLP372,cb_intrinsic
+CB1842,3,,4,AVLP529,cb_intrinsic
+CB1856,3,,4,CB1856,cb_intrinsic
+CB1899,1,,6,CB1899,cb_intrinsic
+CB1928,2,,5,SLP179_b,cb_intrinsic
+CB1936,3,,4,AVLP463,cb_intrinsic
+CB1955,1,,6,CB1955,cb_intrinsic
+CB2004,1,,6,CB2004,cb_intrinsic
+CB2006,3,,4,CB2006,cb_intrinsic
+CB2040,3,,4,CB2040,cb_intrinsic
+CB2048,3,,4,CB2048,cb_intrinsic
+CB2051,1,,6,CB2051,cb_intrinsic
+CB2089,1,,6,CB2089,cb_intrinsic
+CB2123,2,,5,CB2123,cb_intrinsic
+CB2129,2,,5,LHAV2i4,cb_intrinsic
+CB2145,4,,3,"SLP283,SLP284",cb_intrinsic
+CB2160,2,,5,PS353,cb_intrinsic
+CB2175,3,,4,CB2175,cb_intrinsic
+CB2185,3,,4,CB2185,cb_intrinsic
+CB2218,1,,6,PLVP059,cb_intrinsic
+CB2229,3,,4,CB2229,cb_intrinsic
+CB2237,3,,4,IB096,cb_intrinsic
+CB2250,3,,4,SIP021_a,cb_intrinsic
+CB2262,1,,6,CB2262,cb_intrinsic
+CB2296,3,,4,LHAV5b2,cb_intrinsic
+CB2300,3,,4,CB2300,cb_intrinsic
+CB2321,3,,4,CB2321,cb_intrinsic
+CB2339,3,,4,CB2339,cb_intrinsic
+CB2380,3,,4,CB2380,cb_intrinsic
+CB2402,1,,6,AVLP067,cb_intrinsic
+CB2413,3,,4,SMP052,cb_intrinsic
+CB2462,5,,2,CB2462,cb_intrinsic
+CB2469,1,,6,CB2469,cb_intrinsic
+CB2471,2,,5,CB2471,cb_intrinsic
+CB2485,3,,4,CL147,cb_intrinsic
+CB2497,3,,4,CB2497,cb_intrinsic
+CB2511,2,,5,AVLP176_c,cb_intrinsic
+CB2633,1,,6,CB2633,cb_intrinsic
+CB2636,1,,6,CB2636,cb_intrinsic
+CB2660,4,,3,AVLP175,cb_intrinsic
+CB2674,2,,5,CB2674,cb_intrinsic
+CB2688,3,,4,CB2688,cb_intrinsic
+CB2697,1,,6,PS074,cb_intrinsic
+CB2713,3,,4,CB2713,cb_intrinsic
+CB2715,3,,4,LHAV5a6_a,cb_intrinsic
+CB2719,3,,4,CB2719,cb_intrinsic
+CB2804,2,,5,GNG382,cb_intrinsic
+CB2805,1,,6,CB2805,cb_intrinsic
+CB2825,1,,6,PS316,cb_intrinsic
+CB2858,2,,5,AVLP145,cb_intrinsic
+CB2874,1,,6,AVLP145,cb_intrinsic
+CB2884,3,,4,CB2884,cb_intrinsic
+CB2888,1,,6,SLP268,cb_intrinsic
+CB2924,4,,3,WEDPN7A,cb_intrinsic
+CB2931,1,,6,CB2931,cb_intrinsic
+CB2944,2,,5,CB2944,cb_intrinsic
+CB2976,1,,6,CB2976,cb_intrinsic
+CB2981,3,,4,CB2981,cb_intrinsic
+CB3000,2,,5,AVLP198,cb_intrinsic
+CB3001,1,,6,CB3001,cb_intrinsic
+CB3010,1,,6,CB3010,cb_intrinsic
+CB3013,2,,5,CB3013,cb_intrinsic
+CB3056,1,,6,CB3056,cb_intrinsic
+CB3064,3,,4,WED056,cb_intrinsic
+CB3081,3,,4,CB3081,cb_intrinsic
+CB3103,2,,5,CB3103,cb_intrinsic
+CB3136,3,,4,SMP414,cb_intrinsic
+CB3140,1,,6,CB3140,cb_intrinsic
+CB3156,3,,4,PRW022,cb_intrinsic
+CB3163,3,,4,SLP311,cb_intrinsic
+CB3290,1,,6,LHPV6k1,cb_intrinsic
+CB3396,2,,5,SIP037,cb_intrinsic
+CB3399,3,,4,CB3399,cb_intrinsic
+CB3412,3,,4,GNG361,cb_intrinsic
+CB3416,3,,4,PVLP031,cb_intrinsic
+CB3435,3,,4,CB3435,cb_intrinsic
+CB3518,2,,5,AVLP334,cb_intrinsic
+CB3524,3,,4,GNG358,cb_intrinsic
+CB3603,3,,4,CB3603,cb_intrinsic
+CB3607,4,,3,CB3607,cb_intrinsic
+CB3613,4,,3,AVLP403,cb_intrinsic
+CB3626,1,,6,SMP218,cb_intrinsic
+CB3632,4,,3,GNG356,cb_intrinsic
+CB3655,3,,4,WED106,cb_intrinsic
+CB3707,3,,4,SAD073,cb_intrinsic
+CB3708,3,,4,AVLP352,cb_intrinsic
+CB3729,2,,5,CB3729,cb_intrinsic
+CB3746,3,,4,CB3746,cb_intrinsic
+CB3780,4,,3,LHAD1b2,cb_intrinsic
+CL030,3,,4,CL030,cb_intrinsic
+CL038,3,,4,CL038,cb_intrinsic
+CL077,3,,4,CL077,cb_intrinsic
+CL100,3,,4,CL100,cb_intrinsic
+CL128b,2,,5,CL128_d,cb_intrinsic
+CL215,3,,4,CL215,cb_intrinsic
+CL235,1,,6,CL235,cb_intrinsic
+CL255,2,,5,CL255,cb_intrinsic
+CL283a,1,,6,CL283_a,cb_intrinsic
+CL291,4,,3,CL291,cb_intrinsic
+CL340,3,,4,CL340,cb_intrinsic
+CRE001,2,,5,CRE001,cb_intrinsic
+CRE066,3,,4,CRE066,cb_intrinsic
+DNES3,3,efferent neuron,4,DNES3,cb_endocrine
+DNa13,3,CNS neuron,4,DNa13,descending_neuron
+DNg12_c,2,CNS neuron,5,DNg12_c,descending_neuron
+DNge001,4,CNS neuron,3,DNge001,descending_neuron
+DNge110,3,CNS neuron,4,DNge110,descending_neuron
+DNpe003,3,CNS neuron,4,DNpe003,descending_neuron
+DNpe011,3,CNS neuron,4,DNpe011,descending_neuron
+ER3w_a,6,,1,ER3w_a,cb_intrinsic
+FB2F_c,3,,4,FB2F_c,cb_intrinsic
+FB6T,3,,4,FB6T,cb_intrinsic
+FB6U,3,,4,FB6U,cb_intrinsic
+FB7C,2,,5,FB7C,cb_intrinsic
+FB7J,3,,4,FB7J,cb_intrinsic
+FB8E,2,,5,FB8E,cb_intrinsic
+IB022,3,,4,IB022,cb_intrinsic
+IB049,3,,4,IB049,cb_intrinsic
+LAL006,1,,6,LAL006,cb_intrinsic
+LAL019,3,,4,LAL019,cb_intrinsic
+LAL035,3,,4,LAL035,cb_intrinsic
+LAL185,3,,4,LAL185,cb_intrinsic
+LAL203,3,,4,LAL203,cb_intrinsic
+LHAD1a1,1,sensory neuron,6,LHAD1a1,cb_intrinsic
+LHAD1f4b,1,,6,LHAD1f4,cb_intrinsic
+LHAV2a3c,1,,6,LHAV2a3,cb_intrinsic
+LHAV3e2,3,,4,LHAV3e2,cb_intrinsic
+LHAV3o1,1,,6,LHAV3o1,cb_intrinsic
+LHAV4c1,1,,6,LHAV4c1,cb_intrinsic
+LHCENT8,3,sensory neuron,4,LHCENT8,cb_intrinsic
+LHPV4b1,1,,6,LHPV4b1,cb_intrinsic
+LHPV4d3,1,,6,LHPV4d3,cb_intrinsic
+LPT23,1,,6,LPT23,visual_projection
+LPT51,3,,4,LPT51,visual_projection
+LT63,3,,4,LT63,visual_projection
+LT68,3,,4,LT68,visual_projection
+LT80,3,,4,LT80,visual_projection
+LTe11,4,,3,LoVP78,visual_projection
+LTe47,3,,4,LoVP61,visual_projection
+MBON09,3,,4,MBON09,cb_intrinsic
+MBON19,3,,4,MBON19,cb_intrinsic
+MTe15,3,,4,MeVP34,visual_projection
+M_lPNm11A,1,,6,M_lPNm11A,cb_intrinsic
+M_lvPNm35,2,,5,M_lvPNm35,cb_intrinsic
+M_vPNml60,2,,5,M_vPNml60,cb_intrinsic
+M_vPNml65,1,,6,M_vPNml65,cb_intrinsic
+Nod1,3,,4,Nod1,visual_projection
+OCC02a,1,,6,OCC02a,visual_centrifugal
+PLP013,3,,4,PLP013,cb_intrinsic
+PLP073,3,,4,PLP073,cb_intrinsic
+PLP103,1,,6,PLP103,cb_intrinsic
+PLP149,3,,4,PLP149,cb_intrinsic
+PLP155,1,,6,PLP155,cb_intrinsic
+PLP159,3,,4,PLP159,cb_intrinsic
+PLP161,3,,4,PLP161,cb_intrinsic
+PLP190,1,,6,PLP190,cb_intrinsic
+PLP218,3,,4,PLP218,cb_intrinsic
+PPM1202,3,,4,PPM1202,cb_intrinsic
+PS023,2,,5,PS023,cb_intrinsic
+PS037,1,,6,PS037,cb_intrinsic
+PS052,3,,4,PS052,cb_intrinsic
+PS107,3,,4,PS107,cb_intrinsic
+PS220,3,,4,PS220,cb_intrinsic
+PS241a,5,,2,PS241,cb_intrinsic
+PVLP080a,3,,4,PVLP080_a,cb_intrinsic
+PVLP080b,1,,6,PVLP080_b,cb_intrinsic
+PVLP108,3,,4,PVLP108,cb_intrinsic
+PVLP128,2,sensory neuron,5,PVLP128,cb_intrinsic
+PVLP148,3,,4,PVLP148,cb_intrinsic
+SAD003,1,,6,SAD003,cb_intrinsic
+SAD012,3,,4,SAD012,cb_intrinsic
+SAD044,3,,4,SAD044,cb_intrinsic
+SAD064,1,,6,SAD064,cb_intrinsic
+SIP053a,3,,4,SIP053,cb_intrinsic
+SIP066,3,,4,SIP066,cb_intrinsic
+SLP076,3,,4,SLP076,cb_intrinsic
+SLP228,3,,4,SLP228,cb_intrinsic
+SLP242,1,,6,SLP242,cb_intrinsic
+SLP344,3,,4,SLP344,cb_intrinsic
+SLP396,3,,4,SLP396,cb_intrinsic
+SLP403,3,,4,SLP403,cb_intrinsic
+SLP457,3,,4,SLP457,cb_intrinsic
+SMP012,3,,4,SMP012,cb_intrinsic
+SMP021,1,,6,SMP021,cb_intrinsic
+SMP039,3,,4,SMP039,cb_intrinsic
+SMP089,3,,4,SMP089,cb_intrinsic
+SMP092,3,,4,SMP092,cb_intrinsic
+SMP096,3,,4,SMP096,cb_intrinsic
+SMP279_c,3,,4,SMP279_c,cb_intrinsic
+SMP280,2,,5,SMP280,cb_intrinsic
+SMP320b,1,,6,SMP320,cb_intrinsic
+SMP360,5,,2,SMP360,cb_intrinsic
+SMP408_b,1,,6,SMP408_b,cb_intrinsic
+SMP408_c,1,,6,SMP408_c,cb_intrinsic
+SMP447,3,,4,SMP447,cb_intrinsic
+SMP566b,3,,4,SMP566,cb_intrinsic
+VA5_lPN,1,,6,VA5_lPN,cb_intrinsic
+VC4_adPN,1,,6,VC4_adPN,cb_intrinsic
+VES019,1,,6,VES019,cb_intrinsic
+VES021,2,,5,VES021,cb_intrinsic
+VL2a_vPN,1,,6,VL2a_vPN,cb_intrinsic
+VP3+_l2PN,1,,6,VP3+_l2PN,cb_intrinsic
+WED010,3,,4,WED010,cb_intrinsic
+WED014,3,,4,WED014,cb_intrinsic
+WED024,3,,4,WED024,cb_intrinsic
+WED029,3,,4,WED029,cb_intrinsic
+WED038a,2,,5,WED038,cb_intrinsic
+WED061,3,,4,WED061,cb_intrinsic
+WED096b,3,,4,WED096,cb_intrinsic
+WED153,1,,6,WED153,cb_intrinsic
+aMe1,3,,4,aMe1,visual_projection
+aMe17c,3,,4,aMe17c,visual_centrifugal
+aMe9,3,,4,aMe9,visual_projection
+cL16,3,,4,LoVC18,visual_centrifugal
+cLLPM01,1,,6,OLVC7,visual_centrifugal
+cM08a,1,,6,MeVC21,visual_centrifugal
+cM09,2,,5,aMe30,visual_centrifugal
+lLN2F_b,3,,4,lLN2F_b,cb_intrinsic
+lLN2X04,3,,4,lLN2X04,cb_intrinsic
+mALB3,3,,4,mALB3,cb_intrinsic
+vpoEN,3,,4,vpoEN,cb_intrinsic
+AN_AMMC_SAD_1,2,,4,AN17B013,ascending_neuron
+AN_AVLP_50,4,,2,AN08B028,ascending_neuron
+AN_AVLP_GNG_22,2,,4,ANXXX027,ascending_neuron
+AN_AVLP_GNG_7,4,,2,AN05B078,ascending_neuron
+AN_FLA_VES_1,4,,2,ANXXX380,ascending_neuron
+AN_GNG_156,4,,2,AN23B004,ascending_neuron
+AN_GNG_158,4,,2,AN07B017,ascending_neuron
+AN_GNG_171,4,,2,AN19B022,ascending_neuron
+AN_GNG_191,4,,2,AN17A013,ascending_neuron
+AN_GNG_199,4,,2,AN03A002,ascending_neuron
+AN_GNG_40,4,,2,AN09B014,ascending_neuron
+AN_GNG_64,2,,4,ANXXX041,ascending_neuron
+AN_GNG_75,3,,3,AN05B058,ascending_neuron
+AN_GNG_98,4,,2,AN17A003,ascending_neuron
+AN_GNG_SAD_20,4,,2,AN05B096,ascending_neuron
+AN_GNG_SAD_30,2,,4,ANXXX170,ascending_neuron
+AN_GNG_SAD_6,5,sensory neuron,1,AN05B024,ascending_neuron
+AN_GNG_VES_9,1,,5,AN08B100,ascending_neuron
+AN_WED_GNG_1,4,,2,AN09B036,ascending_neuron
+AN_multi_23,4,,2,ANXXX074,ascending_neuron
+AN_multi_53,4,,2,AN08B049,ascending_neuron
+AN_multi_87,4,,2,AN05B006,ascending_neuron
+AOTU063,2,,4,AOTU063_a,cb_intrinsic
+AOTUv1A_T01,2,,4,SMP148,cb_intrinsic
+ATL012,2,,4,ATL012,cb_intrinsic
+AVLP024c,4,,2,AVLP024_c,cb_intrinsic
+AVLP042,2,,4,AVLP042,cb_intrinsic
+AVLP043,2,,4,AVLP043,cb_intrinsic
+AVLP059,2,,4,AVLP059,cb_intrinsic
+AVLP147,1,,5,AVLP147,cb_intrinsic
+AVLP220,2,,4,AVLP220,cb_intrinsic
+AVLP290b,2,,4,AVLP290_b,cb_intrinsic
+AVLP292,1,,5,AVLP292,cb_intrinsic
+AVLP299_c,2,,4,AVLP299_d,cb_intrinsic
+AVLP303,1,,5,AVLP303,cb_intrinsic
+AVLP306,2,,4,AVLP306,cb_intrinsic
+AVLP310a,1,,5,AVLP310,cb_intrinsic
+AVLP373,4,,2,AVLP373,cb_intrinsic
+AVLP409,2,,4,AVLP409,cb_intrinsic
+AVLP550a,2,,4,AVLP550_a,cb_intrinsic
+AVLP577,2,,4,AVLP577,cb_intrinsic
+CB0207,4,,2,GNG552,cb_intrinsic
+CB0340,2,,4,AVLP250,cb_intrinsic
+CB0381,2,,4,CB0381,cb_intrinsic
+CB0575,2,,4,SMP743,cb_intrinsic
+CB0695,4,,2,CB0695,cb_intrinsic
+CB0770,2,,4,GNG471,cb_intrinsic
+CB0785,3,,3,CB0785,cb_intrinsic
+CB0811,2,,4,GNG467,cb_intrinsic
+CB0845,2,,4,MN4a,cb_motor
+CB0918,3,efferent neuron,3,GNG647,cb_motor
+CB0924,2,,4,AVLP177_a,cb_intrinsic
+CB0963,1,,5,GNG453,cb_intrinsic
+CB0972,1,,5,CB0972,cb_intrinsic
+CB0976,2,,4,CB0976,cb_intrinsic
+CB0998,2,,4,CB0998,cb_intrinsic
+CB1014,2,,4,PS033_a,cb_intrinsic
+CB1028,2,,4,PS032,cb_intrinsic
+CB1047,2,,4,CB1047,cb_intrinsic
+CB1067,1,,5,LHPV2b1,cb_intrinsic
+CB1081,2,,4,CB1081,cb_intrinsic
+CB1085,1,,5,CB1085,cb_intrinsic
+CB1089,1,,5,CB1089,cb_intrinsic
+CB1106,2,,4,LHAV2k9,cb_intrinsic
+CB1126,2,,4,SIP042_b,cb_intrinsic
+CB1128,2,,4,CB1128,cb_intrinsic
+CB1176,1,,5,WED040_a,cb_intrinsic
+CB1189,1,,5,CB1189,cb_intrinsic
+CB1191,2,,4,SLP088_b,cb_intrinsic
+CB1217,2,,4,LHAV4g7_a,cb_intrinsic
+CB1245,2,,4,LHAD1b2,cb_intrinsic
+CB1269,1,,5,CB1269,cb_intrinsic
+CB1316,1,,5,CB1316,cb_intrinsic
+CB1326,3,,3,CB1326,cb_intrinsic
+CB1353,1,,5,CB1353,cb_intrinsic
+CB1374,3,,3,CB1374,cb_intrinsic
+CB1385,1,,5,vpoIN,cb_intrinsic
+CB1392,1,,5,CB1392,cb_intrinsic
+CB1393,3,,3,SIP037,cb_intrinsic
+CB1433,2,,4,WED167,cb_intrinsic
+CB1467,2,,4,CB1467,cb_intrinsic
+CB1471,2,,4,ATL020,cb_intrinsic
+CB1472,2,,4,AVLP463,cb_intrinsic
+CB1478,4,,2,CB1478,cb_intrinsic
+CB1483,3,,3,CB1483,cb_intrinsic
+CB1497,2,,4,SMP416,cb_intrinsic
+CB1557,3,,3,CB1557,cb_intrinsic
+CB1609,2,,4,GNG615,cb_intrinsic
+CB1626,2,,4,CB1626,cb_intrinsic
+CB1644,3,,3,ATL019,cb_intrinsic
+CB1657,1,,5,AVLP064,cb_intrinsic
+CB1667,1,,5,LHAV1a4,cb_intrinsic
+CB1675,2,,4,WED093,cb_intrinsic
+CB1751,4,,2,WED167,cb_intrinsic
+CB1795,2,,4,CB1795,cb_intrinsic
+CB1803,2,,4,CB1803,cb_intrinsic
+CB1914,2,,4,CB1914,cb_intrinsic
+CB1924,2,,4,CB1924,cb_intrinsic
+CB1942,2,,4,CB1942,cb_intrinsic
+CB1943,2,,4,LHAV4g12,cb_intrinsic
+CB1944,2,,4,WED074,cb_intrinsic
+CB1980,2,,4,CB1980,cb_intrinsic
+CB1988,1,,5,M_lvPNm33,cb_intrinsic
+CB2001,4,,2,AVLP262,cb_intrinsic
+CB2054,5,,1,GNG319,cb_intrinsic
+CB2070,1,,5,AOTU002_a,cb_intrinsic
+CB2078,1,,5,SLP089,cb_intrinsic
+CB2088,3,,3,CB2088,cb_intrinsic
+CB2107,2,,4,CB2107,cb_intrinsic
+CB2108,3,,3,CB2108,cb_intrinsic
+CB2115,2,,4,GNG611,cb_intrinsic
+CB2117,1,,5,CB2117,cb_intrinsic
+CB2126,2,,4,PS356,cb_intrinsic
+CB2136,1,,5,CB2136,cb_intrinsic
+CB2153,2,,4,CB2153,cb_intrinsic
+CB2162,2,,4,GNG636,cb_intrinsic
+CB2167,2,,4,AVLP407,cb_intrinsic
+CB2178,2,,4,CB2178,cb_intrinsic
+CB2179,2,,4,SLP078,cb_intrinsic
+CB2183,3,,3,PLP111,cb_intrinsic
+CB2191,4,,2,GNG403,cb_intrinsic
+CB2211,1,,5,LHPV4i3,cb_intrinsic
+CB2217,1,,5,SMP007,cb_intrinsic
+CB2235,2,,4,CB2235,cb_intrinsic
+CB2243,1,,5,LHPV4a5,cb_intrinsic
+CB2256,2,,4,AVLP104,cb_intrinsic
+CB2312,1,,5,CL049,cb_intrinsic
+CB2322,2,,4,AMMC032,cb_intrinsic
+CB2335,2,,4,SLP015_b,cb_intrinsic
+CB2348,3,,3,CB2348,cb_intrinsic
+CB2350,2,,4,AVLP365,cb_intrinsic
+CB2361,2,,4,CB2361,cb_intrinsic
+CB2412,2,,4,CB2412,cb_intrinsic
+CB2426,4,,2,AVLP203_a,cb_intrinsic
+CB2430,4,,2,CB2430,cb_intrinsic
+CB2436,2,,4,LHAV3e1,cb_intrinsic
+CB2453,2,,4,CB2453,cb_intrinsic
+CB2481,2,,4,CB2481,cb_intrinsic
+CB2498,1,,5,CB2498,cb_intrinsic
+CB2514,1,,5,CB2514,cb_intrinsic
+CB2516,3,,3,GNG393,cb_intrinsic
+CB2518,3,,3,CB2518,cb_intrinsic
+CB2524,2,,4,LHPV5a2,cb_intrinsic
+CB2550,1,,5,CB2550,cb_intrinsic
+CB2553,3,,3,GNG406,cb_intrinsic
+CB2572,4,,2,CB2572,cb_intrinsic
+CB2611,2,,4,CL046,cb_intrinsic
+CB2624,2,,4,CB2624,cb_intrinsic
+CB2628,2,,4,SMP088,cb_intrinsic
+CB2644,4,,2,GNG388,cb_intrinsic
+CB2645,2,,4,AVLP063,cb_intrinsic
+CB2655,2,,4,CB2655,cb_intrinsic
+CB2672,3,,3,AVLP176_b,cb_intrinsic
+CB2695,2,,4,GNG663,cb_intrinsic
+CB2711,2,,4,CB2711,cb_intrinsic
+CB2735,4,,2,AVLP117,cb_intrinsic
+CB2748,2,efferent neuron,4,GNG656,cb_efferent
+CB2769,1,,5,CB2769,cb_intrinsic
+CB2773,2,,4,CB2038,cb_intrinsic
+CB2826,4,,2,WED157,cb_intrinsic
+CB2829,1,,5,AVLP549,cb_intrinsic
+CB2863,1,,5,CB2863,cb_intrinsic
+CB2887,2,,4,LHAV3b2_b,cb_intrinsic
+CB2936,4,,2,CB2936,cb_intrinsic
+CB2952,2,,4,CB2952,cb_intrinsic
+CB2967,1,,5,CB2967,cb_intrinsic
+CB2972,2,,4,CB2972,cb_intrinsic
+CB2978,1,,5,AVLP004_b,cb_intrinsic
+CB2979,2,,4,CB2979,cb_intrinsic
+CB2985,4,,2,CB2985,cb_intrinsic
+CB2988,2,,4,CB2988,cb_intrinsic
+CB2991,2,,4,SLP113,cb_intrinsic
+CB3007,2,,4,CB3007,cb_intrinsic
+CB3012,2,,4,CB3012,cb_intrinsic
+CB3018,3,,3,CL185,cb_intrinsic
+CB3030,4,,2,CB3030,cb_intrinsic
+CB3060,4,,2,CB3060,cb_intrinsic
+CB3067,4,,2,CB3067,cb_intrinsic
+CB3080,2,,4,CB3080,cb_intrinsic
+CB3113,2,,4,CB3113,cb_intrinsic
+CB3148,3,,3,LHPV5h2_b,cb_intrinsic
+CB3173,2,,4,CB3173,cb_intrinsic
+CB3185,2,,4,CB3185,cb_intrinsic
+CB3201,2,,4,CB3201,cb_intrinsic
+CB3215,2,,4,CRE090,cb_intrinsic
+CB3242,5,sensory neuron,1,GNG366,cb_intrinsic
+CB3255,2,,4,CB3255,cb_intrinsic
+CB3305,2,,4,CB3305,cb_intrinsic
+CB3324,2,,4,AVLP104,cb_intrinsic
+CB3325,1,,5,GNG364,cb_intrinsic
+CB3391,1,,5,CB3391,cb_intrinsic
+CB3441,2,,4,CB3441,cb_intrinsic
+CB3447,1,,5,CB3447,cb_intrinsic
+CB3457,1,,5,M_vPNml68,cb_intrinsic
+CB3458,2,,4,LHPD2c2,cb_intrinsic
+CB3459,4,,2,CB3459,cb_intrinsic
+CB3484,2,,4,AVLP110_a,cb_intrinsic
+CB3509,2,,4,SMP245,cb_intrinsic
+CB3513,2,,4,CB3513,cb_intrinsic
+CB3514,2,,4,AVLP600,cb_intrinsic
+CB3537,2,,4,WED132,cb_intrinsic
+CB3541,2,,4,CB3541,cb_intrinsic
+CB3562,2,,4,GNG357,cb_intrinsic
+CB3570,4,,2,CB3570,cb_intrinsic
+CB3646,2,,4,CB3646,cb_intrinsic
+CB3658,4,,2,PRW013,cb_intrinsic
+CB3659,5,,1,GNG354,cb_intrinsic
+CB3663,2,,4,AVLP112,cb_intrinsic
+CB3666,2,,4,CB3666,cb_intrinsic
+CB3685,2,,4,AVLP204,cb_intrinsic
+CB3696,2,,4,PRW012,cb_intrinsic
+CB3720,3,,3,GNG350,cb_intrinsic
+CB3728,4,,2,CB3728,cb_intrinsic
+CB3740,2,,4,CB3740,cb_intrinsic
+CB3745,2,,4,CB3745,cb_intrinsic
+CB3777,1,,5,SLP330,cb_intrinsic
+CB3790,2,,4,LoVP81,cb_intrinsic
+CB3805,2,,4,AMMC017,cb_intrinsic
+CB3872,4,,2,CL090_d,cb_intrinsic
+CL018a,2,,4,CL018,cb_intrinsic
+CL081,3,,3,CL081,cb_intrinsic
+CL089_c,1,,5,CL089_c,cb_intrinsic
+CL090_a,2,,4,CL090_a,cb_intrinsic
+CL113,2,,4,CL113,cb_intrinsic
+CL120b,2,,4,CL120,cb_intrinsic
+CL165,2,,4,CL165,cb_intrinsic
+CL196a,2,,4,CL196,cb_intrinsic
+CL208,2,,4,CL208,cb_intrinsic
+CL234,2,,4,CL234,cb_intrinsic
+CL239,1,,5,CL239,cb_intrinsic
+CL261b,4,,2,CL261,cb_intrinsic
+CL271,2,,4,CL271,cb_intrinsic
+CL356,2,,4,CL356,cb_intrinsic
+CRE017,2,,4,CRE017,cb_intrinsic
+CRE020,2,,4,CRE020,cb_intrinsic
+CRE059,2,,4,CRE059,cb_intrinsic
+CRE079,4,,2,CRE079,cb_intrinsic
+DC2_adPN,2,,4,DC2_adPN,cb_intrinsic
+DN1a,2,glia,4,DN1a,cb_intrinsic
+DNb08,2,CNS neuron,4,DNb08,descending_neuron
+DNde003,2,CNS neuron,4,DNde003,descending_neuron
+DNg02_b,1,CNS neuron,5,DNg02_b,descending_neuron
+DNg12_d,2,CNS neuron,4,DNg12_d,descending_neuron
+DNg36_a,2,CNS neuron,4,DNg36_a,descending_neuron
+DNg85,4,CNS neuron,2,DNg85,descending_neuron
+DNge012,4,CNS neuron,2,DNge012,descending_neuron
+DNge015,1,CNS neuron,5,DNge015,descending_neuron
+DNge145,2,CNS neuron,4,DNge145,descending_neuron
+DNge172,2,CNS neuron,4,DNge172,descending_neuron
+DNp67,4,CNS neuron,2,DNp67,descending_neuron
+DNx01,4,sensory neuron,2,DNx01,sensory_descending
+FB2G_a,4,,2,FB2G_a,cb_intrinsic
+FB5N,2,,4,FB5N,cb_intrinsic
+IB031,2,,4,IB031,cb_intrinsic
+IB051,2,,4,IB051,cb_intrinsic
+IB115,2,,4,IB115,cb_intrinsic
+LAL020,2,,4,LAL020,cb_intrinsic
+LAL030b,2,,4,LAL030_a,cb_intrinsic
+LAL042,4,,2,LAL042,cb_intrinsic
+LAL043c,2,,4,LAL043_c,cb_intrinsic
+LAL047,4,,2,LAL047,cb_intrinsic
+LAL088,3,,3,LAL088,cb_intrinsic
+LAL112,2,,4,LAL112,cb_intrinsic
+LAL145,2,,4,LAL145,cb_intrinsic
+LAL150b,2,,4,LAL150,cb_intrinsic
+LAL175,2,,4,LAL175,cb_intrinsic
+LAL179a,2,,4,LAL179,cb_intrinsic
+LC10f,2,,4,LoVP76,visual_projection
+LHAD1a4b,2,,4,LHAD1a4_b,cb_intrinsic
+LHAD1d2,2,,4,LHAD1d2,cb_intrinsic
+LHAD3a8,2,,4,LHAD3a8,cb_intrinsic
+LHAV2b2b,4,,2,LHAV2b2_c,cb_intrinsic
+LHAV2b7_a,2,,4,LHAV2b7_a,cb_intrinsic
+LHAV3g2,2,,4,LHAV3g2,cb_intrinsic
+LHAV4g1b,4,,2,LHAV4g1,cb_intrinsic
+LHAV4i1,2,,4,LHAV4i1,cb_intrinsic
+LHAV7a1b,3,,3,LHAV7a1_b,cb_intrinsic
+LHAV7a1c,1,,5,LHAV7a1,cb_intrinsic
+LHPV1c1,3,,3,LHPV1c1,cb_intrinsic
+LHPV2g1,2,,4,LHPV2g1,cb_intrinsic
+LHPV3a2,1,,5,LHPV3a2,cb_intrinsic
+LHPV7a2,2,,4,LHPV7a2,cb_intrinsic
+LNd_b,2,,4,LNd_b,cb_intrinsic
+LT43,2,,4,LT43,visual_projection
+LT73,3,,3,LT73,visual_projection
+LTe02,2,,4,LoVP71,visual_projection
+LTe33,2,,4,LoVP62,visual_projection
+MDN,2,CNS neuron,4,MDN,descending_neuron
+MTe34,4,,2,MeVP50,visual_projection
+MTe35,4,,2,MeVP52,visual_projection
+M_l2PNm16,2,,4,M_l2PNm16,cb_intrinsic
+M_lvPNm25,2,,4,M_lvPNm25,cb_intrinsic
+MeMe_e11,2,,4,MeVPMe12,ol_intrinsic
+OCG01c,4,sensory neuron,2,OCG01c,visual_projection
+PLP015,2,,4,PLP015,cb_intrinsic
+PLP017,2,,4,PLP017,cb_intrinsic
+PLP021,2,,4,PLP021,cb_intrinsic
+PLP023,2,,4,PLP023,cb_intrinsic
+PLP025a,2,,4,PLP025,cb_intrinsic
+PLP071,2,,4,PLP071,cb_intrinsic
+PLP081,2,,4,PLP081,cb_intrinsic
+PLP113,2,,4,PLP113,cb_intrinsic
+PLP142,2,,4,PLP142,cb_intrinsic
+PLP156,2,,4,PLP156,cb_intrinsic
+PLP173,3,,3,PLP173,cb_intrinsic
+PS019,2,,4,PS019,cb_intrinsic
+PS021,2,,4,PS021,cb_intrinsic
+PS092,4,,2,PS092,cb_intrinsic
+PS237,2,,4,PS237,cb_intrinsic
+PS263,2,,4,PS263,cb_intrinsic
+PS279,2,,4,PS279,cb_intrinsic
+PVLP021,2,,4,PVLP021,cb_intrinsic
+PVLP070,2,,4,PVLP070,cb_intrinsic
+PVLP101c,1,,5,PVLP101,cb_intrinsic
+PVLP102,4,,2,PVLP102,cb_intrinsic
+PVLP118,2,,4,PVLP118,cb_intrinsic
+PVLP149,2,,4,PVLP149,cb_intrinsic
+SAD040,2,,4,SAD040,cb_intrinsic
+SAD080,3,,3,SAD080,cb_intrinsic
+SIP034,2,,4,SIP034,cb_intrinsic
+SLP025b,4,,2,SLP025,cb_intrinsic
+SLP028c,2,CNS neuron,4,SLP028,cb_intrinsic
+SLP062,2,,4,SLP062,cb_intrinsic
+SLP101,2,,4,SLP101,cb_intrinsic
+SLP137,2,,4,SLP137,cb_intrinsic
+SLP157,2,,4,SLP157,cb_intrinsic
+SLP244,2,,4,SLP244,cb_intrinsic
+SLP321,2,,4,SLP321,cb_intrinsic
+SLP359,2,,4,SLP359,cb_intrinsic
+SMP020,2,,4,SMP020,cb_intrinsic
+SMP087,2,,4,SMP087,cb_intrinsic
+SMP095,2,,4,SMP095,cb_intrinsic
+SMP102,1,,5,SMP102,cb_intrinsic
+SMP107,2,,4,SMP107,cb_intrinsic
+SMP155,2,,4,SMP155,cb_intrinsic
+SMP160,2,,4,SMP160,cb_intrinsic
+SMP170,2,,4,SMP170,cb_intrinsic
+SMP207,2,,4,SMP207,cb_intrinsic
+SMP208,1,,5,SMP208,cb_intrinsic
+SMP271,2,,4,SMP271,cb_intrinsic
+SMP342,3,,3,SMP342,cb_intrinsic
+SMP399a,2,,4,SMP399_a,cb_intrinsic
+SMP399b,2,,4,SMP399_b,cb_intrinsic
+SMP408_a,2,,4,SMP408_a,cb_intrinsic
+SMP451b,4,,2,SMP451,cb_intrinsic
+SMP570b,3,,3,SMP570,cb_intrinsic
+Sm38,2,,4,Cm30,ol_intrinsic
+Sm40,2,,4,Cm31a,ol_intrinsic
+VA1v_vPN,2,,4,VA1v_vPN,cb_intrinsic
+VA3_adPN,2,,4,VA3_adPN,cb_intrinsic
+VL2p_vPN,2,,4,VL2p_vPN,cb_intrinsic
+VP1m+_lvPN,2,,4,VP1m+_lvPN,cb_intrinsic
+WED060,2,,4,WED060,cb_intrinsic
+WED082,2,,4,WED082,cb_intrinsic
+WED097,2,,4,WED097,cb_intrinsic
+WED155a,2,,4,WED155,cb_intrinsic
+aMe8,2,,4,aMe8,visual_projection
+aSP8,2,,4,AVLP009,cb_intrinsic
+l2LN20,1,,5,l2LN20,cb_intrinsic
+l2LN23,2,,4,l2LN23,cb_intrinsic
+lLN2F_a,2,,4,lLN2F_a,cb_intrinsic
+lLN2T_d,2,,4,lLN2T_d,cb_intrinsic
+lLN2T_e,2,,4,lLN2T_e,cb_intrinsic
+lLN2X03,1,,5,lLN2T_a,cb_intrinsic
+mALC6,2,,4,LoVC23,cb_intrinsic
+v2LN39a,2,,4,v2LN39a,cb_intrinsic
+vCal1,4,,2,vCal1,visual_projection
+5-HTPMPV01,3,glia,2,5-HTPMPV01,cb_intrinsic
+AC neuron,1,,4,aDT4,cb_intrinsic
+ALIN3,1,,4,ALIN3,cb_intrinsic
+AN_AVLP_14,3,,2,AN08B018,ascending_neuron
+AN_AVLP_24,3,,2,ANXXX098,ascending_neuron
+AN_AVLP_25,3,,2,ANXXX098,ascending_neuron
+AN_AVLP_26,1,,4,AN01A033,ascending_neuron
+AN_AVLP_31,3,,2,AN08B024,ascending_neuron
+AN_AVLP_41,3,,2,AN09B015,ascending_neuron
+AN_AVLP_44,3,CNS neuron,2,ANXXX120,ascending_neuron
+AN_AVLP_46,3,,2,AN10B033,ascending_neuron
+AN_AVLP_GNG_18,3,,2,ANXXX027,ascending_neuron
+AN_AVLP_GNG_4,3,,2,ANXXX027,ascending_neuron
+AN_AVLP_GNG_8,2,,3,AN05B099,ascending_neuron
+AN_AVLP_PVLP_1,3,,2,ANXXX027,ascending_neuron
+AN_AVLP_PVLP_8,3,,2,AN09B012,ascending_neuron
+AN_FLA_SMP_2,1,,4,ANXXX150,ascending_neuron
+AN_GNG_195,3,,2,AN09B018,ascending_neuron
+AN_GNG_28,3,,2,AN09B006,ascending_neuron
+AN_GNG_38,3,,2,ANXXX200,ascending_neuron
+AN_GNG_56,3,,2,AN02A016,ascending_neuron
+AN_GNG_73,3,,2,ANXXX404,ascending_neuron
+AN_GNG_96,3,,2,AN05B106,ascending_neuron
+AN_GNG_IPS_7,3,,2,AN07B021,ascending_neuron
+AN_GNG_IPS_9,3,,2,AN03B039,ascending_neuron
+AN_GNG_SAD_2,3,,2,AN09B009,ascending_neuron
+AN_GNG_SAD_27,3,CNS neuron,2,AN10B015,ascending_neuron
+AN_GNG_SAD_34,1,,4,AN08B023,ascending_neuron
+AN_GNG_SAD_9,3,,2,AN17A012,ascending_neuron
+AN_GNG_VES_5,3,,2,AN04B001,ascending_neuron
+AN_GNG_VES_8,3,CNS neuron,2,AN04B001,ascending_neuron
+AN_IPS_GNG_2,3,,2,AN02A022,ascending_neuron
+AN_SPS_IPS_1,3,,2,AN07B078_b,ascending_neuron
+AN_VES_WED_2,3,,2,AN10B024,ascending_neuron
+AN_multi_110,3,,2,ANXXX165,ascending_neuron
+AN_multi_114,3,,2,AN17A062,ascending_neuron
+AN_multi_15,3,,2,AN12B019,ascending_neuron
+AN_multi_21,3,,2,AN09B060,ascending_neuron
+AN_multi_32,3,,2,ANXXX139,ascending_neuron
+AN_multi_45,3,,2,AN08B022,ascending_neuron
+AN_multi_52,3,,2,AN08B026,ascending_neuron
+AN_multi_98,1,,4,AN08B048,ascending_neuron
+AOTU011,1,,4,AOTU011,cb_intrinsic
+AOTU021,3,,2,AOTU021,cb_intrinsic
+AOTU050a,1,,4,AOTU050,cb_intrinsic
+ATL013,1,,4,ATL013,cb_intrinsic
+ATL025,3,,2,ATL025,cb_intrinsic
+AVLP164,1,,4,AVLP164,cb_intrinsic
+AVLP165,1,,4,AVLP165,cb_intrinsic
+AVLP182,2,,3,AVLP182,cb_intrinsic
+AVLP203,3,,2,AVLP203_c,cb_intrinsic
+AVLP205a,2,,3,AVLP205,cb_intrinsic
+AVLP218b,1,,4,AVLP218_b,cb_intrinsic
+AVLP219a,1,,4,AVLP219_a,cb_intrinsic
+AVLP222,3,,2,AVLP222,cb_intrinsic
+AVLP259,1,,4,AVLP259,cb_intrinsic
+AVLP282,1,,4,AVLP282,cb_intrinsic
+AVLP284,2,,3,AVLP284,cb_intrinsic
+AVLP312a,1,,4,AVLP312,cb_intrinsic
+AVLP344,3,,2,AVLP344,cb_intrinsic
+AVLP420_b,1,,4,AVLP420_b,cb_intrinsic
+AVLP436,1,,4,AVLP436,cb_intrinsic
+AVLP457,3,,2,AVLP457,cb_intrinsic
+AVLP496a,2,,3,AVLP496,cb_intrinsic
+AVLP497,3,,2,AVLP497,cb_intrinsic
+AVLP519a,3,,2,AVLP519,cb_intrinsic
+AVLP519b,1,,4,AVLP519,cb_intrinsic
+AVLP555,2,,3,AVLP555,cb_intrinsic
+AVLP567,1,,4,AVLP567,cb_intrinsic
+CB.FB1H0,1,,4,FB1C,cb_intrinsic
+CB.FB2H0,1,,4,FB2A,cb_intrinsic
+CB.FB2I0,1,,4,FB2L,cb_intrinsic
+CB.FB5E1,1,,4,FB5Y_a,cb_intrinsic
+CB.FB5F1,1,,4,FB5A,cb_intrinsic
+CB.FB8B0,1,,4,FB8B,cb_intrinsic
+CB.FB8B1,1,,4,FB8C,cb_intrinsic
+CB0096,1,,4,AVLP599,cb_intrinsic
+CB0098,2,,3,GNG575,cb_intrinsic
+CB0100,3,,2,LAL204,cb_intrinsic
+CB0124,2,,3,GNG572,cb_intrinsic
+CB0148,3,,2,AVLP598,cb_intrinsic
+CB0195,2,,3,GNG556,cb_intrinsic
+CB0269,3,,2,SMP508,cb_intrinsic
+CB0327,2,,3,WED192,cb_intrinsic
+CB0345,1,,4,WED166_a,cb_intrinsic
+CB0350,3,sensory neuron,2,PRW063,cb_intrinsic
+CB0379,2,,3,LHAV2g6,cb_intrinsic
+CB0391,2,,3,CB0391,cb_intrinsic
+CB0419,3,,2,GNG524,cb_intrinsic
+CB0421,3,,2,GNG247,cb_intrinsic
+CB0433,2,,3,GNG523,cb_intrinsic
+CB0450,3,,2,AVLP400,cb_intrinsic
+CB0455,3,,2,GNG063,cb_intrinsic
+CB0479,3,,2,GNG076,cb_intrinsic
+CB0591,1,,4,CB0591,cb_intrinsic
+CB0601,2,,3,GNG496,cb_intrinsic
+CB0650,1,,4,CB0650,cb_intrinsic
+CB0668,3,,2,PLP261,cb_intrinsic
+CB0722,1,,4,GNG627,cb_intrinsic
+CB0755,1,,4,PS315,cb_intrinsic
+CB0757,1,,4,LAL083,cb_intrinsic
+CB0788,3,,2,GNG164,cb_intrinsic
+CB0798,3,,2,GNG469,cb_intrinsic
+CB0824,3,,2,GNG169,cb_intrinsic
+CB0829,1,,4,CB0829,cb_intrinsic
+CB0859,3,,2,GNG178,cb_intrinsic
+CB0917,2,,3,GNG456,cb_intrinsic
+CB0931,2,,3,SIP021_b,cb_intrinsic
+CB0942,1,,4,CRE099,cb_intrinsic
+CB1016,1,,4,LHPD5e1,cb_intrinsic
+CB1057,1,,4,CB1057,cb_intrinsic
+CB1060,1,,4,CB1060,cb_intrinsic
+CB1074,1,,4,CB1074,cb_intrinsic
+CB1113,3,,2,LHAV2k12_b,cb_intrinsic
+CB1120,3,,2,GNG445,cb_intrinsic
+CB1150,2,CNS neuron,3,CB1150,cb_intrinsic
+CB1179,1,,4,CB1179,cb_intrinsic
+CB1190,1,,4,CB1190,cb_intrinsic
+CB1215,1,,4,LPN_a,cb_intrinsic
+CB1226,1,,4,SMP086,cb_intrinsic
+CB1233,2,,3,CB1233,cb_intrinsic
+CB1241,1,,4,CB1241,cb_intrinsic
+CB1263,2,,3,CB1263,cb_intrinsic
+CB1270,1,,4,PS042,cb_intrinsic
+CB1283,1,,4,WED143_b,cb_intrinsic
+CB1301,3,,2,CB1301,cb_intrinsic
+CB1304,3,,2,GNG441,cb_intrinsic
+CB1308,1,,4,CB1308,cb_intrinsic
+CB1365,1,,4,CB1365,cb_intrinsic
+CB1376,1,,4,GNG439,cb_intrinsic
+CB1413,3,,2,CB1413,cb_intrinsic
+CB1414,1,,4,VES031,cb_intrinsic
+CB1462,3,,2,SLP043,cb_intrinsic
+CB1477,2,,3,CB1477,cb_intrinsic
+CB1489,1,,4,SIP030,cb_intrinsic
+CB1500,1,,4,CB1500,cb_intrinsic
+CB1502,1,,4,CB1502,cb_intrinsic
+CB1517,2,,3,GNG425,cb_intrinsic
+CB1532,1,,4,CB1532,cb_intrinsic
+CB1541,1,,4,CB1541,cb_intrinsic
+CB1545,2,glia,3,CB1545,cb_intrinsic
+CB1547,2,,3,CB1547,cb_intrinsic
+CB1559,2,,3,SLP138,cb_intrinsic
+CB1564,1,,4,CB1564,cb_intrinsic
+CB1573,1,,4,AVLP225_b3,cb_intrinsic
+CB1607,4,,1,CB1607,cb_intrinsic
+CB1627,2,,3,CB1627,cb_intrinsic
+CB1661,1,,4,LHPV4d10,cb_intrinsic
+CB1678,3,,2,CB1678,cb_intrinsic
+CB1682,1,,4,AVLP424,cb_intrinsic
+CB1695,1,,4,CB1695,cb_intrinsic
+CB1697,1,,4,CB1697,cb_intrinsic
+CB1722,1,sensory neuron,4,LHAV4d1,cb_intrinsic
+CB1729,3,,2,CB1729,cb_intrinsic
+CB1733,1,,4,CB1733,cb_intrinsic
+CB1744,2,,3,CB1744,cb_intrinsic
+CB1771,1,,4,CB1771,cb_intrinsic
+CB1792,1,,4,CB1792,cb_intrinsic
+CB1841,1,,4,CB1841,cb_intrinsic
+CB1849,1,,4,CB1849,cb_intrinsic
+CB1938,2,,3,CB1938,cb_intrinsic
+CB1959,3,,2,CB1959,cb_intrinsic
+CB1976,1,,4,CB1976,cb_intrinsic
+CB1987,1,,4,CB1987,cb_intrinsic
+CB1999,2,,3,PLVP059,cb_intrinsic
+CB2065,1,,4,GNG165,cb_intrinsic
+CB2090,1,sensory neuron,4,CB2090,cb_intrinsic
+CB2092,3,,2,CB2092,cb_intrinsic
+CB2097,1,,4,LHAV6a4,cb_intrinsic
+CB2118,1,,4,SMP382,cb_intrinsic
+CB2132,3,,2,CB2132,cb_intrinsic
+CB2141,3,,2,LHPV2a2,cb_intrinsic
+CB2144,1,,4,CB2144,cb_intrinsic
+CB2226,1,,4,CB2226,cb_intrinsic
+CB2230,2,,3,CB2230,cb_intrinsic
+CB2247,2,,3,LHAV6b3,cb_intrinsic
+CB2270,1,,4,CB2270,cb_intrinsic
+CB2279,1,,4,LHAD3e1_a,cb_intrinsic
+CB2310,1,,4,CB2310,cb_intrinsic
+CB2329,1,,4,SMP133,cb_intrinsic
+CB2330,1,,4,AVLP170,cb_intrinsic
+CB2337,1,,4,CB2337,cb_intrinsic
+CB2355,2,,3,GNG397,cb_intrinsic
+CB2365,1,,4,CB2365,cb_intrinsic
+CB2371,3,,2,CB2371,cb_intrinsic
+CB2373,3,,2,CB2373,cb_intrinsic
+CB2377,1,,4,CB2377,cb_intrinsic
+CB2397,1,,4,WED159,cb_intrinsic
+CB2401,1,,4,CB2401,cb_intrinsic
+CB2438,1,,4,SMP220,cb_intrinsic
+CB2475,3,,2,CB2475,cb_intrinsic
+CB2525,1,,4,SMP324,cb_intrinsic
+CB2538,1,,4,CB2538,cb_intrinsic
+CB2559,1,,4,CB2559,cb_intrinsic
+CB2577,2,,3,SMP024,cb_intrinsic
+CB2584,1,,4,CB2584,cb_intrinsic
+CB2596,1,,4,CB2596,cb_intrinsic
+CB2612,1,,4,AVLP003,cb_intrinsic
+CB2627,3,,2,CB2627,cb_intrinsic
+CB2647,1,,4,GNG387,cb_intrinsic
+CB2664,1,,4,CB2664,cb_intrinsic
+CB2677,1,,4,LHPD3a2_c,cb_intrinsic
+CB2702,1,,4,CB2702,cb_intrinsic
+CB2737,2,,3,CB2737,cb_intrinsic
+CB2754,1,,4,CB2754,cb_intrinsic
+CB2759,1,,4,LHAV3b2_a,cb_intrinsic
+CB2789,1,,4,CB2789,cb_intrinsic
+CB2796,4,,1,LHPV3a3_b,cb_intrinsic
+CB2866,3,,2,AVLP274_b,cb_intrinsic
+CB2877,3,,2,CB2877,cb_intrinsic
+CB2904,1,,4,CB2904,cb_intrinsic
+CB2908,1,,4,CB2908,cb_intrinsic
+CB2913,3,,2,CB2913,cb_intrinsic
+CB2927,2,,3,CB2927,cb_intrinsic
+CB2943,1,,4,CRE034,cb_intrinsic
+CB2945,2,,3,LHPD2a6,cb_intrinsic
+CB2998,2,,3,LHPV2c5,cb_intrinsic
+CB3042,1,,4,CB3042,cb_intrinsic
+CB3052,3,,2,CB3052,cb_intrinsic
+CB3073,1,,4,LHPV4d4,cb_intrinsic
+CB3085,1,,4,LHAV6b3,cb_intrinsic
+CB3099,1,,4,AVLP115,cb_intrinsic
+CB3135,2,,3,CB3135,cb_intrinsic
+CB3151,2,,3,GNG373,cb_intrinsic
+CB3208,1,,4,CB3208,cb_intrinsic
+CB3228,2,,3,CB3228,cb_intrinsic
+CB3236,1,,4,CB3236,cb_intrinsic
+CB3254,1,,4,GNG367_a,cb_intrinsic
+CB3263,1,,4,CL275,cb_intrinsic
+CB3267,2,,3,PRW021,cb_intrinsic
+CB3294,1,,4,LHPV2c4,cb_intrinsic
+CB3302,1,,4,CB3302,cb_intrinsic
+CB3318,1,,4,CB3318,cb_intrinsic
+CB3331,1,,4,LHPD2a4_b,cb_intrinsic
+CB3340,1,,4,CB3340,cb_intrinsic
+CB3372,1,,4,PS333,cb_intrinsic
+CB3376,1,,4,CB3376,cb_intrinsic
+CB3390,1,,4,AVLP511,cb_intrinsic
+CB3404,2,,3,CB3404,cb_intrinsic
+CB3433,3,,2,CB3433,cb_intrinsic
+CB3450,1,,4,CB3450,cb_intrinsic
+CB3453,3,,2,CB3453,cb_intrinsic
+CB3466,1,,4,CB3466,cb_intrinsic
+CB3483,1,,4,PVLP047,cb_intrinsic
+CB3499,2,,3,CB3499,cb_intrinsic
+CB3528,2,,3,CB3528,cb_intrinsic
+CB3530,1,,4,CB3530,cb_intrinsic
+CB3544,3,,2,CB3544,cb_intrinsic
+CB3547,1,,4,VES097,cb_intrinsic
+CB3548,2,,3,CB3548,cb_intrinsic
+CB3555,1,,4,LHPV4c1_c,cb_intrinsic
+CB3569,1,,4,CB3569,cb_intrinsic
+CB3578,1,,4,CB3578,cb_intrinsic
+CB3595,3,,2,CB3595,cb_intrinsic
+CB3598,2,,3,CB3598,cb_intrinsic
+CB3614,1,,4,CB3614,cb_intrinsic
+CB3649,2,,3,CB3649,cb_intrinsic
+CB3668,3,,2,AVLP163,cb_intrinsic
+CB3694,1,,4,VES107,cb_intrinsic
+CB3733,1,,4,CB3733,cb_intrinsic
+CB3775,2,,3,SLP328,cb_intrinsic
+CB3784,1,,4,CB3784,cb_intrinsic
+CB3798,2,,3,CB3798,cb_intrinsic
+CB3863,3,,2,CB3863,cb_intrinsic
+CB3871,1,,4,CL090_d,cb_intrinsic
+CL016,2,,3,CL016,cb_intrinsic
+CL028,3,,2,CL028,cb_intrinsic
+CL074,1,,4,CL074,cb_intrinsic
+CL089_a,1,,4,CL089_a1,cb_intrinsic
+CL092,3,,2,CL092,cb_intrinsic
+CL127,1,,4,CL127,cb_intrinsic
+CL149,3,,2,CL149,cb_intrinsic
+CL186,2,,3,CL186,cb_intrinsic
+CL196b,3,,2,CL196,cb_intrinsic
+CL258,1,,4,CL258,cb_intrinsic
+CL270a,1,,4,CL270,cb_intrinsic
+CL282,1,,4,CL282,cb_intrinsic
+CL292a,1,,4,CL292,cb_intrinsic
+CL323b,3,,2,CL323,cb_intrinsic
+CL344,1,,4,CL344_a,cb_intrinsic
+CL348,1,,4,CL348,cb_intrinsic
+CRE013,3,,2,CRE013,cb_intrinsic
+CRE023,3,,2,CRE023,cb_intrinsic
+CRE049,3,,2,CRE049,cb_intrinsic
+CRE070,3,,2,CRE070,cb_intrinsic
+CRE072,1,,4,CRE072,cb_intrinsic
+CRE078,1,,4,CRE078,cb_intrinsic
+CRE087,3,,2,CRE088,cb_intrinsic
+CRE103a,1,,4,CRE103,cb_intrinsic
+DL1_adPN,1,,4,DL1_adPN,cb_intrinsic
+DL2d_vPN,1,,4,DL2d_vPN,cb_intrinsic
+DM4_adPN,3,,2,DM4_adPN,cb_intrinsic
+DN1pB,1,,4,DN1pB,cb_intrinsic
+DNa03,3,CNS neuron,2,DNa03,descending_neuron
+DNb02,1,CNS neuron,4,DNb02,descending_neuron
+DNbe007,3,CNS neuron,2,DNbe007,descending_neuron
+DNg28,1,glia,4,DNg28,efferent_descending
+DNg51,1,CNS neuron,4,DNg51,descending_neuron
+DNg64,3,CNS neuron,2,DNg64,descending_neuron
+DNg72,1,CNS neuron,4,DNg72,descending_neuron
+DNg88,3,CNS neuron,2,DNg88,descending_neuron
+DNge006,3,CNS neuron,2,DNge006,descending_neuron
+DNge009,1,CNS neuron,4,DNge009,descending_neuron
+DNge046,1,,4,DNge046,descending_neuron
+DNge060,3,CNS neuron,2,DNge060,descending_neuron
+DNge073,3,CNS neuron,2,DNge073,descending_neuron
+DNge078,3,CNS neuron,2,DNge078,descending_neuron
+DNge087,1,CNS neuron,4,DNge087,descending_neuron
+DNge090,1,CNS neuron,4,DNge090,descending_neuron
+DNge092,1,CNS neuron,4,DNge092,descending_neuron
+DNge093,1,CNS neuron,4,DNge093,descending_neuron
+DNge095,2,CNS neuron,3,DNge095,descending_neuron
+DNge117,1,,4,DNge117,descending_neuron
+DNge153,3,CNS neuron,2,DNge153,descending_neuron
+DNp22,3,CNS neuron,2,DNp22,descending_neuron
+DNp24,3,CNS neuron,2,DNp24,descending_neuron
+DNp53,3,CNS neuron,2,DNp53,descending_neuron
+DNp59,3,CNS neuron,2,DNp59,descending_neuron
+DNp71,3,CNS neuron,2,DNp71,descending_neuron
+DNpe031,1,CNS neuron,4,DNpe031,descending_neuron
+ExR2,1,,4,ExR2,cb_intrinsic
+FB1B,1,,4,FB1B,cb_intrinsic
+FB4J,3,,2,FB4J,cb_intrinsic
+FB4P_a,1,,4,FB4P_a,cb_intrinsic
+FB5O,3,,2,FB5O,cb_intrinsic
+FB6I,3,,2,FB6I,cb_intrinsic
+FB6R,1,,4,FB6R,cb_intrinsic
+FB6V,3,,2,FB6V,cb_intrinsic
+FB7F,1,,4,FB7F,cb_intrinsic
+IB045,1,,4,IB045,cb_intrinsic
+IB076,1,,4,IB076,cb_intrinsic
+ISN,1,sensory neuron,4,ISN,cb_intrinsic
+LAL004,4,,1,LAL004,cb_intrinsic
+LAL120,1,,4,LAL120_a,cb_intrinsic
+LAL126,1,,4,LAL126,cb_intrinsic
+LAL127,1,,4,LAL127,cb_intrinsic
+LAL133b,1,,4,LAL133_c,cb_intrinsic
+LAL149,1,,4,LAL149,cb_intrinsic
+LAL151,3,,2,LAL151,cb_intrinsic
+LAL187,3,,2,LAL187,cb_intrinsic
+LHAD1b3,1,,4,LHAD1b3,cb_intrinsic
+LHAD1c2a,2,,3,LHAD1c2,cb_intrinsic
+LHAD2c1,2,,3,LHAD2c1,cb_intrinsic
+LHAD2c2,1,,4,LHAD2c2,cb_intrinsic
+LHAD3g1,1,,4,LHAD3g1,cb_intrinsic
+LHAV1b1,1,,4,LHAV1b1,cb_intrinsic
+LHAV2b11,1,,4,LHAV2b11,cb_intrinsic
+LHAV2f2_b,1,,4,LHAV2f2_b,cb_intrinsic
+LHAV2g5,1,,4,LHAV2g5,cb_intrinsic
+LHAV2m1,1,,4,LHAV2m1,cb_intrinsic
+LHAV3g1,1,,4,LHAV3g1,cb_intrinsic
+LHAV4g1a,1,,4,LHAV4g1,cb_intrinsic
+LHAV6a1,1,,4,LHAV6a1,cb_intrinsic
+LHAV7a1a,1,,4,LHAV7a1_a,cb_intrinsic
+LHAV9a1_a,1,,4,LHAV9a1_a,cb_intrinsic
+LHCENT12b,1,,4,LHCENT12_b,cb_intrinsic
+LHCENT4,3,,2,LHCENT4,cb_intrinsic
+LHPD2c7,1,,4,LHPD2c7,cb_intrinsic
+LHPD2d2,3,,2,LHPD2d2,cb_intrinsic
+LHPV11a1,1,,4,LHPV11a1,cb_intrinsic
+LHPV4b2,3,,2,LHPV4b2,cb_intrinsic
+LHPV6k2,1,,4,LHPV6k2,cb_intrinsic
+LHPV6l2,3,,2,LHPV6l2,cb_intrinsic
+LMTe01,1,,4,CL125,visual_projection
+LNO1,1,,4,LNO1,cb_intrinsic
+LPi14,1,CNS neuron,4,LPi12,ol_intrinsic
+LT40,3,,2,LT40,visual_centrifugal
+LT69,3,,2,LT69,visual_projection
+LTe21,3,,2,LoVP101,visual_projection
+LTe35,3,,2,LoVP58,visual_projection
+LTe50,1,,4,LoVP38,visual_projection
+LTe55,3,,2,LoVP43,visual_projection
+LTe56,3,,2,LoVP60,visual_projection
+LTe67,1,CNS neuron,4,LoVP82,visual_projection
+MBON07,1,,4,MBON07,cb_intrinsic
+MBON12,1,,4,MBON12,cb_intrinsic
+MBON14,1,,4,MBON14,cb_intrinsic
+MBON15,1,,4,MBON15,cb_intrinsic
+MBON15-like,1,,4,MBON15-like,cb_intrinsic
+MTe30,3,,2,MeVP41,visual_projection
+MTe33,3,,2,MeVP47,visual_projection
+MTe38,3,,2,MeVP25,visual_projection
+MTe44,3,,2,MeVP24,visual_projection
+M_l2PN3t18,1,,4,M_l2PN3t18,cb_intrinsic
+M_lvPNm24,1,,4,M_lvPNm24,cb_intrinsic
+M_vPNml50,1,,4,M_vPNml50,cb_intrinsic
+M_vPNml67,1,,4,M_vPNml67,cb_intrinsic
+M_vPNml69,1,,4,M_vPNml69,cb_intrinsic
+M_vPNml72,1,,4,M_vPNml72,cb_intrinsic
+MeMe_e06,2,,3,MeVPMe4,visual_projection
+MeMe_e10,1,,4,MeVPMe10,ol_intrinsic
+OA-ASM3,3,,2,OA-ASM3,cb_intrinsic
+OCG02c,1,,4,OCG02c,visual_projection
+P6-8P9,1,,4,P6-8P9,cb_intrinsic
+PLP018,1,,4,PLP018,cb_intrinsic
+PLP037a,2,,3,WED038,cb_intrinsic
+PLP038,1,,4,PLP038,cb_intrinsic
+PLP042a,2,,3,PLP042a,cb_intrinsic
+PLP046c,1,,4,PLP046,cb_intrinsic
+PLP067b,1,,4,PLP067,cb_intrinsic
+PLP246,3,,2,PLP246,cb_intrinsic
+PS007,1,,4,PS007,cb_intrinsic
+PS022,1,,4,PS022,cb_intrinsic
+PS025,3,,2,PS025,cb_intrinsic
+PS026,1,,4,PS026,cb_intrinsic
+PS027,3,sensory neuron,2,PS027,cb_intrinsic
+PS059,1,,4,PS059,cb_intrinsic
+PS109,1,,4,PS109,cb_intrinsic
+PS115,3,,2,PS115,cb_intrinsic
+PS234,3,,2,PS234,cb_intrinsic
+PS292,1,,4,PS292,cb_intrinsic
+PVLP025,1,,4,PVLP025,cb_intrinsic
+PVLP081,1,,4,PVLP081,cb_intrinsic
+PVLP100,2,,3,PVLP100,cb_intrinsic
+PVLP122b,1,,4,PVLP122,cb_intrinsic
+PVLP123a,1,,4,PVLP123,cb_intrinsic
+PVLP123b,1,,4,PVLP123,cb_intrinsic
+PVLP124,3,,2,PVLP124,cb_intrinsic
+PVLP134,1,,4,PVLP134,cb_intrinsic
+PVLP135,1,,4,PVLP135,cb_intrinsic
+SIP005,1,,4,SIP005,cb_intrinsic
+SIP081,1,,4,SIP081,cb_intrinsic
+SLP027,1,,4,SLP027,cb_intrinsic
+SLP151,3,,2,SLP151,cb_intrinsic
+SLP274,2,,3,SLP274,cb_intrinsic
+SLP364,1,,4,SLP364,cb_intrinsic
+SLP375,1,,4,SLP375,cb_intrinsic
+SLP376,3,,2,SLP376,cb_intrinsic
+SLP438,1,,4,SLP438,cb_intrinsic
+SLP443,3,,2,SLP443,cb_intrinsic
+SLP456,3,,2,SLP456,cb_intrinsic
+SLP467a,1,,4,SLP467,cb_intrinsic
+SMP022b,1,,4,SMP022,cb_intrinsic
+SMP034,1,,4,SMP034,cb_intrinsic
+SMP055,1,,4,SMP055,cb_intrinsic
+SMP079,1,,4,SMP079,cb_intrinsic
+SMP081,1,,4,SMP081,cb_intrinsic
+SMP083,1,,4,SMP083,cb_intrinsic
+SMP090,1,,4,SMP090,cb_intrinsic
+SMP093,1,,4,SMP093,cb_intrinsic
+SMP112,1,,4,SMP112,cb_intrinsic
+SMP124,1,,4,SMP124,cb_intrinsic
+SMP162a,1,,4,SMP162,cb_intrinsic
+SMP178,3,,2,SMP178,cb_intrinsic
+SMP194,1,,4,SMP194,cb_intrinsic
+SMP245,1,,4,SMP245,cb_intrinsic
+SMP312,1,,4,SMP312,cb_intrinsic
+SMP317b,1,,4,SMP317,cb_intrinsic
+SMP320a,1,,4,SMP320,cb_intrinsic
+SMP329,1,,4,SMP329,cb_intrinsic
+SMP331a,1,,4,SMP331,cb_intrinsic
+SMP332b,2,,3,SMP332,cb_intrinsic
+SMP339,3,,2,SMP339,cb_intrinsic
+SMP361a,1,,4,SMP361,cb_intrinsic
+SMP370,3,,2,SMP370,cb_intrinsic
+SMP398,1,,4,SMP398_a,cb_intrinsic
+SMP413,1,,4,SMP413,cb_intrinsic
+SMP428,1,,4,SMP428_a,cb_intrinsic
+SMP476,1,,4,SMP476,cb_intrinsic
+SMP482,1,,4,SMP482,cb_intrinsic
+SMP532b,3,,2,SMP532_b,cb_intrinsic
+SMP533,2,,3,SMP533,cb_intrinsic
+SMP535,1,,4,SMP535,cb_intrinsic
+SMP539,1,,4,SMP539,cb_intrinsic
+SMP540,1,,4,SMP540,cb_intrinsic
+SMP562,3,,2,SMP562,cb_intrinsic
+SMP588,1,,4,SMP588,cb_intrinsic
+VM2_adPN,2,,3,VM2_adPN,cb_intrinsic
+VM3_adPN,1,,4,VM3_adPN,cb_intrinsic
+WED007,3,,2,WED007,cb_intrinsic
+WED017,3,,2,WED017,cb_intrinsic
+WED098,2,,3,WED098,cb_intrinsic
+WED099,2,,3,WED099,cb_intrinsic
+WED125,2,,3,WED125,cb_intrinsic
+WEDPN1B,3,,2,WEDPN1B,cb_intrinsic
+aMe3,3,,2,aMe3,visual_projection
+cL21,1,,4,LoVC16,visual_centrifugal
+cM16,3,,2,MeVC4b,visual_centrifugal
+lLN2T_c,1,,4,lLN2T_c,cb_intrinsic
+v2LN33,1,,4,v2LN33,cb_intrinsic
+v2LN49,1,glia,4,v2LN49,cb_intrinsic
+5-HTPMPD01,2,,2,5-HTPMPD01,cb_intrinsic
+5-HTPMPV03,2,,2,5-HTPMPV03,visual_centrifugal
+AL-AST1,1,,3,AL-AST1,cb_intrinsic
+AL-MBDL1,2,,2,AL-MBDL1,cb_intrinsic
+AN_AVLP_1,2,,2,AN07B018,ascending_neuron
+AN_AVLP_16,2,,2,AN09B027,ascending_neuron
+AN_AVLP_19,2,,2,AN08B034,ascending_neuron
+AN_AVLP_2,2,,2,ANXXX174,ascending_neuron
+AN_AVLP_20,2,,2,AN05B102a,ascending_neuron
+AN_AVLP_3,2,,2,AN19B036,ascending_neuron
+AN_AVLP_32,2,,2,AN08B025,ascending_neuron
+AN_AVLP_33,2,,2,AN08B024,ascending_neuron
+AN_AVLP_36,2,,2,AN08B018,ascending_neuron
+AN_AVLP_52,2,,2,AN17B009,ascending_neuron
+AN_AVLP_7,2,,2,ANXXX120,ascending_neuron
+AN_AVLP_8,2,,2,AN17B016,ascending_neuron
+AN_AVLP_9,2,,2,AN17B012,ascending_neuron
+AN_AVLP_GNG_1,2,CNS neuron,2,AN19B036,ascending_neuron
+AN_AVLP_GNG_16,2,,2,ANXXX144,ascending_neuron
+AN_AVLP_GNG_2,2,,2,AN01B014,ascending_neuron
+AN_AVLP_GNG_3,2,,2,AN17B007,ascending_neuron
+AN_AVLP_PVLP_10,2,,2,AN09B004,ascending_neuron
+AN_AVLP_PVLP_3,2,,2,ANXXX250,ascending_neuron
+AN_AVLP_PVLP_4,2,,2,ANXXX102,ascending_neuron
+AN_AVLP_PVLP_6,2,,2,AN09B004,ascending_neuron
+AN_AVLP_SAD_1,2,,2,AN08B034,ascending_neuron
+AN_FLA_GNG_2,2,,2,ANXXX254,ascending_neuron
+AN_GNG_106,2,,2,AN06B039,ascending_neuron
+AN_GNG_108,2,,2,AN23B010,ascending_neuron
+AN_GNG_111,2,,2,AN05B004,ascending_neuron
+AN_GNG_151,2,,2,AN12B011,ascending_neuron
+AN_GNG_155,2,CNS neuron,2,AN12B008,ascending_neuron
+AN_GNG_157,2,,2,AN14B012,ascending_neuron
+AN_GNG_160,2,,2,AN09B009,ascending_neuron
+AN_GNG_18,2,,2,AN19B010,ascending_neuron
+AN_GNG_21,2,CNS neuron,2,ANXXX462b,ascending_neuron
+AN_GNG_23,2,CNS neuron,2,ANXXX026,ascending_neuron
+AN_GNG_25,2,,2,ANXXX006,ascending_neuron
+AN_GNG_27,2,,2,ANXXX092,ascending_neuron
+AN_GNG_33,2,,2,AN09B020,ascending_neuron
+AN_GNG_4,2,,2,AN19B025,ascending_neuron
+AN_GNG_42,2,,2,AN07B046_c,ascending_neuron
+AN_GNG_47,2,,2,AN07B040,ascending_neuron
+AN_GNG_5,2,,2,AN01B002,ascending_neuron
+AN_GNG_65,2,sensory neuron,2,AN05B009,ascending_neuron
+AN_GNG_71,2,,2,AN09B018,ascending_neuron
+AN_GNG_72,2,,2,AN09B032,ascending_neuron
+AN_GNG_80,2,,2,AN06B025,ascending_neuron
+AN_GNG_81,2,CNS neuron,2,AN23B003,ascending_neuron
+AN_GNG_82,2,,2,AN02A046,ascending_neuron
+AN_GNG_89,2,,2,AN17A076,ascending_neuron
+AN_GNG_AMMC_1,2,,2,AN17B002,ascending_neuron
+AN_GNG_AMMC_2,2,,2,AN17B008,ascending_neuron
+AN_GNG_AMMC_3,2,,2,AN17B008,ascending_neuron
+AN_GNG_FLA_3,2,,2,AN05B098,ascending_neuron
+AN_GNG_IPS_12,2,,2,AN06B044,ascending_neuron
+AN_GNG_IPS_2,2,,2,AN18B023,ascending_neuron
+AN_GNG_IPS_5,2,,2,AN06B088,ascending_neuron
+AN_GNG_IPS_6,2,,2,ANXXX131,ascending_neuron
+AN_GNG_IPS_8,2,,2,AN02A009,ascending_neuron
+AN_GNG_PRW_1,2,,2,AN27X022,ascending_neuron
+AN_GNG_PRW_2,2,,2,AN27X021,ascending_neuron
+AN_GNG_PRW_3,2,,2,AN27X020,ascending_neuron
+AN_GNG_PRW_4,2,,2,AN05B076,ascending_neuron
+AN_GNG_SAD_16,2,,2,AN18B001,ascending_neuron
+AN_GNG_SAD_23,2,,2,dMS9,ascending_neuron
+AN_GNG_SAD_28,2,,2,AN05B105,ascending_neuron
+AN_GNG_SAD_5,2,,2,AN05B097,ascending_neuron
+AN_GNG_SAD_8,2,,2,AN08B009,ascending_neuron
+AN_GNG_VES_12,2,,2,AN08B100,ascending_neuron
+AN_GNG_VES_2,2,,2,AN12B017,ascending_neuron
+AN_GNG_VES_3,2,,2,AN06B039,ascending_neuron
+AN_GNG_VES_6,2,,2,AN12B017,ascending_neuron
+AN_GNG_WED_1,2,,2,ANXXX218,ascending_neuron
+AN_IPS_GNG_3,2,,2,AN07B035,ascending_neuron
+AN_IPS_WED_1,2,,2,AN07B035,ascending_neuron
+AN_LAL_1,2,,2,AN06B075,ascending_neuron
+AN_SAD_GNG_2,2,,2,AN17A073,ascending_neuron
+AN_SLP_LH_1,2,,2,ANXXX434,ascending_neuron
+AN_SPS_IPS_5,2,,2,AN04B023,ascending_neuron
+AN_VES_GNG_2,2,,2,AN12B019,ascending_neuron
+AN_VES_GNG_3,2,,2,AN07B106,ascending_neuron
+AN_VES_GNG_5,2,,2,AN17A050,ascending_neuron
+AN_VES_GNG_7,2,CNS neuron,2,AN08B022,ascending_neuron
+AN_VES_WED_1,2,,2,AN09B060,ascending_neuron
+AN_WED_GNG_2,2,,2,AN09B023,ascending_neuron
+AN_multi_1,2,,2,AN06A027,ascending_neuron
+AN_multi_10,2,CNS neuron,2,AN06B011,ascending_neuron
+AN_multi_105,2,CNS neuron,2,AN19B019,ascending_neuron
+AN_multi_11,2,,2,AN06B009,ascending_neuron
+AN_multi_112,2,CNS neuron,2,AN09B019,ascending_neuron
+AN_multi_118,2,,2,AN17A062,ascending_neuron
+AN_multi_122,2,,2,ANXXX296,ascending_neuron
+AN_multi_127,2,,2,AN09B024,ascending_neuron
+AN_multi_14,2,CNS neuron,2,AN19B017,ascending_neuron
+AN_multi_16,2,,2,AN09B029,ascending_neuron
+AN_multi_17,2,,2,AN10B005,ascending_neuron
+AN_multi_20,2,,2,AN09B011,ascending_neuron
+AN_multi_24,2,CNS neuron,2,AN08B014,ascending_neuron
+AN_multi_27,2,,2,AN09B003,ascending_neuron
+AN_multi_29,2,,2,ANXXX057,ascending_neuron
+AN_multi_3,2,,2,AN27X024,ascending_neuron
+AN_multi_30,2,,2,AN17B005,ascending_neuron
+AN_multi_33,2,,2,AN08B007,ascending_neuron
+AN_multi_37,2,CNS neuron,2,AN07B024,ascending_neuron
+AN_multi_39,2,,2,AN06A015,ascending_neuron
+AN_multi_4,2,CNS neuron,2,AN27X011,ascending_neuron
+AN_multi_42,2,,2,AN08B026,ascending_neuron
+AN_multi_46,2,,2,AN04B051,ascending_neuron
+AN_multi_47,2,,2,ANXXX094,ascending_neuron
+AN_multi_48,2,,2,AN02A025,ascending_neuron
+AN_multi_50,2,,2,AN06B034,ascending_neuron
+AN_multi_51,2,,2,ANXXX030,ascending_neuron
+AN_multi_55,2,,2,AN08B032,ascending_neuron
+AN_multi_59,2,CNS neuron,2,AN08B027,ascending_neuron
+AN_multi_60,2,,2,AN08B012,ascending_neuron
+AN_multi_61,2,,2,AN08B010,ascending_neuron
+AN_multi_62,2,,2,AN08B012,ascending_neuron
+AN_multi_63,2,,2,AN17A026,ascending_neuron
+AN_multi_64,2,,2,AN08B010,ascending_neuron
+AN_multi_66,2,,2,AN05B102b,ascending_neuron
+AN_multi_67,2,,2,AN09B023,ascending_neuron
+AN_multi_69,2,,2,AN05B102d,ascending_neuron
+AN_multi_7,2,,2,AN19B028,ascending_neuron
+AN_multi_70,2,,2,AN09B033,ascending_neuron
+AN_multi_72,2,,2,AN09B028,ascending_neuron
+AN_multi_73,2,,2,AN27X015,ascending_neuron
+AN_multi_75,2,,2,AN27X016,ascending_neuron
+AN_multi_76,2,,2,AN05B097,ascending_neuron
+AN_multi_77,2,,2,AN27X017,ascending_neuron
+AN_multi_79,2,glia,2,ANXXX127,ascending_neuron
+AN_multi_8,2,,2,AN02A001,ascending_neuron
+AN_multi_80,2,,2,ANXXX308,ascending_neuron
+AN_multi_81,2,,2,AN27X009,ascending_neuron
+AN_multi_82,2,,2,AN05B103,ascending_neuron
+AN_multi_83,2,,2,ANXXX116,ascending_neuron
+AN_multi_85,2,,2,AN05B107,ascending_neuron
+AN_multi_86,2,,2,AN05B097,ascending_neuron
+AOTU014,2,,2,AOTU014,cb_intrinsic
+AOTU023,2,,2,AOTU023,cb_intrinsic
+AOTU028,2,,2,AOTU028,cb_intrinsic
+AOTU030,2,,2,AOTU030,cb_intrinsic
+AOTU047,2,,2,AOTU047,cb_intrinsic
+AOTU065,2,,2,AOTU065,cb_intrinsic
+AOTUv3B_P02,2,,2,AOTU005,cb_intrinsic
+APL,2,,2,APL,cb_intrinsic
+ATL016,2,,2,ATL016,cb_intrinsic
+ATL029,2,,2,ATL029,cb_intrinsic
+ATL030,2,,2,ATL030,cb_intrinsic
+ATL037,2,,2,ATL037,cb_intrinsic
+ATL042,2,,2,ATL042,cb_intrinsic
+ATL044,2,,2,ATL044,cb_intrinsic
+AVLP018,2,,2,AVLP018,cb_intrinsic
+AVLP019,2,,2,AVLP019,cb_intrinsic
+AVLP022,1,,3,AVLP022,cb_intrinsic
+AVLP033,2,,2,AVLP033,cb_intrinsic
+AVLP034,2,,2,AVLP034,cb_intrinsic
+AVLP035,2,,2,AVLP035,cb_intrinsic
+AVLP044b,1,,3,AVLP044_b,cb_intrinsic
+AVLP053,2,,2,AVLP053,cb_intrinsic
+AVLP075,2,,2,AVLP075,cb_intrinsic
+AVLP076,2,,2,AVLP076,cb_intrinsic
+AVLP081,2,,2,AVLP081,cb_intrinsic
+AVLP093,2,,2,AVLP093,cb_intrinsic
+AVLP094,2,,2,AVLP094,cb_intrinsic
+AVLP097,2,,2,AVLP097,cb_intrinsic
+AVLP102,2,,2,AVLP102,cb_intrinsic
+AVLP108,2,,2,AVLP108,cb_intrinsic
+AVLP151,2,,2,LPT60,cb_intrinsic
+AVLP154,2,,2,AVLP154,cb_intrinsic
+AVLP156,2,,2,AVLP156,cb_intrinsic
+AVLP158,2,,2,AVLP158,cb_intrinsic
+AVLP160,2,,2,AVLP160,cb_intrinsic
+AVLP162,2,,2,AVLP162,cb_intrinsic
+AVLP202,2,,2,AVLP202,cb_intrinsic
+AVLP255,2,,2,AVLP255,cb_intrinsic
+AVLP281,2,,2,AVLP281,cb_intrinsic
+AVLP314,2,,2,AVLP314,cb_intrinsic
+AVLP339,2,,2,AVLP339,cb_intrinsic
+AVLP342,2,,2,AVLP342,cb_intrinsic
+AVLP363,1,,3,AVLP363,cb_intrinsic
+AVLP381,2,,2,AVLP381,cb_intrinsic
+AVLP398,2,,2,AVLP398,cb_intrinsic
+AVLP402,2,,2,AVLP402,cb_intrinsic
+AVLP430,2,,2,AVLP430,cb_intrinsic
+AVLP432,2,,2,AVLP432,cb_intrinsic
+AVLP433_a,2,,2,AVLP433_a,cb_intrinsic
+AVLP434_a,2,,2,AVLP434_a,cb_intrinsic
+AVLP437,2,,2,AVLP437,cb_intrinsic
+AVLP448,2,,2,AVLP448,cb_intrinsic
+AVLP455,1,,3,AVLP455,cb_intrinsic
+AVLP459,2,,2,AVLP459,cb_intrinsic
+AVLP470b,2,,2,AVLP470_b,cb_intrinsic
+AVLP475a,2,,2,AVLP475_a,cb_intrinsic
+AVLP475b,2,,2,AVLP475_b,cb_intrinsic
+AVLP476,2,,2,AVLP476,cb_intrinsic
+AVLP477,2,,2,AVLP477,cb_intrinsic
+AVLP498,2,,2,AVLP498,cb_intrinsic
+AVLP500,2,,2,AVLP500,cb_intrinsic
+AVLP501,2,,2,AVLP501,cb_intrinsic
+AVLP504,2,,2,AVLP504,cb_intrinsic
+AVLP505,2,,2,AVLP505,cb_intrinsic
+AVLP508,2,,2,AVLP508,cb_intrinsic
+AVLP522,2,,2,AVLP522,cb_intrinsic
+AVLP532,2,,2,AVLP532,cb_intrinsic
+AVLP533,2,CNS neuron,2,AVLP533,cb_intrinsic
+AVLP536,2,,2,AVLP536,cb_intrinsic
+AVLP541b,2,,2,AVLP541,cb_intrinsic
+AVLP546,2,,2,AVLP546,cb_intrinsic
+AVLP547b,2,,2,AVLP547,cb_intrinsic
+AVLP548_b,2,,2,AVLP548_b,cb_intrinsic
+AVLP562,2,,2,AVLP562,cb_intrinsic
+AVLP563,2,,2,AVLP563,cb_intrinsic
+AVLP565,2,,2,AVLP565,cb_intrinsic
+AVLP573,2,,2,AVLP573,cb_intrinsic
+AVLP579,2,,2,AVLP579,cb_intrinsic
+AVLP591,2,,2,AVLP591,cb_intrinsic
+AVLP593,2,,2,AVLP593,cb_intrinsic
+AVLP594,2,,2,AVLP594,cb_intrinsic
+AVLP595,2,,2,AVLP595,cb_intrinsic
+CB0004,2,efferent neuron,2,GNG314,cb_motor
+CB0010,2,,2,GNG300,cb_intrinsic
+CB0011,2,,2,GNG141,cb_intrinsic
+CB0016,1,,3,GNG592,cb_intrinsic
+CB0018,2,,2,FLA019,cb_intrinsic
+CB0020,2,,2,GNG154,cb_intrinsic
+CB0023,2,,2,SLP470,cb_intrinsic
+CB0025,2,,2,GNG312,cb_intrinsic
+CB0029,2,,2,CB0029,cb_intrinsic
+CB0031,2,,2,GNG079,cb_intrinsic
+CB0033,2,,2,WED208,cb_intrinsic
+CB0040,2,,2,GNG105,cb_intrinsic
+CB0045,2,,2,GNG307,cb_intrinsic
+CB0047,2,,2,GNG586,cb_intrinsic
+CB0049,2,,2,GNG315,cb_intrinsic
+CB0051,1,,3,GNG585,cb_intrinsic
+CB0057,2,,2,GNG584,cb_intrinsic
+CB0058,2,,2,GNG282,cb_intrinsic
+CB0059,2,,2,GNG121,cb_intrinsic
+CB0065,2,,2,GNG583,cb_intrinsic
+CB0067,2,,2,GNG582,cb_intrinsic
+CB0069,2,,2,GNG160,cb_intrinsic
+CB0070,2,,2,GNG254,cb_intrinsic
+CB0073,2,,2,WED210,cb_intrinsic
+CB0082,2,,2,GNG579,cb_intrinsic
+CB0097,2,,2,GNG576,cb_intrinsic
+CB0101,2,,2,AVLP613,cb_intrinsic
+CB0102,2,,2,SMP378,cb_intrinsic
+CB0106,2,,2,GNG046,cb_intrinsic
+CB0114,2,,2,GNG291,cb_intrinsic
+CB0118,2,,2,GNG042,cb_intrinsic
+CB0121,2,,2,CB0121,cb_intrinsic
+CB0122,2,,2,CB0122,cb_intrinsic
+CB0125,2,,2,AVLP608,cb_intrinsic
+CB0128,2,,2,CB0128,cb_intrinsic
+CB0135,2,,2,GNG321,cb_intrinsic
+CB0136,2,,2,SMP053,cb_intrinsic
+CB0141,2,,2,CB0141,cb_intrinsic
+CB0144,2,,2,GNG311,cb_intrinsic
+CB0150,2,,2,GNG290,cb_intrinsic
+CB0152,2,,2,GNG568,cb_intrinsic
+CB0153,2,,2,PRW068,cb_intrinsic
+CB0164,2,,2,CB0164,cb_intrinsic
+CB0175,2,,2,GNG560,cb_intrinsic
+CB0176,2,,2,GNG253,cb_intrinsic
+CB0177,2,,2,GNG143,cb_intrinsic
+CB0180,2,,2,GNG288,cb_intrinsic
+CB0184,2,,2,GNG558,cb_intrinsic
+CB0186,2,,2,GNG557,cb_intrinsic
+CB0192,2,,2,GNG215,cb_intrinsic
+CB0194,2,,2,CB0194,cb_intrinsic
+CB0200,1,,3,GNG554,cb_intrinsic
+CB0211,2,,2,GNG551,cb_intrinsic
+CB0213,2,,2,GNG549,cb_intrinsic
+CB0215,2,,2,PS311,cb_intrinsic
+CB0216,2,,2,GNG117,cb_intrinsic
+CB0218,2,,2,CB0218,cb_intrinsic
+CB0223,2,,2,PRW067,cb_intrinsic
+CB0224,2,,2,CB0224,cb_intrinsic
+CB0225,2,,2,GNG201,cb_intrinsic
+CB0228,2,CNS neuron,2,CB0228,cb_intrinsic
+CB0231,2,,2,GNG547,cb_intrinsic
+CB0235,2,,2,GNG546,cb_intrinsic
+CB0239,2,,2,GNG543,cb_intrinsic
+CB0248,2,,2,GNG038,cb_intrinsic
+CB0249,2,CNS neuron,2,GNG638,cb_intrinsic
+CB0250,1,,3,GNG198,cb_intrinsic
+CB0258,2,,2,VES105,cb_intrinsic
+CB0259,2,,2,CB0259,cb_intrinsic
+CB0262,2,,2,GNG540,cb_intrinsic
+CB0265,2,,2,GNG113,cb_intrinsic
+CB0272,2,,2,SMP744,cb_intrinsic
+CB0277,2,,2,GNG208,cb_intrinsic
+CB0278,2,,2,GNG538,cb_intrinsic
+CB0280,2,,2,CB0280,cb_intrinsic
+CB0287,2,,2,GNG537,cb_intrinsic
+CB0303,2,,2,GNG260,cb_intrinsic
+CB0312,2,,2,CB0312,cb_intrinsic
+CB0317,2,,2,GNG630,cb_intrinsic
+CB0318,2,,2,GNG536,cb_intrinsic
+CB0325,2,,2,CB0325,cb_intrinsic
+CB0331,2,,2,GNG158,cb_intrinsic
+CB0333,2,,2,AMMC009,cb_intrinsic
+CB0343,2,,2,PS206,cb_intrinsic
+CB0358,2,,2,GNG124,cb_intrinsic
+CB0360,2,,2,GNG086,cb_intrinsic
+CB0367,2,,2,CB0367,cb_intrinsic
+CB0378,2,,2,GNG205,cb_intrinsic
+CB0382,2,,2,CB0382,cb_intrinsic
+CB0390,2,,2,CB0390,cb_intrinsic
+CB0392,2,,2,GNG530,cb_intrinsic
+CB0396,2,,2,CB0396,cb_intrinsic
+CB0408,2,,2,GNG527,cb_intrinsic
+CB0409,2,,2,GNG104,cb_intrinsic
+CB0413,2,,2,GNG235,cb_intrinsic
+CB0416,2,,2,GNG199,cb_intrinsic
+CB0426,2,,2,GNG249,cb_intrinsic
+CB0430,2,,2,GNG112,cb_intrinsic
+CB0432,2,,2,CB0432,cb_intrinsic
+CB0434,2,,2,GNG159,cb_intrinsic
+CB0435,2,,2,GNG308,cb_intrinsic
+CB0438,2,,2,GNG054,cb_intrinsic
+CB0442,2,,2,GNG302,cb_intrinsic
+CB0448,2,,2,LAL208,cb_intrinsic
+CB0452,2,,2,PLP260,cb_intrinsic
+CB0454,2,,2,GNG031,cb_intrinsic
+CB0456,2,,2,GNG166,cb_intrinsic
+CB0457,2,,2,GNG156,cb_intrinsic
+CB0459,2,,2,GNG189,cb_intrinsic
+CB0469,2,,2,SAD105,cb_intrinsic
+CB0473,2,,2,GNG029,cb_intrinsic
+CB0477,2,,2,CB0477,cb_intrinsic
+CB0483,2,,2,SLP472,cb_intrinsic
+CB0485,2,,2,GNG517,cb_intrinsic
+CB0486,2,,2,GNG306,cb_intrinsic
+CB0488,2,,2,PS327,cb_intrinsic
+CB0496,2,,2,GNG516,cb_intrinsic
+CB0497,2,,2,GNG515,cb_intrinsic
+CB0500,2,,2,PS352,cb_intrinsic
+CB0503,2,,2,GNG091,cb_intrinsic
+CB0504,2,,2,GNG514,cb_intrinsic
+CB0508,2,,2,GNG512,cb_intrinsic
+CB0510,2,,2,CB0510,cb_intrinsic
+CB0515,2,,2,GNG167,cb_intrinsic
+CB0517,2,,2,CB0517,cb_intrinsic
+CB0519,2,,2,GNG661,cb_intrinsic
+CB0523,2,,2,GNG286,cb_intrinsic
+CB0526,2,,2,GNG508,cb_intrinsic
+CB0528,2,,2,GNG507,cb_intrinsic
+CB0530,2,,2,CB0530,cb_intrinsic
+CB0531,2,,2,GNG304,cb_intrinsic
+CB0532,2,,2,PRW058,cb_intrinsic
+CB0533,2,,2,CB0533,cb_intrinsic
+CB0534,2,,2,GNG506,cb_intrinsic
+CB0538,2,,2,GNG505,cb_intrinsic
+CB0542,2,,2,GNG183,cb_intrinsic
+CB0544,2,,2,FLA017,cb_intrinsic
+CB0552,2,,2,GNG170,cb_intrinsic
+CB0561,2,,2,GNG501,cb_intrinsic
+CB0564,2,,2,PS322,cb_intrinsic
+CB0565,2,,2,GNG119,cb_intrinsic
+CB0567,2,,2,PS307,cb_intrinsic
+CB0576,2,,2,GNG196,cb_intrinsic
+CB0581,2,,2,GNG285,cb_intrinsic
+CB0582,2,,2,CB0582,cb_intrinsic
+CB0585,2,,2,GNG500,cb_intrinsic
+CB0595,2,,2,GNG499,cb_intrinsic
+CB0596,2,CNS neuron,2,GNG233,cb_intrinsic
+CB0599,2,,2,GNG497,cb_intrinsic
+CB0600,2,,2,GNG181,cb_intrinsic
+CB0602,2,,2,GNG495,cb_intrinsic
+CB0603,2,,2,GNG494,cb_intrinsic
+CB0607,2,,2,CB0607,cb_intrinsic
+CB0608,2,,2,GNG114,cb_intrinsic
+CB0610,2,,2,GNG493,cb_intrinsic
+CB0612,2,,2,GNG492,cb_intrinsic
+CB0615,2,,2,GNG293,cb_intrinsic
+CB0616,2,,2,GNG232,cb_intrinsic
+CB0617,2,,2,GNG491,cb_intrinsic
+CB0618,2,,2,GNG213,cb_intrinsic
+CB0619,2,,2,GNG490,cb_intrinsic
+CB0620,2,,2,GNG241,cb_intrinsic
+CB0627,2,,2,GNG640,cb_intrinsic
+CB0631,2,,2,SLP471,cb_intrinsic
+CB0633,2,,2,CB0633,cb_intrinsic
+CB0638,2,,2,GNG489,cb_intrinsic
+CB0647,2,,2,CB0647,cb_intrinsic
+CB0654,2,,2,PLP262,cb_intrinsic
+CB0655,2,,2,GNG667,cb_intrinsic
+CB0656,2,,2,CB0656,cb_intrinsic
+CB0657,2,,2,CB0657,cb_intrinsic
+CB0661,2,,2,GNG487,cb_intrinsic
+CB0671,2,,2,CB0671,cb_intrinsic
+CB0679,2,,2,PS308,cb_intrinsic
+CB0681,2,,2,PS320,cb_intrinsic
+CB0682,2,,2,CB0682,cb_intrinsic
+CB0684,2,,2,GNG484,cb_intrinsic
+CB0690,2,,2,WED184,cb_intrinsic
+CB0713,2,,2,GNG207,cb_intrinsic
+CB0723,2,efferent neuron,2,GNG652,cb_motor
+CB0733,2,,2,GNG473,cb_intrinsic
+CB0749,2,,2,AMMC011,cb_intrinsic
+CB0750,2,efferent neuron,2,GNG668,cb_motor
+CB0752,2,,2,GNG248,cb_intrinsic
+CB0765,2,,2,GNG472,cb_intrinsic
+CB0768,2,,2,GNG188,cb_intrinsic
+CB0774,2,,2,GNG111,cb_intrinsic
+CB0775,2,,2,GNG218,cb_intrinsic
+CB0779,2,,2,GNG073,cb_intrinsic
+CB0787,2,,2,GNG246,cb_intrinsic
+CB0797,2,,2,GNG259,cb_intrinsic
+CB0799,2,,2,GNG468,cb_intrinsic
+CB0802,2,,2,aMe_TBD1,cb_intrinsic
+CB0803,2,,2,GNG077,cb_intrinsic
+CB0809,2,,2,GNG244,cb_intrinsic
+CB0828,2,,2,IB101,cb_intrinsic
+CB0832,2,,2,GNG225,cb_intrinsic
+CB0834,2,,2,GNG220,cb_intrinsic
+CB0839,2,,2,GNG173,cb_intrinsic
+CB0844,2,,2,GNG059,cb_intrinsic
+CB0855,2,,2,GNG226,cb_intrinsic
+CB0857,2,,2,GNG182,cb_intrinsic
+CB0860,2,,2,GNG053,cb_intrinsic
+CB0874,2,,2,PRW049,cb_intrinsic
+CB0879,2,,2,GNG243,cb_intrinsic
+CB0880,2,,2,GNG459,cb_intrinsic
+CB0900,2,,2,GNG224,cb_intrinsic
+CB0906,2,,2,GNG068,cb_intrinsic
+CB0908,2,,2,GNG030,cb_intrinsic
+CB0920,2,,2,GNG171,cb_intrinsic
+CB0921,2,sensory neuron,2,GNG081,cb_intrinsic
+CB0922,2,,2,GNG455,cb_intrinsic
+CB0932,2,,2,SMP131,cb_intrinsic
+CB0969,1,,3,SLP042,cb_intrinsic
+CB1002,2,,2,AVLP003,cb_intrinsic
+CB1035,2,,2,CB1035,cb_intrinsic
+CB1077,2,,2,CB1077,cb_intrinsic
+CB1103,1,,3,CB1103,cb_intrinsic
+CB1104,2,,2,CB1104,cb_intrinsic
+CB1108,2,,2,CB1108,cb_intrinsic
+CB1195,1,,3,LHPV2a3,cb_intrinsic
+CB1200,1,,3,CB1200,cb_intrinsic
+CB1208,1,,3,CB1208,cb_intrinsic
+CB1210,1,,3,LHPV4g2,cb_intrinsic
+CB1218,2,,2,LHPV4c1_a,cb_intrinsic
+CB1249,1,,3,CB1249,cb_intrinsic
+CB1274,3,,1,CB1274,cb_intrinsic
+CB1275,1,,3,CB1275,cb_intrinsic
+CB1323,2,,2,GNG274,cb_intrinsic
+CB1325,1,,3,CL185,cb_intrinsic
+CB1381,2,,2,LHAV4g12,cb_intrinsic
+CB1403,2,,2,CB1403,cb_intrinsic
+CB1518,2,,2,LHPV4j2,cb_intrinsic
+CB1534,1,,3,CB1534,cb_intrinsic
+CB1577,1,,3,CB1577,cb_intrinsic
+CB1594,2,,2,SLP094_c,cb_intrinsic
+CB1599,1,,3,CB1599,cb_intrinsic
+CB1636,2,,2,CB1636,cb_intrinsic
+CB1649,2,,2,CB1649,cb_intrinsic
+CB1659,1,,3,GNG406,cb_intrinsic
+CB1731,2,,2,CB1731,cb_intrinsic
+CB1741,1,,3,GNG415,cb_intrinsic
+CB1748,2,,2,CB1748,cb_intrinsic
+CB1758,2,,2,AVLP155_b,cb_intrinsic
+CB1778,1,,3,GNG414,cb_intrinsic
+CB1808,2,,2,CB1808,cb_intrinsic
+CB1821,1,,3,CB1821,cb_intrinsic
+CB1864,2,,2,LHAD3d5,cb_intrinsic
+CB1883,1,,3,CB1883,cb_intrinsic
+CB1910,2,,2,CB1910,cb_intrinsic
+CB1934,2,,2,CB1934,cb_intrinsic
+CB1935,1,,3,CB1935,cb_intrinsic
+CB1941,2,,2,VES098,cb_intrinsic
+CB1973,2,,2,CB1973,cb_intrinsic
+CB1990,1,,3,SLP044_a,cb_intrinsic
+CB2096,1,,3,LHAV5a4_a,cb_intrinsic
+CB2147,2,,2,CRE003_b,cb_intrinsic
+CB2170,2,,2,AVLP374,cb_intrinsic
+CB2172,2,,2,CB2172,cb_intrinsic
+CB2177,2,,2,GNG404,cb_intrinsic
+CB2206,2,,2,CB2206,cb_intrinsic
+CB2215,2,,2,LHAV2k12_a,cb_intrinsic
+CB2227,1,,3,CB2227,cb_intrinsic
+CB2273,1,,3,SLP018,cb_intrinsic
+CB2286,1,,3,CB2286,cb_intrinsic
+CB2295,1,,3,CB2295,cb_intrinsic
+CB2311,2,,2,CB2311,cb_intrinsic
+CB2319,3,,1,CB2319,cb_intrinsic
+CB2320,1,,3,PLP063,cb_intrinsic
+CB2323,2,,2,CB2323,cb_intrinsic
+CB2328,2,,2,SMP139,cb_intrinsic
+CB2351,2,,2,CB2351,cb_intrinsic
+CB2372,1,,3,M_vPNml76,cb_intrinsic
+CB2374,2,,2,CB2374,cb_intrinsic
+CB2386,1,,3,AVLP176_b,cb_intrinsic
+CB2407,1,,3,AVLP357,cb_intrinsic
+CB2425,1,,3,CB2425,cb_intrinsic
+CB2444,2,,2,SMP196_b,cb_intrinsic
+CB2495,2,,2,CB2495,cb_intrinsic
+CB2500,2,,2,CB2500,cb_intrinsic
+CB2515,2,,2,SMP317,cb_intrinsic
+CB2528,1,,3,WED111,cb_intrinsic
+CB2555,2,,2,CB2555,cb_intrinsic
+CB2606,2,,2,GNG200,cb_intrinsic
+CB2653,2,,2,CB2653,cb_intrinsic
+CB2656,2,,2,SLP466,cb_intrinsic
+CB2657,2,,2,CL134,cb_intrinsic
+CB2675,2,,2,LAL063,cb_intrinsic
+CB2680,2,,2,CRE083,cb_intrinsic
+CB2733,1,,3,CB2733,cb_intrinsic
+CB2761,1,,3,M_vPNml76,cb_intrinsic
+CB2764,1,,3,CB2764,cb_intrinsic
+CB2798,2,,2,LHAV4a1_a,cb_intrinsic
+CB2819,1,,3,LHPD2a6,cb_intrinsic
+CB2870,2,,2,CB2870,cb_intrinsic
+CB2878,2,,2,CL353,cb_intrinsic
+CB2933,2,,2,WED157,cb_intrinsic
+CB2938,2,,2,CB2938,cb_intrinsic
+CB2941,2,,2,GNG278,cb_intrinsic
+CB2956,2,,2,CB2956,cb_intrinsic
+CB2963,2,,2,CB2963,cb_intrinsic
+CB2971,2,,2,AVLP331a,cb_intrinsic
+CB3014,1,,3,CB3014,cb_intrinsic
+CB3031,2,,2,AVLP115,cb_intrinsic
+CB3045,1,,3,CB3045,cb_intrinsic
+CB3074,1,,3,CB3074,cb_intrinsic
+CB3124,2,,2,CB3124,cb_intrinsic
+CB3133,2,,2,CB3133,cb_intrinsic
+CB3158,1,,3,PS350,cb_intrinsic
+CB3164,2,,2,PLP225,cb_intrinsic
+CB3190,2,,2,LHPV4b4,cb_intrinsic
+CB3204,2,,2,CB3204,cb_intrinsic
+CB3220,2,,2,CB3220,cb_intrinsic
+CB3241,2,,2,SMP110,cb_intrinsic
+CB3249,2,,2,CB3249,cb_intrinsic
+CB3277,2,,2,CB3277,cb_intrinsic
+CB3306,2,,2,AVLP115,cb_intrinsic
+CB3343,2,,2,CB3343,cb_intrinsic
+CB3345,2,,2,LHAD3f1_a,cb_intrinsic
+CB3361,2,,2,CB3361,cb_intrinsic
+CB3381,2,,2,CB3381,cb_intrinsic
+CB3384,2,,2,CB3384,cb_intrinsic
+CB3400,2,,2,CB3400,cb_intrinsic
+CB3409,1,,3,CB3409,cb_intrinsic
+CB3437,2,,2,CB3437,cb_intrinsic
+CB3438,3,,1,GNG388,cb_intrinsic
+CB3469,1,,3,CB3469,cb_intrinsic
+CB3498,2,,2,CB3498,cb_intrinsic
+CB3519,1,,3,CB3519,cb_intrinsic
+CB3525,2,,2,AVLP320_a,cb_intrinsic
+CB3564,2,,2,SMP449,cb_intrinsic
+CB3566,2,,2,CB3566,cb_intrinsic
+CB3590,1,,3,SLP186,cb_intrinsic
+CB3593,2,,2,GNG075,cb_intrinsic
+CB3610,2,,2,CRE083,cb_intrinsic
+CB3615,2,,2,GNG192,cb_intrinsic
+CB3619,2,,2,CB3619,cb_intrinsic
+CB3625,2,,2,AVLP163,cb_intrinsic
+CB3630,2,,2,CB3630,cb_intrinsic
+CB3642,2,,2,GNG355,cb_intrinsic
+CB3656,2,,2,PRW014,cb_intrinsic
+CB3661,2,,2,CB3661,cb_intrinsic
+CB3664,2,,2,CB3664,cb_intrinsic
+CB3682,2,,2,CB3682,cb_intrinsic
+CB3686,2,,2,SLP252_c,cb_intrinsic
+CB3726,1,,3,LHAV4e7_b,cb_intrinsic
+CB3727,2,,2,CB3727,cb_intrinsic
+CB3741,2,,2,CB3741,cb_intrinsic
+CB3754,1,,3,CB3754,cb_intrinsic
+CB3771,2,,2,SMP347,cb_intrinsic
+CB3778,2,,2,LHPD2c2,cb_intrinsic
+CB3797,2,,2,GNG341,cb_intrinsic
+CB3813,2,,2,GNG071,cb_intrinsic
+CB3866,2,,2,CB3866,cb_intrinsic
+CB3877,2,,2,SAD091,cb_intrinsic
+CB3880,2,,2,WED191,cb_intrinsic
+CL007,2,,2,CL007,cb_intrinsic
+CL031,2,,2,CL031,cb_intrinsic
+CL058,2,,2,CL058,cb_intrinsic
+CL070a,2,,2,CL070_a,cb_intrinsic
+CL071a,2,,2,CL071_a,cb_intrinsic
+CL093,2,,2,CL093,cb_intrinsic
+CL094,2,,2,CL094,cb_intrinsic
+CL098,2,glia,2,CL098,cb_intrinsic
+CL108,2,,2,CL108,cb_intrinsic
+CL110,2,,2,CL110,cb_intrinsic
+CL115,2,,2,CL115,cb_intrinsic
+CL129,2,,2,CL129,cb_intrinsic
+CL135,2,,2,CL135,cb_intrinsic
+CL150,2,,2,CL150,cb_intrinsic
+CL161a,2,,2,CL161_a,cb_intrinsic
+CL179,2,,2,CL179,cb_intrinsic
+CL183,2,,2,CL183,cb_intrinsic
+CL187,2,,2,CL187,cb_intrinsic
+CL201,2,,2,CL201,cb_intrinsic
+CL212,2,,2,CL212,cb_intrinsic
+CL213,2,,2,CL213,cb_intrinsic
+CL214,2,,2,CL214,cb_intrinsic
+CL256,2,,2,CL256,cb_intrinsic
+CL257,2,,2,CL257,cb_intrinsic
+CL263,2,,2,CL263,cb_intrinsic
+CL264,2,,2,CL264,cb_intrinsic
+CL286,2,,2,CL286,cb_intrinsic
+CL288,2,,2,CL288,cb_intrinsic
+CL303,2,,2,CL303,cb_intrinsic
+CL308,2,,2,CL308,cb_intrinsic
+CL310,2,,2,CL310,cb_intrinsic
+CL311,2,,2,CL311,cb_intrinsic
+CL316,2,,2,CL316,cb_intrinsic
+CL318,2,,2,CL318,cb_intrinsic
+CL326,2,,2,CL326,cb_intrinsic
+CL335,2,,2,CL335,cb_intrinsic
+CRE004,2,,2,CRE004,cb_intrinsic
+CRE007,2,,2,CRE007,cb_intrinsic
+CRE009,2,,2,CRE009,cb_intrinsic
+CRE012,2,,2,CRE012,cb_intrinsic
+CRE015,2,,2,CRE015,cb_intrinsic
+CRE022,2,,2,CRE022,cb_intrinsic
+CRE024,2,,2,CRE024,cb_intrinsic
+CRE025,2,,2,CRE025,cb_intrinsic
+CRE042,2,,2,CRE042,cb_intrinsic
+CRE048,2,,2,CRE048,cb_intrinsic
+CRE050,2,,2,CRE050,cb_intrinsic
+CRE069,2,,2,CRE069,cb_intrinsic
+CRE071,2,,2,CRE071,cb_intrinsic
+CRE074,2,,2,CRE074,cb_intrinsic
+CRE075,2,,2,CRE075,cb_intrinsic
+CRE082,2,,2,CRE082,cb_intrinsic
+CRE104,1,,3,CRE104,cb_intrinsic
+CRE105,2,,2,CRE105,cb_intrinsic
+CRE107,2,,2,CRE107,cb_intrinsic
+CRE108,2,,2,CRE108,cb_intrinsic
+CSD,2,,2,CSD,cb_intrinsic
+DA1_vPN,2,,2,DA1_vPN,cb_intrinsic
+DC4_adPN,2,,2,DC4_adPN,cb_intrinsic
+DCH,2,,2,DCH,visual_centrifugal
+DGI,2,,2,DGI,cb_intrinsic
+DL4_adPN,2,,2,DL4_adPN,cb_intrinsic
+DNES2,2,efferent neuron,2,DNES2,cb_endocrine
+DNa01,2,CNS neuron,2,DNa01,descending_neuron
+DNa02,2,CNS neuron,2,DNa02,descending_neuron
+DNa04,2,CNS neuron,2,DNa04,descending_neuron
+DNa05,2,CNS neuron,2,DNa05,descending_neuron
+DNa06,2,CNS neuron,2,DNa06,descending_neuron
+DNa07,2,CNS neuron,2,DNa07,descending_neuron
+DNa08,2,CNS neuron,2,DNa08,descending_neuron
+DNa09,2,CNS neuron,2,DNa09,descending_neuron
+DNa10,2,CNS neuron,2,DNa10,descending_neuron
+DNa14,2,CNS neuron,2,DNa14,descending_neuron
+DNa15,2,CNS neuron,2,DNa15,descending_neuron
+DNa16,2,CNS neuron,2,DNa16,descending_neuron
+DNae001,2,CNS neuron,2,DNae001,descending_neuron
+DNae002,2,CNS neuron,2,DNae002,descending_neuron
+DNae003,2,CNS neuron,2,DNae003,descending_neuron
+DNae004,2,CNS neuron,2,DNae004,descending_neuron
+DNae005,2,CNS neuron,2,DNae005,descending_neuron
+DNae006,2,CNS neuron,2,DNae006,descending_neuron
+DNae007,2,CNS neuron,2,DNae007,descending_neuron
+DNae008,2,CNS neuron,2,DNae008,descending_neuron
+DNae009,2,CNS neuron,2,DNae009,descending_neuron
+DNae010,2,CNS neuron,2,DNae010,descending_neuron
+DNb01,2,CNS neuron,2,DNb01,descending_neuron
+DNb05,2,CNS neuron,2,DNb05,descending_neuron
+DNb06,2,CNS neuron,2,DNb06,descending_neuron
+DNb07,2,CNS neuron,2,DNb07,descending_neuron
+DNb09,2,CNS neuron,2,DNb09,descending_neuron
+DNbe001,2,CNS neuron,2,DNbe001,descending_neuron
+DNbe006,2,CNS neuron,2,DNbe006,descending_neuron
+DNd03,2,CNS neuron,2,DNd03,descending_neuron
+DNde007,2,CNS neuron,2,DNde007,descending_neuron
+DNg103,2,CNS neuron,2,DNg103,descending_neuron
+DNg104,2,CNS neuron,2,DNg104,descending_neuron
+DNg105,2,CNS neuron,2,DNg105,descending_neuron
+DNg109,2,CNS neuron,2,DNg109,descending_neuron
+DNg111,2,CNS neuron,2,DNg111,descending_neuron
+DNg13,2,CNS neuron,2,DNg13,descending_neuron
+DNg14,2,CNS neuron,2,DNg14,descending_neuron
+DNg15,2,CNS neuron,2,DNg15,descending_neuron
+DNg18_a,1,,3,DNg18_a,descending_neuron
+DNg22,2,CNS neuron,2,DNg22,descending_neuron
+DNg23,2,,2,DNg23,descending_neuron
+DNg29,2,CNS neuron,2,DNg29,descending_neuron
+DNg30,2,CNS neuron,2,DNg30,descending_neuron
+DNg34,2,CNS neuron,2,DNg34,descending_neuron
+DNg35,2,CNS neuron,2,DNg35,descending_neuron
+DNg40,2,CNS neuron,2,DNg40,descending_neuron
+DNg41,2,CNS neuron,2,DNg41,descending_neuron
+DNg49,2,CNS neuron,2,DNg49,descending_neuron
+DNg50,2,CNS neuron,2,DNg50,descending_neuron
+DNg57,2,CNS neuron,2,DNg57,descending_neuron
+DNg61,2,CNS neuron,2,DNg61,descending_neuron
+DNg62,2,CNS neuron,2,DNg62,descending_neuron
+DNg63,2,CNS neuron,2,DNg63,descending_neuron
+DNg67,2,CNS neuron,2,DNg67,descending_neuron
+DNg70,2,CNS neuron,2,DNg70,descending_neuron
+DNg81,2,CNS neuron,2,DNg81,descending_neuron
+DNg84,2,CNS neuron,2,DNg84,descending_neuron
+DNg86,2,,2,DNg86,descending_neuron
+DNg87,2,CNS neuron,2,DNg87,descending_neuron
+DNg90,2,CNS neuron,2,DNg90,descending_neuron
+DNg91,2,CNS neuron,2,DNg91,descending_neuron
+DNg94,2,CNS neuron,2,DNg94,descending_neuron
+DNg95,2,CNS neuron,2,DNg95,descending_neuron
+DNg97,2,CNS neuron,2,DNg97,descending_neuron
+DNg98,2,CNS neuron,2,DNg98,descending_neuron
+DNg99,2,CNS neuron,2,DNg99,descending_neuron
+DNge003,2,CNS neuron,2,DNge003,descending_neuron
+DNge004,2,CNS neuron,2,DNge004,descending_neuron
+DNge011,2,CNS neuron,2,DNge011,descending_neuron
+DNge023,2,CNS neuron,2,DNge023,descending_neuron
+DNge032,2,CNS neuron,2,DNge032,descending_neuron
+DNge033,2,CNS neuron,2,DNge033,descending_neuron
+DNge039,2,CNS neuron,2,DNge039,descending_neuron
+DNge043,2,CNS neuron,2,DNge043,descending_neuron
+DNge045,2,CNS neuron,2,DNge045,descending_neuron
+DNge051,2,CNS neuron,2,DNge051,descending_neuron
+DNge053,2,CNS neuron,2,DNge053,descending_neuron
+DNge054,2,CNS neuron,2,DNge054,descending_neuron
+DNge055,2,CNS neuron,2,DNge055,descending_neuron
+DNge062,2,CNS neuron,2,DNge062,descending_neuron
+DNge065,2,CNS neuron,2,DNge065,descending_neuron
+DNge069,2,CNS neuron,2,DNge069,descending_neuron
+DNge076,2,CNS neuron,2,DNge076,descending_neuron
+DNge077,2,CNS neuron,2,DNge077,descending_neuron
+DNge081,2,CNS neuron,2,DNge081,descending_neuron
+DNge083,2,CNS neuron,2,DNge083,descending_neuron
+DNge084,2,CNS neuron,2,DNge084,descending_neuron
+DNge086,2,CNS neuron,2,DNge086,descending_neuron
+DNge096,2,CNS neuron,2,DNge096,descending_neuron
+DNge097,2,CNS neuron,2,DNge097,descending_neuron
+DNge099,2,CNS neuron,2,DNge099,descending_neuron
+DNge103,2,CNS neuron,2,DNge103,descending_neuron
+DNge106,2,CNS neuron,2,DNge106,descending_neuron
+DNge107,2,CNS neuron,2,DNge107,descending_neuron
+DNge109,2,CNS neuron,2,DNge114,descending_neuron
+DNge120,2,CNS neuron,2,DNge120,descending_neuron
+DNge123,2,CNS neuron,2,DNge123,descending_neuron
+DNge134,2,CNS neuron,2,DNge134,descending_neuron
+DNge138,2,CNS neuron,2,DNge138,descending_neuron
+DNge140,2,CNS neuron,2,DNge140,descending_neuron
+DNge143,2,CNS neuron,2,DNge143,descending_neuron
+DNge147,2,CNS neuron,2,DNge147,descending_neuron
+DNp02,2,CNS neuron,2,DNp02,descending_neuron
+DNp03,2,CNS neuron,2,DNp03,descending_neuron
+DNp04,2,CNS neuron,2,DNp04,descending_neuron
+DNp05,2,CNS neuron,2,DNp05,descending_neuron
+DNp06,2,CNS neuron,2,DNp06,descending_neuron
+DNp07,2,CNS neuron,2,DNp07,descending_neuron
+DNp08,2,CNS neuron,2,DNp08,descending_neuron
+DNp09,2,CNS neuron,2,DNp09,descending_neuron
+DNp10,2,CNS neuron,2,DNp10,descending_neuron
+DNp102,2,CNS neuron,2,DNp102,descending_neuron
+DNp103,2,CNS neuron,2,DNp103,descending_neuron
+DNp11,2,CNS neuron,2,DNp11,descending_neuron
+DNp13,2,CNS neuron,2,DNp13,descending_neuron
+DNp14,2,CNS neuron,2,DNp14,descending_neuron
+DNp15,2,CNS neuron,2,DNp15,descending_neuron
+DNp18,2,CNS neuron,2,DNp18,descending_neuron
+DNp19,2,CNS neuron,2,DNp19,descending_neuron
+DNp20,2,CNS neuron,2,DNp20,descending_neuron
+DNp23,2,CNS neuron,2,DNp23,descending_neuron
+DNp25,2,CNS neuron,2,DNp25,descending_neuron
+DNp26,2,CNS neuron,2,DNp26,descending_neuron
+DNp28,2,CNS neuron,2,DNp28,descending_neuron
+DNp30,2,CNS neuron,2,DNp30,descending_neuron
+DNp31,2,CNS neuron,2,DNp31,descending_neuron
+DNp32,2,CNS neuron,2,DNp32,descending_neuron
+DNp33,2,CNS neuron,2,DNp33,descending_neuron
+DNp34,2,CNS neuron,2,DNp34,descending_neuron
+DNp35,2,CNS neuron,2,DNp35,descending_neuron
+DNp36,2,CNS neuron,2,DNp36,descending_neuron
+DNp38,2,CNS neuron,2,DNp38,descending_neuron
+DNp43,2,CNS neuron,2,DNp43,descending_neuron
+DNp44,2,CNS neuron,2,DNp44,descending_neuron
+DNp45,2,CNS neuron,2,DNp45,descending_neuron
+DNp47,2,CNS neuron,2,DNp47,descending_neuron
+DNp48,2,CNS neuron,2,DNp48,descending_neuron
+DNp54,2,CNS neuron,2,DNp54,descending_neuron
+DNp56,2,CNS neuron,2,DNp56,descending_neuron
+DNp57,2,CNS neuron,2,DNp57,descending_neuron
+DNp58,2,CNS neuron,2,DNp58,descending_neuron
+DNp62,2,CNS neuron,2,DNp62,descending_neuron
+DNp64,2,CNS neuron,2,DNp64,descending_neuron
+DNp65,2,CNS neuron,2,DNp65,descending_neuron
+DNp68,2,CNS neuron,2,DNp68,descending_neuron
+DNp69,2,CNS neuron,2,DNp69,descending_neuron
+DNp70,2,CNS neuron,2,DNp70,descending_neuron
+DNp73,2,CNS neuron,2,DNp73,descending_neuron
+DNpe001,2,CNS neuron,2,DNpe001,descending_neuron
+DNpe002,2,CNS neuron,2,DNpe002,descending_neuron
+DNpe006,2,CNS neuron,2,DNpe006,descending_neuron
+DNpe010,2,CNS neuron,2,DNpe010,descending_neuron
+DNpe016,2,CNS neuron,2,DNpe016,descending_neuron
+DNpe017,2,CNS neuron,2,DNpe017,descending_neuron
+DNpe018,1,,3,DNpe018,descending_neuron
+DNpe020,2,CNS neuron,2,DNpe020,descending_neuron
+DNpe021,2,CNS neuron,2,DNpe021,descending_neuron
+DNpe023,2,CNS neuron,2,DNpe023,descending_neuron
+DNpe024,2,CNS neuron,2,DNpe024,descending_neuron
+DNpe032,2,CNS neuron,2,DNpe032,descending_neuron
+DNpe035,2,CNS neuron,2,DNpe035,descending_neuron
+DNpe040,2,CNS neuron,2,DNpe040,descending_neuron
+DNpe041,2,CNS neuron,2,DNpe041,descending_neuron
+DNpe042,2,CNS neuron,2,DNpe042,descending_neuron
+DNpe045,2,CNS neuron,2,DNpe045,descending_neuron
+DNpe048,2,,2,DNpe048,descending_neuron
+DNpe050,2,CNS neuron,2,DNpe050,descending_neuron
+DNpe052,2,CNS neuron,2,DNpe052,descending_neuron
+DNpe056,2,CNS neuron,2,DNpe056,descending_neuron
+FB1F,2,,2,FB1F,cb_intrinsic
+FB2F_b,1,,3,FB2F_b,cb_intrinsic
+FB5K,2,,2,FB5K,cb_intrinsic
+FB5M,2,,2,FB5M,cb_intrinsic
+FB6N,2,,2,FB6N,cb_intrinsic
+FB6W,2,,2,FB6W,cb_intrinsic
+FB6X,2,,2,FB6X,cb_intrinsic
+H01,2,,2,IB014,cb_intrinsic
+H2,2,CNS neuron,2,H2,visual_projection
+HSE,2,CNS neuron,2,HSE,visual_projection
+HSN,2,CNS neuron,2,HSN,visual_projection
+HSS,2,CNS neuron,2,HSS,visual_projection
+IB015,2,,2,IB015,cb_intrinsic
+IB017,2,,2,IB017,cb_intrinsic
+IB020,2,,2,IB020,cb_intrinsic
+IB024,2,,2,IB024,cb_intrinsic
+IB050,2,,2,IB050,cb_intrinsic
+IB059b,2,,2,IB059_a,cb_intrinsic
+IB060,2,,2,IB060,cb_intrinsic
+IB062,2,,2,IB062,cb_intrinsic
+IB065,2,,2,IB065,cb_intrinsic
+IB110,2,,2,IB110,cb_intrinsic
+IB117,2,,2,IB117,cb_intrinsic
+KCg-s1,2,,2,KCg-s1,cb_intrinsic
+LAL001,2,,2,LAL001,cb_intrinsic
+LAL013,2,,2,LAL013,cb_intrinsic
+LAL018,2,,2,LAL018,cb_intrinsic
+LAL038,2,,2,CRE018,cb_intrinsic
+LAL100,2,,2,LAL100,cb_intrinsic
+LAL101,2,,2,LAL101,cb_intrinsic
+LAL114,2,,2,LAL114,cb_intrinsic
+LAL143,2,,2,LAL143,cb_intrinsic
+LAL148,2,,2,LAL148,cb_intrinsic
+LAL154,2,,2,LAL154,cb_intrinsic
+LAL156a,2,,2,LAL156_a,cb_intrinsic
+LAL156b,2,,2,LAL156_b,cb_intrinsic
+LAL158,2,,2,LAL158,cb_intrinsic
+LAL159,2,,2,LAL159,cb_intrinsic
+LAL165,2,,2,LAL165,cb_intrinsic
+LAL181,2,,2,LAL181,cb_intrinsic
+LAL182,2,,2,LAL182,cb_intrinsic
+LAL184,2,,2,LAL184,cb_intrinsic
+LAL186,2,,2,LAL186,cb_intrinsic
+LAL199,2,,2,LAL199,cb_intrinsic
+LHAD1c2b,2,,2,LHAD1c2b,cb_intrinsic
+LHAD1f3c,1,,3,LHAD1f3_b,cb_intrinsic
+LHAD1g1,2,,2,LHAD1g1,cb_intrinsic
+LHAD2e3,2,CNS neuron,2,LHAD2e3,cb_intrinsic
+LHAD3a10,2,,2,LHAD3a10,cb_intrinsic
+LHAV2f2_a,1,,3,LHAV2f2_b,cb_intrinsic
+LHAV2o1,2,,2,LHAV2o1,cb_intrinsic
+LHAV3a1_c,2,,2,LHAV3a1_c,cb_intrinsic
+LHAV3b12,2,,2,LHAV3b12,cb_intrinsic
+LHAV3d1,2,,2,LHAV3d1,cb_intrinsic
+LHAV3e3b,2,,2,LHAV3e3_b,cb_intrinsic
+LHAV3e6,1,,3,LHAV3e6,cb_intrinsic
+LHAV3k5,2,,2,LHAV3k5,cb_intrinsic
+LHAV3m1,2,,2,LHAV3m1,cb_intrinsic
+LHAV5d1,2,,2,LHAV5d1,cb_intrinsic
+LHAV5e1,2,,2,LHAV5e1,cb_intrinsic
+LHAV6b1,2,,2,LHAV6b1,cb_intrinsic
+LHAV7a4b,2,,2,LHAV7a4,cb_intrinsic
+LHCENT2,2,,2,LHCENT2,cb_intrinsic
+LHCENT5,2,,2,LHCENT5,cb_intrinsic
+LHCENT6,2,,2,LHCENT6,cb_intrinsic
+LHPD2d1,2,,2,LHPD2d1,cb_intrinsic
+LHPD4d1,2,,2,LHPD4d1,cb_intrinsic
+LHPD5a1,2,,2,LHPD5a1,cb_intrinsic
+LHPV10b1,2,,2,LHPV10b1,cb_intrinsic
+LHPV12a1,2,,2,LHPV12a1,cb_intrinsic
+LHPV3c1,2,,2,LHPV3c1,cb_intrinsic
+LHPV5e2,2,,2,LHPV5e2,cb_intrinsic
+LHPV5i1,2,,2,LHPV5i1,cb_intrinsic
+LHPV6l1,2,,2,LHPV6l1,cb_intrinsic
+LHPV6p1,2,,2,LHPV6p1,cb_intrinsic
+LHPV7a1a,2,,2,LHPV7a1,cb_intrinsic
+LHPV7b1,2,,2,LHPV7b1,cb_intrinsic
+LHPV7c1,2,,2,LHPV7c1,cb_intrinsic
+LHPV8a1,2,,2,LHPV8a1,cb_intrinsic
+LHPV8c1,2,,2,LHPV8c1,cb_intrinsic
+LPT22,2,,2,LPT22,visual_projection
+LPT26,2,,2,LPT26,visual_projection
+LPT30,2,,2,LPT30,visual_projection
+LPT42_Nod4,2,,2,Nod4,visual_projection
+LPT49,2,,2,LPT49,visual_projection
+LPT50,2,,2,LPT50,visual_projection
+LPT52,2,,2,LPT52,visual_projection
+LPT53,2,,2,LPT53,visual_centrifugal
+LPT54,2,,2,LPT54,visual_projection
+LPT57,2,,2,LPT57,visual_centrifugal
+LT1d,2,,2,LT1d,visual_projection
+LT39,2,,2,LT39,visual_centrifugal
+LT42,2,,2,LT42,visual_centrifugal
+LT47,2,,2,LT47,visual_projection
+LT55,2,,2,LT55,visual_projection
+LT60,2,,2,LT60,visual_projection
+LT66,2,,2,LT66,visual_projection
+LT75,2,,2,LT75,visual_projection
+LT84,2,,2,LT84,visual_projection
+LTe13,2,,2,LoVP53,visual_projection
+LTe15,2,,2,LoVP49,visual_projection
+LTe16,2,,2,LoVP107,visual_projection
+LTe17,2,,2,LoVP47,visual_projection
+LTe19,2,,2,LoVP86,visual_projection
+LTe20,2,,2,LoVP54,visual_projection
+LTe24,2,,2,LoVP59,visual_projection
+LTe25,2,,2,LoVP42,visual_projection
+LTe45,2,,2,LoVP56,visual_projection
+LTe48,2,,2,LoVP28,visual_projection
+LTe51,2,,2,LoVP100,visual_projection
+LTe53,2,,2,LoVP36,visual_projection
+LTe57,2,,2,LoVP44,visual_projection
+LTe59a,2,,2,LoVP95,visual_projection
+LTe62,2,,2,LoVP98,visual_projection
+LTe69,2,,2,LoVP63,visual_projection
+LTe75,2,,2,LoVP79,visual_projection
+MBON04,2,,2,MBON04,cb_intrinsic
+MBON22,2,,2,MBON22,cb_intrinsic
+MBON23,2,,2,MBON23,cb_intrinsic
+MBON30,2,,2,MBON30,cb_intrinsic
+MTe14,1,,3,MeVP22,visual_projection
+MTe18,2,,2,MeVP23,visual_projection
+MTe20,2,,2,MeVP39,visual_projection
+MTe21,2,,2,MeVP31,visual_projection
+MTe23,2,,2,MeVP49,visual_projection
+MTe24,2,,2,MeVP35,visual_projection
+MTe26,2,,2,MeVP33,visual_projection
+MTe27,2,,2,MeVP28,visual_projection
+MTe29,2,,2,MeVP56,visual_projection
+MTe32,2,,2,MeVP36,visual_projection
+MTe37,2,,2,MeVP45,visual_projection
+MTe39,2,,2,MeVP60,visual_projection
+MTe46,2,,2,MeVPaMe1,visual_projection
+M_adPNm7,1,,3,M_adPNm7,cb_intrinsic
+M_lvPNm29,2,,2,M_lvPNm29,cb_intrinsic
+MeLp1,2,,2,MeVPLp1,visual_projection
+MeMe_e03,2,,2,MeVPMe6,visual_projection
+MeMe_e05,2,,2,MeVPMe3,visual_projection
+MeMe_e13,2,,2,MeVPOL1,ol_intrinsic
+Nod2,2,,2,Nod2,visual_projection
+Nod5,2,,2,Nod5,visual_projection
+OA-AL2b1,2,,2,LoVCLo3,visual_centrifugal
+OA-AL2i1,2,,2,OA-AL2i1,visual_centrifugal
+OA-AL2i4,2,,2,OA-AL2i4,visual_centrifugal
+OA-VPM3,2,,2,OA-VPM3,cb_intrinsic
+OA-VPM4,2,,2,OA-VPM4,cb_intrinsic
+OA-VUMa1,2,,2,OA-VUMa1,cb_intrinsic
+OA-VUMa2,2,,2,OA-VUMa2,cb_intrinsic
+OA-VUMa3,2,CNS neuron,2,OA-VUMa3,cb_intrinsic
+OA-VUMa4,2,,2,OA-VUMa4,cb_intrinsic
+OA-VUMa6,2,,2,OA-VUMa6,cb_intrinsic
+PLP005,2,,2,PLP005,cb_intrinsic
+PLP022,2,,2,PLP022,cb_intrinsic
+PLP032,2,,2,PLP032,cb_intrinsic
+PLP051,2,,2,LoVP91,cb_intrinsic
+PLP075,2,,2,PLP075,cb_intrinsic
+PLP079,2,,2,PLP079,cb_intrinsic
+PLP094,2,,2,PLP094,cb_intrinsic
+PLP097,2,,2,PLP097,cb_intrinsic
+PLP103b,1,,3,PLP103,cb_intrinsic
+PLP123,2,,2,PLP123,cb_intrinsic
+PLP124,2,,2,PLP124,cb_intrinsic
+PLP128,2,,2,PLP128,cb_intrinsic
+PLP129,2,,2,PLP129,cb_intrinsic
+PLP132,2,,2,PLP132,cb_intrinsic
+PLP154,2,sensory neuron,2,PLP154,cb_intrinsic
+PLP170,2,,2,PLP170,cb_intrinsic
+PLP177,2,,2,PLP177,cb_intrinsic
+PLP178,2,,2,PLP178,cb_intrinsic
+PLP196,2,,2,PLP196,cb_intrinsic
+PLP215,2,,2,LoVP37,cb_intrinsic
+PLP216,2,,2,PLP216,cb_intrinsic
+PLP217,2,,2,PLP217,cb_intrinsic
+PLP232,2,,2,PLP232,cb_intrinsic
+PLP247,2,,2,PLP247,cb_intrinsic
+PPL101,2,,2,PPL101,cb_intrinsic
+PPL103,2,,2,PPL103,cb_intrinsic
+PPM1203,2,,2,PPM1203,cb_intrinsic
+PS031,2,,2,PS031,cb_intrinsic
+PS061,2,,2,PS061,cb_intrinsic
+PS063,2,,2,PS063,cb_intrinsic
+PS088,2,,2,PS088,cb_intrinsic
+PS093,2,,2,PS093,cb_intrinsic
+PS114,2,,2,PS114,cb_intrinsic
+PS117a,2,,2,PS117_a,cb_intrinsic
+PS138,2,sensory neuron,2,PS138,cb_intrinsic
+PS161,2,,2,PS161,cb_intrinsic
+PS172,2,,2,PS172,cb_intrinsic
+PS173,2,,2,PS173,cb_intrinsic
+PS174,2,,2,PS174,cb_intrinsic
+PS177,2,,2,PS177,cb_intrinsic
+PS182,2,,2,PS182,cb_intrinsic
+PS186,2,,2,PS186,cb_intrinsic
+PS187,2,,2,PS187,cb_intrinsic
+PS199,2,,2,PS199,cb_intrinsic
+PS214,2,,2,PS214,cb_intrinsic
+PS215,2,,2,PS215,cb_intrinsic
+PS238,2,,2,PS238,cb_intrinsic
+PS242,1,,3,PS242,cb_intrinsic
+PS262,2,,2,PS262,cb_intrinsic
+PS303,2,,2,PS303,cb_intrinsic
+PVLP003,2,,2,PVLP003,cb_intrinsic
+PVLP009,1,,3,PVLP009,cb_intrinsic
+PVLP022,1,,3,PVLP022,cb_intrinsic
+PVLP024,1,,3,PVLP024,cb_intrinsic
+PVLP089,2,,2,PVLP089,cb_intrinsic
+PVLP094,2,,2,PVLP094,cb_intrinsic
+PVLP123c,2,,2,PVLP123,cb_intrinsic
+SAD010,2,,2,SAD010,cb_intrinsic
+SAD052,1,CNS neuron,3,SAD052,cb_intrinsic
+SAD053,2,,2,SAD053,cb_intrinsic
+SAD074,2,CNS neuron,2,SAD074,cb_intrinsic
+SAD082,2,,2,SAD082,cb_intrinsic
+SAD094,2,,2,SAD094,cb_intrinsic
+SIP025,2,,2,SIP025,cb_intrinsic
+SIP064,2,,2,SIP064,cb_intrinsic
+SIP086,2,,2,SIP086,cb_intrinsic
+SLP004,2,,2,SLP004,cb_intrinsic
+SLP033,2,,2,SLP033,cb_intrinsic
+SLP060,2,,2,SLP060,cb_intrinsic
+SLP061,2,,2,SLP061,cb_intrinsic
+SLP066,2,,2,SLP066,cb_intrinsic
+SLP067,2,,2,SLP067,cb_intrinsic
+SLP069,2,,2,SLP069,cb_intrinsic
+SLP130,2,,2,SLP130,cb_intrinsic
+SLP134,2,,2,SLP134,cb_intrinsic
+SLP149,2,,2,SLP149,cb_intrinsic
+SLP150,2,,2,SLP150,cb_intrinsic
+SLP210,2,,2,SLP210,cb_intrinsic
+SLP214,2,,2,SLP214,cb_intrinsic
+SLP221,2,,2,SLP221,cb_intrinsic
+SLP236,2,,2,SLP236,cb_intrinsic
+SLP256,2,,2,SLP256,cb_intrinsic
+SLP258,2,,2,SLP258,cb_intrinsic
+SLP270,2,,2,SLP270,cb_intrinsic
+SLP278,2,,2,SLP278,cb_intrinsic
+SLP304a,2,,2,SLP304,cb_intrinsic
+SLP368,2,,2,SLP368,cb_intrinsic
+SLP377,2,,2,SLP377,cb_intrinsic
+SLP379,2,,2,SLP379,cb_intrinsic
+SLP384,2,,2,SLP384,cb_intrinsic
+SLP385,2,,2,SLP385,cb_intrinsic
+SLP387,2,,2,SLP387,cb_intrinsic
+SLP389,2,,2,SLP389,cb_intrinsic
+SLP390,2,,2,SLP390,cb_intrinsic
+SLP391,2,,2,SLP391,cb_intrinsic
+SLP404,2,,2,SLP404,cb_intrinsic
+SLP467b,2,,2,SLP467,cb_intrinsic
+SLPpm3_P02,2,,2,SLP442,cb_intrinsic
+SLPpm3_P03,2,,2,SLP439,cb_intrinsic
+SMP011a,2,,2,SMP011_a,cb_intrinsic
+SMP026,2,,2,SMP026,cb_intrinsic
+SMP028,2,,2,SMP028,cb_intrinsic
+SMP030,2,,2,SMP030,cb_intrinsic
+SMP037,2,,2,SMP037,cb_intrinsic
+SMP041,2,,2,SMP041,cb_intrinsic
+SMP042,2,,2,SMP042,cb_intrinsic
+SMP048,2,,2,SMP048,cb_intrinsic
+SMP056,2,,2,SMP056,cb_intrinsic
+SMP111,2,,2,SMP111,cb_intrinsic
+SMP114,2,,2,SMP114,cb_intrinsic
+SMP120a,1,,3,SMP120,cb_intrinsic
+SMP120b,2,,2,SMP120,cb_intrinsic
+SMP122,1,,3,SMP122,cb_intrinsic
+SMP128,2,,2,SMP128,cb_intrinsic
+SMP152,2,,2,SMP152,cb_intrinsic
+SMP156,2,,2,SMP156,cb_intrinsic
+SMP157,2,,2,SMP157,cb_intrinsic
+SMP159,2,,2,SMP159,cb_intrinsic
+SMP162b,2,,2,SMP162,cb_intrinsic
+SMP164,2,,2,SMP164,cb_intrinsic
+SMP169,2,,2,SMP169,cb_intrinsic
+SMP177,2,,2,SMP177,cb_intrinsic
+SMP180,2,,2,SMP180,cb_intrinsic
+SMP184,2,,2,SMP184,cb_intrinsic
+SMP190,2,,2,SMP190,cb_intrinsic
+SMP191,2,,2,SMP191,cb_intrinsic
+SMP200,2,,2,SMP200,cb_intrinsic
+SMP238,2,,2,SMP238,cb_intrinsic
+SMP239,2,,2,SMP239,cb_intrinsic
+SMP246,2,,2,SMP246,cb_intrinsic
+SMP248a,2,,2,SMP248_d,cb_intrinsic
+SMP254,2,,2,SMP254,cb_intrinsic
+SMP255,2,,2,SMP255,cb_intrinsic
+SMP256,2,,2,SMP256,cb_intrinsic
+SMP273,2,,2,SMP273,cb_intrinsic
+SMP276,2,,2,SMP276,cb_intrinsic
+SMP333,2,,2,SMP333,cb_intrinsic
+SMP334,2,,2,SMP334,cb_intrinsic
+SMP340,2,,2,SMP340,cb_intrinsic
+SMP369,2,,2,SMP369,cb_intrinsic
+SMP384,2,,2,SMP384,cb_intrinsic
+SMP385,2,,2,SMP385,cb_intrinsic
+SMP404b,1,,3,SMP404,cb_intrinsic
+SMP420,2,,2,SMP420,cb_intrinsic
+SMP421,2,,2,SMP421,cb_intrinsic
+SMP469c,2,,2,SMP469,cb_intrinsic
+SMP471,2,,2,SMP471,cb_intrinsic
+SMP494,2,,2,SMP494,cb_intrinsic
+SMP496,2,,2,SMP496,cb_intrinsic
+SMP512,2,,2,SMP512,cb_intrinsic
+SMP520a,2,,2,SMP520,cb_intrinsic
+SMP525,2,,2,SMP525,cb_intrinsic
+SMP527,2,,2,SMP527,cb_intrinsic
+SMP529,2,,2,SMP529,cb_intrinsic
+SMP543,2,,2,SMP543,cb_intrinsic
+SMP558,1,,3,aIPg9,cb_intrinsic
+SMP565,1,,3,SMP565,cb_intrinsic
+SMP566a,2,,2,SMP566,cb_intrinsic
+SMP580,2,,2,SMP580,cb_intrinsic
+SMP582,2,,2,SMP582,cb_intrinsic
+SMP586,2,,2,SMP586,cb_intrinsic
+SMP589,2,,2,SMP589,cb_intrinsic
+SMP594,2,,2,SMP594,cb_intrinsic
+SMP600,2,,2,SMP600,cb_intrinsic
+Sm37,2,,2,Cm33,ol_intrinsic
+TuTuB_a,2,,2,TuTuB_a,cb_intrinsic
+VA2_adPN,2,,2,VA2_adPN,cb_intrinsic
+VA4_lPN,2,,2,VA4_lPN,cb_intrinsic
+VCH,2,CNS neuron,2,VCH,visual_centrifugal
+VES003,2,,2,VES003,cb_intrinsic
+VES027,2,,2,VES027,cb_intrinsic
+VES040,2,,2,VES040,cb_intrinsic
+VES043,2,,2,VES043,cb_intrinsic
+VES046,2,,2,VES046,cb_intrinsic
+VES058,2,,2,VES058,cb_intrinsic
+VES065,2,,2,VES065,cb_intrinsic
+VES071,2,,2,VES071,cb_intrinsic
+VP1m_l2PN,2,,2,VP1m_l2PN,cb_intrinsic
+VP2_l2PN,2,,2,VP2_l2PN,cb_intrinsic
+V_ilPN,2,,2,V_ilPN,cb_intrinsic
+WED006,2,,2,WED006,cb_intrinsic
+WED008,2,,2,WED008,cb_intrinsic
+WED018,2,,2,WED018,cb_intrinsic
+WED081,2,,2,WED081,cb_intrinsic
+WED092d,2,,2,WED092,cb_intrinsic
+WED096c,2,,2,WED096,cb_intrinsic
+WED122,2,,2,WED122,cb_intrinsic
+WED127,1,,3,WED127,cb_intrinsic
+WED151,2,,2,WED151,cb_intrinsic
+WED155b,2,,2,WED154,cb_intrinsic
+WED165,2,,2,WED165,cb_intrinsic
+WED181,2,,2,WED181,cb_intrinsic
+WED182,2,,2,WED182,cb_intrinsic
+WEDPN10A,2,,2,WEDPN10A,cb_intrinsic
+WEDPN9,2,,2,WEDPN9,cb_intrinsic
+aMe17a2,2,,2,aMe17e,visual_centrifugal
+aMe19b,2,,2,MeVPMe11,visual_projection
+aMe25,2,,2,aMe25,visual_projection
+cL08,2,,2,LT35,visual_centrifugal
+cL09,2,,2,LoVC13,visual_centrifugal
+cL10,2,,2,LoVP96,visual_centrifugal
+cL11,2,,2,LoVC2,visual_centrifugal
+cL17,2,,2,LoVCLo1,visual_centrifugal
+cLLPM02,2,,2,OLVC1,visual_centrifugal
+cLM01,2,,2,OLVC4,visual_centrifugal
+cLPL01,2,,2,OLVC6,visual_centrifugal
+cMLLP02,2,,2,OLVC3,visual_centrifugal
+il3LN6,2,,2,il3LN6,cb_intrinsic
+mALB4,2,,2,mALB4,cb_intrinsic
+mALB5,2,,2,mALB5,cb_intrinsic
+mALC4,2,,2,LoVC14,visual_centrifugal
+oviIN,2,,2,oviIN,cb_intrinsic
+v2LN30,2,,2,v2LN30,cb_intrinsic
+v2LN32,2,,2,v2LN32,cb_intrinsic
+v2LN36,2,sensory neuron,2,v2LN36,cb_intrinsic
+v2LN41b,2,,2,v2LN41,cb_intrinsic
+v2LN5,1,,3,v2LN5,cb_intrinsic
+ALIN2,1,,2,ALIN2,cb_intrinsic
+ALIN7,1,,2,ALIN7,cb_intrinsic
+ALIN8,1,,2,ALIN8,cb_intrinsic
+ANXXX005,1,CNS neuron,2,ANXXX005,ascending_neuron
+AN_AMMC_SAD_2,1,,2,ANXXX109,ascending_neuron
+AN_AVLP_11,1,,2,AN08B018,ascending_neuron
+AN_AVLP_17,1,,2,AN09B029,ascending_neuron
+AN_AVLP_21,1,,2,ANXXX093,ascending_neuron
+AN_AVLP_5,1,,2,AN12B004,ascending_neuron
+AN_AVLP_GNG_10,1,,2,AN05B023d,ascending_neuron
+AN_AVLP_GNG_20,1,,2,ANXXX178,ascending_neuron
+AN_AVLP_PVLP_9,1,,2,AN09B012,ascending_neuron
+AN_AVLP_SAD_2,1,,2,AN17B008,ascending_neuron
+AN_GNG_101,2,,1,AN05B017,ascending_neuron
+AN_GNG_107,1,,2,AN17A008,ascending_neuron
+AN_GNG_118,1,,2,AN17A031,ascending_neuron
+AN_GNG_12,1,,2,AN03B009,ascending_neuron
+AN_GNG_14,1,,2,ANXXX214,ascending_neuron
+AN_GNG_144,1,,2,AN19B018,ascending_neuron
+AN_GNG_145,1,,2,ANXXX132,ascending_neuron
+AN_GNG_152,1,,2,AN05B040,ascending_neuron
+AN_GNG_170,1,,2,AN19B010,ascending_neuron
+AN_GNG_20,1,,2,AN26X004,ascending_neuron
+AN_GNG_34,1,CNS neuron,2,ANXXX200,ascending_neuron
+AN_GNG_37,1,,2,AN09B020,ascending_neuron
+AN_GNG_41,1,,2,AN12B008,ascending_neuron
+AN_GNG_45,1,,2,AN07B015,ascending_neuron
+AN_GNG_46,2,CNS neuron,1,AN14A003,ascending_neuron
+AN_GNG_49,2,,1,AN05B010,ascending_neuron
+AN_GNG_54,1,,2,AN19A018,ascending_neuron
+AN_GNG_57,1,,2,AN06B005,ascending_neuron
+AN_GNG_58,1,,2,AN07B032,ascending_neuron
+AN_GNG_68,1,,2,AN13B002,ascending_neuron
+AN_GNG_7,1,,2,AN18B002,ascending_neuron
+AN_GNG_76,1,,2,AN19A018,ascending_neuron
+AN_GNG_79,1,,2,AN12A003,ascending_neuron
+AN_GNG_91,1,,2,AN17A003,ascending_neuron
+AN_GNG_IPS_1,1,,2,vMS13,ascending_neuron
+AN_GNG_IPS_10,1,,2,AN10B008,ascending_neuron
+AN_GNG_IPS_11,1,,2,AN19B001,ascending_neuron
+AN_GNG_IPS_3,1,,2,AN19B024,ascending_neuron
+AN_GNG_SAD_10,1,,2,AN17A018,ascending_neuron
+AN_GNG_SAD_11,1,,2,AN08B009,ascending_neuron
+AN_GNG_SAD_12,1,,2,AN17A002,ascending_neuron
+AN_GNG_SAD_13,1,,2,AN17A009,ascending_neuron
+AN_GNG_SAD_24,1,,2,AN19A018,ascending_neuron
+AN_GNG_SAD_3,1,,2,AN12B001,ascending_neuron
+AN_GNG_SAD_31,2,CNS neuron,1,AN07B097,ascending_neuron
+AN_GNG_SAD_4,1,,2,AN08B023,ascending_neuron
+AN_GNG_SAD_7,1,,2,AN01A049,ascending_neuron
+AN_GNG_VES_1,1,,2,AN12B017,ascending_neuron
+AN_IPS_GNG_5,1,,2,AN06B037,ascending_neuron
+AN_IPS_WED_2,1,,2,AN07B036,ascending_neuron
+AN_SAD_GNG_1,1,,2,AN06B090,ascending_neuron
+AN_SPS_GNG_1,1,,2,AN06B057,ascending_neuron
+AN_SPS_IPS_3,1,,2,AN04B023,ascending_neuron
+AN_SPS_IPS_4,1,,2,AN18B025,ascending_neuron
+AN_SPS_IPS_6,1,,2,AN04B023,ascending_neuron
+AN_VES_WED_3,1,,2,AN10B024,ascending_neuron
+AN_multi_100,1,,2,AN06B007,ascending_neuron
+AN_multi_103,1,,2,ANXXX108,ascending_neuron
+AN_multi_108,1,,2,AN19B032,ascending_neuron
+AN_multi_111,1,,2,AN08B016,ascending_neuron
+AN_multi_113,1,,2,ANXXX075,ascending_neuron
+AN_multi_12,1,,2,AN02A002,ascending_neuron
+AN_multi_22,1,,2,AN09B007,ascending_neuron
+AN_multi_28,1,,2,AN07B004,ascending_neuron
+AN_multi_31,1,,2,AN09B030,ascending_neuron
+AN_multi_36,1,,2,AN18B022,ascending_neuron
+AN_multi_38,1,,2,AN03B094,ascending_neuron
+AN_multi_40,1,,2,AN06B026,ascending_neuron
+AN_multi_49,1,,2,AN10B017,ascending_neuron
+AN_multi_56,1,,2,AN08B013,ascending_neuron
+AN_multi_58,1,,2,AN10B018,ascending_neuron
+AN_multi_6,1,,2,AN06B040,ascending_neuron
+AN_multi_68,1,,2,AN09B023,ascending_neuron
+AN_multi_88,1,,2,AN05B097,ascending_neuron
+AN_multi_89,1,,2,ANXXX033,ascending_neuron
+AN_multi_9,1,,2,AN19B049,ascending_neuron
+AN_multi_90,1,,2,AN17A012,ascending_neuron
+AN_multi_91,1,,2,AN09B013,ascending_neuron
+AN_multi_93,1,,2,AN09B004,ascending_neuron
+AN_multi_95,1,,2,AN09B004,ascending_neuron
+AOTU009,1,,2,AOTU009,cb_intrinsic
+AOTU019,1,,2,AOTU019,cb_intrinsic
+AOTU022,1,,2,AOTU022,cb_intrinsic
+AOTU026,1,,2,AOTU026,cb_intrinsic
+AOTU027,1,,2,AOTU027,cb_intrinsic
+AOTU033,1,,2,AOTU033,cb_intrinsic
+AOTU036,1,,2,AOTU036,cb_intrinsic
+AOTUv3B_P01,1,,2,AOTU006,cb_intrinsic
+AOTUv4B_P02,1,,2,AOTU029,cb_intrinsic
+ATL001,1,,2,ATL001,cb_intrinsic
+ATL002,1,,2,ATL002,cb_intrinsic
+ATL008,1,,2,ATL008,cb_intrinsic
+ATL011,1,,2,ATL011,cb_intrinsic
+ATL021,1,,2,ATL021,cb_intrinsic
+ATL022,1,,2,ATL022,cb_intrinsic
+ATL026,1,,2,ATL026,cb_intrinsic
+ATL032,1,,2,ATL032,cb_intrinsic
+ATL034,1,,2,ATL034,cb_intrinsic
+ATL043,1,,2,ATL043,cb_intrinsic
+AVLP015,1,,2,AVLP015,cb_intrinsic
+AVLP017,1,,2,AVLP017,cb_intrinsic
+AVLP021,1,,2,AVLP021,cb_intrinsic
+AVLP032,1,,2,AVLP032,cb_intrinsic
+AVLP041,1,,2,AVLP041,cb_intrinsic
+AVLP078,1,,2,AVLP078,cb_intrinsic
+AVLP080,1,,2,AVLP080,cb_intrinsic
+AVLP084,1,,2,AVLP084,cb_intrinsic
+AVLP087,1,,2,AVLP087,cb_intrinsic
+AVLP088,1,,2,AVLP088,cb_intrinsic
+AVLP091,1,,2,AVLP091,cb_intrinsic
+AVLP098,1,,2,AVLP098,cb_intrinsic
+AVLP101,1,,2,AVLP101,cb_intrinsic
+AVLP129,1,,2,AVLP129,cb_intrinsic
+AVLP152,1,,2,AVLP152,cb_intrinsic
+AVLP153,1,,2,AVLP153,cb_intrinsic
+AVLP157,1,,2,AVLP157,cb_intrinsic
+AVLP159,1,,2,AVLP159,cb_intrinsic
+AVLP169,1,,2,AVLP169,cb_intrinsic
+AVLP180,1,,2,AVLP180,cb_intrinsic
+AVLP184,1,,2,AVLP184,cb_intrinsic
+AVLP193,1,,2,AVLP193,cb_intrinsic
+AVLP209,1,,2,AVLP209,cb_intrinsic
+AVLP211,1,,2,AVLP211,cb_intrinsic
+AVLP215,1,,2,AVLP215,cb_intrinsic
+AVLP216,1,,2,AVLP216,cb_intrinsic
+AVLP217,1,,2,AVLP217,cb_intrinsic
+AVLP218a,1,,2,AVLP218_a,cb_intrinsic
+AVLP252,1,,2,AVLP252,cb_intrinsic
+AVLP257,1,,2,AVLP257,cb_intrinsic
+AVLP263,1,,2,AVLP263,cb_intrinsic
+AVLP266,1,,2,AVLP266,cb_intrinsic
+AVLP267,1,,2,AVLP267,cb_intrinsic
+AVLP268,1,,2,AVLP268,cb_intrinsic
+AVLP280,1,,2,AVLP280,cb_intrinsic
+AVLP289,1,,2,AVLP289,cb_intrinsic
+AVLP304,1,,2,AVLP304,cb_intrinsic
+AVLP315,1,,2,AVLP315,cb_intrinsic
+AVLP317,1,,2,AVLP317,cb_intrinsic
+AVLP322,1,,2,AVLP322,cb_intrinsic
+AVLP340,1,,2,AVLP340,cb_intrinsic
+AVLP369,1,,2,AVLP369,cb_intrinsic
+AVLP371,1,,2,AVLP371,cb_intrinsic
+AVLP397,1,,2,AVLP397,cb_intrinsic
+AVLP433_b,1,,2,AVLP433_b,cb_intrinsic
+AVLP434_b,1,,2,AVLP434_b,cb_intrinsic
+AVLP435a,1,,2,AVLP435_a,cb_intrinsic
+AVLP435b,1,,2,AVLP435_b,cb_intrinsic
+AVLP443,1,,2,AVLP443,cb_intrinsic
+AVLP447,1,,2,AVLP447,cb_intrinsic
+AVLP451a,1,,2,AVLP451,cb_intrinsic
+AVLP474,1,,2,AVLP474,cb_intrinsic
+AVLP491,1,,2,AVLP491,cb_intrinsic
+AVLP502,1,,2,AVLP502,cb_intrinsic
+AVLP503,1,,2,AVLP503,cb_intrinsic
+AVLP506,1,,2,AVLP506,cb_intrinsic
+AVLP521,1,,2,AVLP521,cb_intrinsic
+AVLP531,1,,2,AVLP531,cb_intrinsic
+AVLP534,1,,2,AVLP534,cb_intrinsic
+AVLP535,1,,2,AVLP535,cb_intrinsic
+AVLP542,1,,2,AVLP542,cb_intrinsic
+AVLP544,1,,2,AVLP544,cb_intrinsic
+AVLP571,1,,2,AVLP571,cb_intrinsic
+AVLP576,1,,2,AVLP576,cb_intrinsic
+AVLP578,1,,2,AVLP578,cb_intrinsic
+AVLP586,1,,2,AVLP586,cb_intrinsic
+AVLP592,1,,2,AVLP592,cb_intrinsic
+AVLP596,1,,2,AVLP596,cb_intrinsic
+Am1,1,,2,Am1,ol_intrinsic
+CAPA,1,efferent neuron,2,CAPA,cb_endocrine
+CB.FB5E0,1,,2,FB5I,cb_intrinsic
+CB0005,1,,2,GNG594,cb_intrinsic
+CB0009,1,,2,GNG011,cb_intrinsic
+CB0014,1,,2,GNG593,cb_intrinsic
+CB0017,1,,2,GNG067,cb_intrinsic
+CB0021,1,,2,PS304,cb_intrinsic
+CB0035,1,,2,GNG185,cb_intrinsic
+CB0036,1,,2,GNG589,cb_intrinsic
+CB0038,1,,2,GNG588,cb_intrinsic
+CB0039,2,,1,GNG587,cb_intrinsic
+CB0041,1,,2,GNG032,cb_intrinsic
+CB0046,1,,2,CB0046,cb_intrinsic
+CB0048,1,,2,GNG026,cb_intrinsic
+CB0053,1,,2,PLP259,cb_intrinsic
+CB0055,1,,2,GNG116,cb_intrinsic
+CB0061,1,,2,CB0061,cb_intrinsic
+CB0066,1,,2,SMP745,cb_intrinsic
+CB0072,1,,2,GNG013,cb_intrinsic
+CB0075,1,,2,FLA018,cb_intrinsic
+CB0076,1,,2,GNG581,cb_intrinsic
+CB0079,1,,2,CB0079,cb_intrinsic
+CB0080,1,,2,GNG580,cb_intrinsic
+CB0087,1,,2,GNG578,cb_intrinsic
+CB0088,1,,2,GNG665,cb_intrinsic
+CB0089,1,,2,AVLP615,cb_intrinsic
+CB0107,1,,2,SMP327,cb_intrinsic
+CB0108,1,,2,GNG574,cb_intrinsic
+CB0109,1,,2,GNG102,cb_intrinsic
+CB0110,1,,2,GNG157,cb_intrinsic
+CB0113,1,,2,GNG324,cb_intrinsic
+CB0117,1,,2,GNG573,cb_intrinsic
+CB0130,1,,2,GNG664,cb_intrinsic
+CB0131,1,,2,AMMC010,cb_intrinsic
+CB0132,1,,2,GNG569,cb_intrinsic
+CB0143,1,,2,PLP256,cb_intrinsic
+CB0157,1,,2,GNG149,cb_intrinsic
+CB0161,1,,2,GNG566,cb_intrinsic
+CB0163,1,,2,GNG565,cb_intrinsic
+CB0170,1,,2,GNG563,cb_intrinsic
+CB0187,1,,2,GNG177,cb_intrinsic
+CB0188,1,,2,VES090,cb_intrinsic
+CB0190,1,,2,GNG148,cb_intrinsic
+CB0196,1,,2,PLP257,cb_intrinsic
+CB0198,1,,2,GNG555,cb_intrinsic
+CB0202,1,,2,GNG553,cb_intrinsic
+CB0212,1,,2,GNG550,cb_intrinsic
+CB0222,1,,2,AVLP325_b,cb_intrinsic
+CB0226,1,,2,GNG548,cb_intrinsic
+CB0227,1,,2,CB0227,cb_intrinsic
+CB0230,1,,2,PS359,cb_intrinsic
+CB0232,1,,2,PRW002,cb_intrinsic
+CB0233,1,,2,GNG289,cb_intrinsic
+CB0237,2,,1,GNG545,cb_intrinsic
+CB0240,1,,2,GNG187,cb_intrinsic
+CB0246,1,,2,GNG033,cb_intrinsic
+CB0247,1,,2,GNG542,cb_intrinsic
+CB0251,1,,2,GNG134,cb_intrinsic
+CB0254,1,,2,GNG057,cb_intrinsic
+CB0255,1,,2,AVLP609,cb_intrinsic
+CB0256,1,,2,GNG541,cb_intrinsic
+CB0257,1,,2,CL249,cb_intrinsic
+CB0261,1,,2,SAD106,cb_intrinsic
+CB0264,1,,2,WED193,cb_intrinsic
+CB0267,1,,2,GNG287,cb_intrinsic
+CB0276,2,,1,GNG539,cb_intrinsic
+CB0282,1,,2,CB0282,cb_intrinsic
+CB0284,1,,2,AVLP612,cb_intrinsic
+CB0285,1,,2,CB0285,cb_intrinsic
+CB0288,1,,2,PRW066,cb_intrinsic
+CB0289,1,,2,GNG194,cb_intrinsic
+CB0292,1,,2,GNG122,cb_intrinsic
+CB0294,1,,2,SIP026,cb_intrinsic
+CB0297,1,,2,CB0297,cb_intrinsic
+CB0298,1,,2,GNG049,cb_intrinsic
+CB0302,1,,2,GNG084,cb_intrinsic
+CB0305,1,,2,GNG666,cb_intrinsic
+CB0307,1,,2,CB0307,cb_intrinsic
+CB0310,1,,2,PRW065,cb_intrinsic
+CB0313,1,,2,SMP125,cb_intrinsic
+CB0319,1,,2,GNG535,cb_intrinsic
+CB0320,1,,2,CB0320,cb_intrinsic
+CB0328,1,,2,GNG240,cb_intrinsic
+CB0354,1,,2,PRW062,cb_intrinsic
+CB0356,1,,2,CB0356,cb_intrinsic
+CB0357,1,,2,GNG085,cb_intrinsic
+CB0369,1,,2,GNG531,cb_intrinsic
+CB0370,1,,2,GNG223,cb_intrinsic
+CB0374,1,,2,CB0374,cb_intrinsic
+CB0376,1,,2,CL015_b,cb_intrinsic
+CB0377,1,,2,GNG250,cb_intrinsic
+CB0380,1,,2,CB0380,cb_intrinsic
+CB0387,1,,2,PRW061,cb_intrinsic
+CB0393,1,,2,GNG089,cb_intrinsic
+CB0397,1,,2,CB0397,cb_intrinsic
+CB0399,1,,2,GNG637,cb_intrinsic
+CB0400,1,,2,GNG209,cb_intrinsic
+CB0404,1,,2,AMMC012,cb_intrinsic
+CB0418,1,,2,GNG525,cb_intrinsic
+CB0420,1,,2,CB0420,cb_intrinsic
+CB0423,1,,2,GNG660,cb_intrinsic
+CB0441,1,,2,GNG521,cb_intrinsic
+CB0445,1,,2,GNG230,cb_intrinsic
+CB0446,1,,2,GNG520,cb_intrinsic
+CB0453,1,,2,PRW060,cb_intrinsic
+CB0460,1,,2,GNG262,cb_intrinsic
+CB0461,1,,2,GNG137,cb_intrinsic
+CB0462,1,,2,GNG245,cb_intrinsic
+CB0463,1,,2,GNG317,cb_intrinsic
+CB0465,1,,2,GNG130,cb_intrinsic
+CB0466,1,,2,CB0466,cb_intrinsic
+CB0467,1,,2,GNG518,cb_intrinsic
+CB0468,1,,2,GNG034,cb_intrinsic
+CB0475,1,,2,AVLP321,cb_intrinsic
+CB0480,1,,2,GNG115,cb_intrinsic
+CB0481,1,,2,GNG162,cb_intrinsic
+CB0484,1,,2,GNG041,cb_intrinsic
+CB0487,1,,2,GNG092,cb_intrinsic
+CB0489,1,,2,GNG268,cb_intrinsic
+CB0491,1,sensory neuron,2,GNG035,cb_intrinsic
+CB0493,1,,2,GNG120,cb_intrinsic
+CB0494,1,,2,GNG190,cb_intrinsic
+CB0498,1,,2,GNG055,cb_intrinsic
+CB0502,1,,2,GNG252,cb_intrinsic
+CB0509,1,,2,PS334,cb_intrinsic
+CB0514,1,,2,PRW059,cb_intrinsic
+CB0516,1,,2,GNG511,cb_intrinsic
+CB0518,1,,2,GNG172,cb_intrinsic
+CB0521,1,,2,GNG510,cb_intrinsic
+CB0522,1,,2,GNG509,cb_intrinsic
+CB0524,1,,2,VES085_b,cb_intrinsic
+CB0525,1,,2,GNG191,cb_intrinsic
+CB0527,1,CNS neuron,2,PS306,cb_intrinsic
+CB0539,1,,2,GNG504,cb_intrinsic
+CB0540,1,,2,CB0540,cb_intrinsic
+CB0545,1,,2,GNG294,cb_intrinsic
+CB0546,1,,2,GNG322,cb_intrinsic
+CB0547,1,,2,WED209,cb_intrinsic
+CB0549,1,,2,GNG503,cb_intrinsic
+CB0557,1,,2,GNG118,cb_intrinsic
+CB0558,1,,2,GNG212,cb_intrinsic
+CB0560,1,,2,GNG211,cb_intrinsic
+CB0572,1,,2,GNG153,cb_intrinsic
+CB0597,1,,2,GNG498,cb_intrinsic
+CB0598,1,,2,CB0598,cb_intrinsic
+CB0605,1,,2,GNG150,cb_intrinsic
+CB0606,1,,2,GNG146,cb_intrinsic
+CB0609,1,,2,CB0609,cb_intrinsic
+CB0625,1,,2,CB0625,cb_intrinsic
+CB0626,1,,2,GNG103,cb_intrinsic
+CB0628,1,CNS neuron,2,GNG305,cb_intrinsic
+CB0632,1,,2,VES099,cb_intrinsic
+CB0635,1,,2,IB121,cb_intrinsic
+CB0640,1,,2,CB0640,cb_intrinsic
+CB0641,1,,2,ATL041,cb_intrinsic
+CB0646,1,,2,VES091,cb_intrinsic
+CB0649,1,,2,GNG670,cb_intrinsic
+CB0652,1,,2,CB0652,cb_intrinsic
+CB0660,1,,2,IB120,cb_intrinsic
+CB0666,1,,2,SIP091,cb_intrinsic
+CB0667,1,,2,VES094,cb_intrinsic
+CB0669,1,,2,PS317,cb_intrinsic
+CB0675,1,,2,CB0675,cb_intrinsic
+CB0676,1,,2,PS309,cb_intrinsic
+CB0685,1,,2,WED194,cb_intrinsic
+CB0689,1,,2,LAL207,cb_intrinsic
+CB0707,1,,2,GNG065,cb_intrinsic
+CB0709,1,,2,GNG142,cb_intrinsic
+CB0721,1,,2,GNG025,cb_intrinsic
+CB0740,1,,2,GNG131,cb_intrinsic
+CB0753,1,,2,GNG125,cb_intrinsic
+CB0754,1,,2,GNG024,cb_intrinsic
+CB0761,1,,2,PRW052,cb_intrinsic
+CB0772,1,,2,PRW051,cb_intrinsic
+CB0773,1,,2,GNG080,cb_intrinsic
+CB0786,1,,2,GNG047,cb_intrinsic
+CB0791,1,,2,GNG236,cb_intrinsic
+CB0795,1,,2,GNG123,cb_intrinsic
+CB0801,1,,2,GNG099,cb_intrinsic
+CB0804,1,efferent neuron,2,PS349,cb_motor
+CB0807,1,,2,GNG186,cb_intrinsic
+CB0810,1,efferent neuron,2,GNG651,cb_motor
+CB0815,1,,2,PS358,cb_intrinsic
+CB0819,1,,2,GNG140,cb_intrinsic
+CB0821,1,,2,GNG129,cb_intrinsic
+CB0823,1,,2,GNG037,cb_intrinsic
+CB0827,1,,2,GNG206,cb_intrinsic
+CB0835,1,,2,GNG650,cb_motor
+CB0853,1,,2,GNG145,cb_intrinsic
+CB0856,1,,2,GNG048,cb_intrinsic
+CB0864,1,,2,GNG136,cb_intrinsic
+CB0866,1,,2,GNG179,cb_intrinsic
+CB0867,1,,2,GNG062,cb_intrinsic
+CB0872,1,,2,GNG128,cb_intrinsic
+CB0881,1,,2,GNG072,cb_intrinsic
+CB0889,1,,2,GNG096,cb_intrinsic
+CB0890,1,,2,GNG458,cb_intrinsic
+CB0891,1,,2,GNG017,cb_intrinsic
+CB0893,1,,2,GNG234,cb_intrinsic
+CB0894,1,,2,FLA016,cb_intrinsic
+CB0896,1,,2,GNG036,cb_intrinsic
+CB0897,1,,2,GNG457,cb_intrinsic
+CB0898,1,,2,GNG168,cb_intrinsic
+CB0901,1,efferent neuron,2,PS348,cb_motor
+CB0910,1,,2,GNG019,cb_intrinsic
+CB0912,1,,2,GNG281,cb_intrinsic
+CB0923,1,,2,GNG021,cb_intrinsic
+CB0933,1,,2,SMP118,cb_intrinsic
+CB0945,1,,2,SLP122_b,cb_intrinsic
+CB0992,1,,2,CB0992,cb_intrinsic
+CB1039,1,,2,GNG269,cb_intrinsic
+CB1105,1,,2,SLP341_a,cb_intrinsic
+CB1122,1,,2,VES095,cb_intrinsic
+CB1139,1,,2,CB1139,cb_intrinsic
+CB1151,1,,2,CB1151,cb_intrinsic
+CB1174,1,,2,CB1174,cb_intrinsic
+CB1237,2,,1,CB1237,cb_intrinsic
+CB1247,1,,2,CB1247,cb_intrinsic
+CB1267,1,,2,PRW040,cb_intrinsic
+CB1303,1,sensory neuron,2,GNG039,cb_intrinsic
+CB1344,1,,2,PRW038,cb_intrinsic
+CB1346,1,,2,CB1346,cb_intrinsic
+CB1396,1,,2,CB1396,cb_intrinsic
+CB1407,1,,2,CB1407,cb_intrinsic
+CB1408,1,,2,CL191_b,cb_intrinsic
+CB1509,1,,2,CB1509,cb_intrinsic
+CB1513,1,,2,CB1513,cb_intrinsic
+CB1531,1,,2,LHAV2k12_a,cb_intrinsic
+CB1533,1,,2,CB1533,cb_intrinsic
+CB1550,1,,2,CB1550,cb_intrinsic
+CB1560,1,,2,CB1560,cb_intrinsic
+CB1566,1,,2,CRE083,cb_intrinsic
+CB1596,2,,1,CL274,cb_intrinsic
+CB1616,1,,2,AVLP197,cb_intrinsic
+CB1625,1,,2,CB1625,cb_intrinsic
+CB1632,1,,2,CB1632,cb_intrinsic
+CB1647,1,,2,AVLP004_a,cb_intrinsic
+CB1650,2,,1,CB1650,cb_intrinsic
+CB1672,1,,2,CB1672,cb_intrinsic
+CB1688,1,,2,CB1688,cb_intrinsic
+CB1691,1,,2,CB1691,cb_intrinsic
+CB1702,1,,2,CB1702,cb_intrinsic
+CB1714,1,,2,CB1714,cb_intrinsic
+CB1726,1,,2,CB1726,cb_intrinsic
+CB1727,1,,2,SMP196_a,cb_intrinsic
+CB1784,1,,2,SMP359,cb_intrinsic
+CB1817a,1,,2,SAD108,cb_intrinsic
+CB1817b,1,,2,SAD097,cb_intrinsic
+CB1866,1,,2,CB1866,cb_intrinsic
+CB1870,1,,2,LHAD1b2_d,cb_intrinsic
+CB1874,1,,2,CB1874,cb_intrinsic
+CB1877,1,,2,aIPg4,cb_intrinsic
+CB1879,1,,2,CB1879,cb_intrinsic
+CB1902,1,,2,CB1902,cb_intrinsic
+CB1926,2,,1,CB1926,cb_intrinsic
+CB1933,1,,2,LHAV2b8,cb_intrinsic
+CB1950,1,,2,CB1950,cb_intrinsic
+CB1960,1,,2,CB1960,cb_intrinsic
+CB1984,1,,2,CB1984,cb_intrinsic
+CB2019,1,,2,LHAD3a1,cb_intrinsic
+CB2029,1,,2,CB2029,cb_intrinsic
+CB2032,1,,2,CB2032,cb_intrinsic
+CB2043,1,,2,CB2043,cb_intrinsic
+CB2046,1,,2,LHAD3a1,cb_intrinsic
+CB2086,2,,1,CB2086,cb_intrinsic
+CB2093,1,,2,CB2093,cb_intrinsic
+CB2114,1,,2,AVLP005,cb_intrinsic
+CB2127,1,,2,CB2127,cb_intrinsic
+CB2134,1,,2,GNG064,cb_intrinsic
+CB2192,1,,2,WED010,cb_intrinsic
+CB2260,1,,2,AVLP483,cb_intrinsic
+CB2280,1,,2,CB2280,cb_intrinsic
+CB2288,1,,2,SMP316_b,cb_intrinsic
+CB2304,1,,2,GNG399,cb_intrinsic
+CB2333,1,,2,VES109,cb_intrinsic
+CB2385,1,,2,GNG044,cb_intrinsic
+CB2390,1,,2,CB2390,cb_intrinsic
+CB2408,1,,2,CB2408,cb_intrinsic
+CB2411,1,,2,CB2411,cb_intrinsic
+CB2420,1,,2,CB2420,cb_intrinsic
+CB2455,1,,2,GNG396,cb_intrinsic
+CB2493,1,,2,LHPV2a3,cb_intrinsic
+CB2513,1,,2,GNG394,cb_intrinsic
+CB2521,1,,2,CB2521,cb_intrinsic
+CB2535,1,,2,CB2535,cb_intrinsic
+CB2561,1,,2,CB2561,cb_intrinsic
+CB2563,1,,2,CB2563,cb_intrinsic
+CB2594,1,,2,VES032,cb_intrinsic
+CB2595,1,,2,CB2595,cb_intrinsic
+CB2619,1,,2,GNG231,cb_intrinsic
+CB2623,1,,2,CB2623,cb_intrinsic
+CB2632,1,,2,CRE092,cb_intrinsic
+CB2648,1,,2,CB2648,cb_intrinsic
+CB2676,1,,2,CB2676,cb_intrinsic
+CB2682,1,,2,CB2682,cb_intrinsic
+CB2689,1,,2,CB2689,cb_intrinsic
+CB2706,1,,2,CB2706,cb_intrinsic
+CB2766,1,,2,CB2766,cb_intrinsic
+CB2772,1,,2,CB2772,cb_intrinsic
+CB2790,1,,2,CB2790,cb_intrinsic
+CB2800,1,,2,CB2800,cb_intrinsic
+CB2808,1,,2,CL191_b,cb_intrinsic
+CB2824,1,,2,CB2824,cb_intrinsic
+CB2844,1,,2,SMP361,cb_intrinsic
+CB2847,1,,2,AVLP422,cb_intrinsic
+CB2855,1,,2,CB2855,cb_intrinsic
+CB2862,1,,2,CB2862,cb_intrinsic
+CB2940,1,,2,CB2940,cb_intrinsic
+CB2948,1,,2,CB2948,cb_intrinsic
+CB2953,1,,2,CB2953,cb_intrinsic
+CB2958,1,,2,CB2958,cb_intrinsic
+CB2982,1,,2,CB2982,cb_intrinsic
+CB3040,1,,2,LHAV1a4,cb_intrinsic
+CB3093,1,,2,CB3093,cb_intrinsic
+CB3112,1,,2,SMP354,cb_intrinsic
+CB3120,1,,2,CB3120,cb_intrinsic
+CB3138,1,,2,LHPV5d3,cb_intrinsic
+CB3142,1,,2,CB3142,cb_intrinsic
+CB3152,1,,2,SMP275,cb_intrinsic
+CB3175,1,,2,CB3175,cb_intrinsic
+CB3186,1,,2,AVLP422,cb_intrinsic
+CB3221,1,,2,CB3221,cb_intrinsic
+CB3250,1,,2,CB3250,cb_intrinsic
+CB3257,1,,2,SMP009,cb_intrinsic
+CB3276,1,,2,CB3276,cb_intrinsic
+CB3299,1,,2,LHAD3f1_a,cb_intrinsic
+CB3316,1,,2,CB3316,cb_intrinsic
+CB3323,1,,2,CB3323,cb_intrinsic
+CB3326,1,,2,CB3326,cb_intrinsic
+CB3335,1,,2,PVLP047,cb_intrinsic
+CB3341,1,,2,LHPV4i4,cb_intrinsic
+CB3344,1,,2,CL134,cb_intrinsic
+CB3347,1,,2,CB3347,cb_intrinsic
+CB3348,1,,2,AVLP095,cb_intrinsic
+CB3351,1,sensory neuron,2,GNG238,cb_intrinsic
+CB3365,1,,2,CRE086,cb_intrinsic
+CB3368,1,,2,AVLP311_b2,cb_intrinsic
+CB3394,1,,2,CB3394,cb_intrinsic
+CB3395,1,,2,GNG277,cb_intrinsic
+CB3402,1,,2,CB3402,cb_intrinsic
+CB3432,1,,2,SMP415_a,cb_intrinsic
+CB3436,1,,2,AVLP404,cb_intrinsic
+CB3456,1,,2,AVLP320_b,cb_intrinsic
+CB3463,1,,2,GNG261,cb_intrinsic
+CB3488,1,,2,CB3488,cb_intrinsic
+CB3507,1,,2,CB3507,cb_intrinsic
+CB3512,1,,2,CB3512,cb_intrinsic
+CB3517,1,,2,CL345,cb_intrinsic
+CB3523,1,,2,CB3523,cb_intrinsic
+CB3553,1,,2,CB3553,cb_intrinsic
+CB3561,1,,2,CB3561,cb_intrinsic
+CB3571,1,,2,CL134,cb_intrinsic
+CB3576,1,,2,CB3576,cb_intrinsic
+CB3580,1,,2,SMP279_a,cb_intrinsic
+CB3582,1,,2,PVLP034,cb_intrinsic
+CB3588,1,,2,CB3588,cb_intrinsic
+CB3594,1,,2,CB3594,cb_intrinsic
+CB3601,1,,2,SMP732,cb_intrinsic
+CB3606,1,,2,CB3606,cb_intrinsic
+CB3608,1,,2,CB3608,cb_intrinsic
+CB3652,1,,2,PVLP034,cb_intrinsic
+CB3654,1,,2,VLP_TBD1,cb_intrinsic
+CB3670,1,,2,GNG352,cb_intrinsic
+CB3671,1,,2,CB3671,cb_intrinsic
+CB3675,1,,2,AVLP296_b,cb_intrinsic
+CB3676,1,,2,CB3676,cb_intrinsic
+CB3678,1,,2,SLP271,cb_intrinsic
+CB3679,2,,1,CB3679,cb_intrinsic
+CB3680,1,,2,GNG074,cb_intrinsic
+CB3683,1,,2,CB3683,cb_intrinsic
+CB3698,1,,2,SLP315,cb_intrinsic
+CB3700,1,,2,AVLP431,cb_intrinsic
+CB3706,1,,2,SMP126,cb_intrinsic
+CB3709,1,,2,SLP460,cb_intrinsic
+CB3715,1,,2,GNG144,cb_intrinsic
+CB3724,1,,2,CB3724,cb_intrinsic
+CB3738,1,,2,CB3738,cb_intrinsic
+CB3758,1,,2,CB3758,cb_intrinsic
+CB3767,1,,2,SMP220,cb_intrinsic
+CB3781,1,,2,LHPV6i2_a,cb_intrinsic
+CB3799,1,,2,AMMC001,cb_intrinsic
+CB3811,1,,2,SLP251,cb_intrinsic
+CB3812,1,,2,GNG280,cb_intrinsic
+CB3879,1,,2,CB3879,cb_intrinsic
+CL003,1,,2,CL003,cb_intrinsic
+CL010,1,,2,CL010,cb_intrinsic
+CL021,1,,2,CL021,cb_intrinsic
+CL029a,1,,2,CL029_a,cb_intrinsic
+CL066,1,,2,CL066,cb_intrinsic
+CL067,1,,2,CL067,cb_intrinsic
+CL068,1,,2,CL068,cb_intrinsic
+CL072,1,,2,CL072,cb_intrinsic
+CL073,1,,2,CL073,cb_intrinsic
+CL075a,1,,2,CL075_a,cb_intrinsic
+CL075b,1,,2,CL075_b,cb_intrinsic
+CL097,1,,2,CL097,cb_intrinsic
+CL099c,1,,2,CL099,cb_intrinsic
+CL102,1,,2,CL102,cb_intrinsic
+CL107,1,,2,CL107,cb_intrinsic
+CL112,1,,2,CL112,cb_intrinsic
+CL120a,1,,2,CL120,cb_intrinsic
+CL130,1,,2,CL130,cb_intrinsic
+CL136,1,,2,CL136,cb_intrinsic
+CL141,1,,2,CL141,cb_intrinsic
+CL143,1,,2,CL143,cb_intrinsic
+CL146,1,,2,CL146,cb_intrinsic
+CL153,1,,2,CL153,cb_intrinsic
+CL154,1,,2,CL154,cb_intrinsic
+CL162,1,,2,CL162,cb_intrinsic
+CL176,1,,2,CL176,cb_intrinsic
+CL177,1,,2,CL177,cb_intrinsic
+CL178,1,,2,CL178,cb_intrinsic
+CL180,1,,2,CL180,cb_intrinsic
+CL199,1,,2,CL199,cb_intrinsic
+CL200,1,,2,CL200,cb_intrinsic
+CL203,1,,2,CL203,cb_intrinsic
+CL204,1,,2,CL204,cb_intrinsic
+CL211,1,,2,CL211,cb_intrinsic
+CL236,1,,2,CL236,cb_intrinsic
+CL244,1,,2,CL244,cb_intrinsic
+CL245,1,,2,CL245,cb_intrinsic
+CL251,1,,2,CL251,cb_intrinsic
+CL260,1,,2,CL260,cb_intrinsic
+CL292b,1,,2,CL292,cb_intrinsic
+CL293,1,,2,CL293,cb_intrinsic
+CL294,1,CNS neuron,2,CL294,cb_intrinsic
+CL309,1,,2,CL309,cb_intrinsic
+CL319,1,,2,CL319,cb_intrinsic
+CL323a,1,,2,CL323,cb_intrinsic
+CL327,1,,2,CL327,cb_intrinsic
+CL333,1,,2,CL333,cb_intrinsic
+CL339,1,,2,CL339,cb_intrinsic
+CL360,1,,2,CL360,cb_intrinsic
+CL361,1,,2,CL361,cb_intrinsic
+CL364,1,,2,CL364,cb_intrinsic
+CRE006,1,,2,CRE006,cb_intrinsic
+CRE021,1,,2,CRE021,cb_intrinsic
+CRE076,1,,2,CRE076,cb_intrinsic
+CRE077,1,,2,CRE077,cb_intrinsic
+CRE088,1,,2,CRE088,cb_intrinsic
+CRE095a,1,,2,CRE095,cb_intrinsic
+CRE096,1,,2,CRE096,cb_intrinsic
+CRE100,1,CNS neuron,2,CRE100,cb_intrinsic
+DA4l_adPN,1,,2,DA4l_adPN,cb_intrinsic
+DC1_adPN,1,,2,DC1_adPN,cb_intrinsic
+DN1-l,1,,2,aMe23,cb_intrinsic
+DNa11,1,,2,DNa11,descending_neuron
+DNb04,1,CNS neuron,2,DNb04,descending_neuron
+DNbe003,1,CNS neuron,2,DNbe003,descending_neuron
+DNc01,1,CNS neuron,2,DNc01,descending_neuron
+DNc02,1,sensory neuron,2,DNc02,descending_neuron
+DNd02,1,CNS neuron,2,DNd02,descending_neuron
+DNd04,1,CNS neuron,2,DNd04,descending_neuron
+DNd05,1,CNS neuron,2,DNd05,descending_neuron
+DNde001,1,CNS neuron,2,DNde001,descending_neuron
+DNg101,1,CNS neuron,2,DNg101,descending_neuron
+DNg107,1,CNS neuron,2,DNg107,descending_neuron
+DNg108,1,CNS neuron,2,DNg108,descending_neuron
+DNg19,1,CNS neuron,2,DNg19,descending_neuron
+DNg20,1,CNS neuron,2,DNg20,descending_neuron
+DNg21,1,CNS neuron,2,DNg21,descending_neuron
+DNg24,1,CNS neuron,2,DNg24,descending_neuron
+DNg27,1,CNS neuron,2,DNg27,descending_neuron
+DNg31,1,CNS neuron,2,DNg31,descending_neuron
+DNg33,1,CNS neuron,2,DNg33,descending_neuron
+DNg37,1,CNS neuron,2,DNg37,descending_neuron
+DNg43,1,,2,DNg43,descending_neuron
+DNg44,1,CNS neuron,2,DNg44,descending_neuron
+DNg45,1,CNS neuron,2,DNg45,descending_neuron
+DNg47,1,CNS neuron,2,DNg47,descending_neuron
+DNg48,1,CNS neuron,2,DNg48,descending_neuron
+DNg53,1,,2,DNg53,descending_neuron
+DNg54,1,CNS neuron,2,DNg54,descending_neuron
+DNg59,1,,2,DNg59,descending_neuron
+DNg60,1,CNS neuron,2,DNg60,descending_neuron
+DNg65,1,CNS neuron,2,DNg65,descending_neuron
+DNg69,1,CNS neuron,2,DNg69,descending_neuron
+DNg74_b,1,CNS neuron,2,DNg74_b,descending_neuron
+DNg75,1,CNS neuron,2,DNg75,descending_neuron
+DNg77,1,,2,DNg77,descending_neuron
+DNg78,1,CNS neuron,2,DNg78,descending_neuron
+DNg83,1,,2,DNg83,descending_neuron
+DNg89,1,CNS neuron,2,DNg89,descending_neuron
+DNg93,1,CNS neuron,2,DNg93,descending_neuron
+DNg96,1,CNS neuron,2,DNg96,descending_neuron
+DNge007,1,CNS neuron,2,DNge007,descending_neuron
+DNge018,1,CNS neuron,2,DNge018,descending_neuron
+DNge027,1,CNS neuron,2,DNge027,descending_neuron
+DNge034,1,,2,DNge034,descending_neuron
+DNge035,1,CNS neuron,2,DNge035,descending_neuron
+DNge037,1,CNS neuron,2,DNge037,descending_neuron
+DNge038,1,CNS neuron,2,DNge038,descending_neuron
+DNge041,1,CNS neuron,2,DNge041,descending_neuron
+DNge047,1,CNS neuron,2,DNge047,descending_neuron
+DNge048,1,CNS neuron,2,DNge048,descending_neuron
+DNge049,1,CNS neuron,2,DNge049,descending_neuron
+DNge058,1,CNS neuron,2,DNge058,descending_neuron
+DNge063,1,CNS neuron,2,DNge063,descending_neuron
+DNge068,1,,2,DNge068,descending_neuron
+DNge074,1,CNS neuron,2,DNge074,descending_neuron
+DNge088,1,CNS neuron,2,DNge088,descending_neuron
+DNge101,1,CNS neuron,2,DNge101,descending_neuron
+DNge104,1,CNS neuron,2,DNge104,descending_neuron
+DNge105,1,CNS neuron,2,DNge105,descending_neuron
+DNge122,1,CNS neuron,2,DNge122,descending_neuron
+DNge124,1,CNS neuron,2,DNge124,descending_neuron
+DNge128,1,CNS neuron,2,DNge128,descending_neuron
+DNge129,1,CNS neuron,2,DNge129,descending_neuron
+DNge135,1,CNS neuron,2,DNge135,descending_neuron
+DNge139,1,CNS neuron,2,DNge139,descending_neuron
+DNge141,1,CNS neuron,2,DNge141,descending_neuron
+DNge148,1,CNS neuron,2,DNge148,descending_neuron
+DNp101,1,CNS neuron,2,DNp101,descending_neuron
+DNp27,1,CNS neuron,2,DNp27,descending_neuron
+DNp29,1,CNS neuron,2,DNp29,descending_neuron
+DNp39,1,CNS neuron,2,DNp39,descending_neuron
+DNp42,1,CNS neuron,2,DNp42,descending_neuron
+DNp46,1,CNS neuron,2,DNp46,descending_neuron
+DNp49,1,CNS neuron,2,DNp49,descending_neuron
+DNp55,1,CNS neuron,2,DNp55,descending_neuron
+DNp63,1,CNS neuron,2,DNp63,descending_neuron
+DNp66,1,CNS neuron,2,DNp66,descending_neuron
+DNp72,1,CNS neuron,2,DNp72,descending_neuron
+DNpe005,1,CNS neuron,2,DNpe005,descending_neuron
+DNpe013,1,,2,DNpe013,descending_neuron
+DNpe022,1,CNS neuron,2,DNpe022,descending_neuron
+DNpe025,1,CNS neuron,2,DNpe025,descending_neuron
+DNpe027,1,CNS neuron,2,DNpe027,descending_neuron
+DNpe028,1,CNS neuron,2,DNpe028,descending_neuron
+DNpe030,1,CNS neuron,2,DNpe030,descending_neuron
+DNpe033,1,CNS neuron,2,DNpe033,descending_neuron
+DNpe036,1,CNS neuron,2,DNpe036,descending_neuron
+DNpe039,1,CNS neuron,2,DNpe039,descending_neuron
+DNpe049,1,CNS neuron,2,DNpe049,descending_neuron
+DNpe053,1,CNS neuron,2,DNpe053,descending_neuron
+DNpe055,1,CNS neuron,2,DNpe055,descending_neuron
+DP1l_adPN,1,,2,DP1l_adPN,cb_intrinsic
+DP1m_adPN,1,,2,DP1m_adPN,cb_intrinsic
+DPM,1,,2,DPM,cb_intrinsic
+ExR4,1,,2,ExR4,cb_intrinsic
+FB4G,1,,2,FB4G,cb_intrinsic
+FB5AA,1,,2,FB5AA,cb_intrinsic
+FB5F,1,,2,FB5F,cb_intrinsic
+FB5J,1,,2,FB5J,cb_intrinsic
+FB6B,1,,2,FB6B,cb_intrinsic
+FB6E,1,,2,FB6E,cb_intrinsic
+FB6G,1,,2,FB6G,cb_intrinsic
+FB6P,1,,2,FB6P,cb_intrinsic
+FB6Y,1,,2,FB6Y,cb_intrinsic
+FB7M,1,,2,FB7M,cb_intrinsic
+IB005,1,,2,IB005,cb_intrinsic
+IB016,1,,2,IB016,cb_intrinsic
+IB044,1,,2,IB044,cb_intrinsic
+IB047,1,,2,IB047,cb_intrinsic
+IB059a,1,,2,IB059_b,cb_intrinsic
+IB061,1,,2,IB061,cb_intrinsic
+IB064,1,,2,IB064,cb_intrinsic
+IB069,1,,2,IB069,cb_intrinsic
+IB092,1,,2,IB092,cb_intrinsic
+IB093,1,,2,IB093,cb_intrinsic
+IB094,1,,2,IB094,cb_intrinsic
+IB095,1,,2,IB095,cb_intrinsic
+IB114,1,,2,IB114,cb_intrinsic
+IB118,1,,2,IB118,cb_intrinsic
+KCg-s2,1,,2,KCg-s2,cb_intrinsic
+LAL002,1,,2,LAL002,cb_intrinsic
+LAL007,1,,2,LAL007,cb_intrinsic
+LAL009,1,,2,LAL009,cb_intrinsic
+LAL010,1,,2,LAL010,cb_intrinsic
+LAL011,1,,2,LAL011,cb_intrinsic
+LAL014,1,,2,LAL014,cb_intrinsic
+LAL017,1,,2,LAL017,cb_intrinsic
+LAL024,1,,2,LAL024,cb_intrinsic
+LAL030c,1,,2,LAL030_a,cb_intrinsic
+LAL040,1,,2,LAL040,cb_intrinsic
+LAL043b,1,,2,LAL043_e,cb_intrinsic
+LAL045,1,,2,LAL045,cb_intrinsic
+LAL046,1,,2,LAL046,cb_intrinsic
+LAL049,1,,2,LAL049,cb_intrinsic
+LAL051,1,,2,LAL051,cb_intrinsic
+LAL054,1,,2,LAL054,cb_intrinsic
+LAL055,1,,2,LAL055,cb_intrinsic
+LAL073,1,,2,LAL073,cb_intrinsic
+LAL075,1,,2,LAL075,cb_intrinsic
+LAL081,1,,2,LAL081,cb_intrinsic
+LAL082,1,,2,LAL082,cb_intrinsic
+LAL099,1,,2,LAL099,cb_intrinsic
+LAL102,1,,2,LAL102,cb_intrinsic
+LAL115,1,,2,LAL115,cb_intrinsic
+LAL119,1,,2,LAL119,cb_intrinsic
+LAL124,1,,2,LAL124,cb_intrinsic
+LAL129,1,,2,LAL129,cb_intrinsic
+LAL132b,1,,2,LAL132_b,cb_intrinsic
+LAL137,1,,2,LAL137,cb_intrinsic
+LAL138,1,,2,LAL138,cb_intrinsic
+LAL140,1,,2,LAL140,cb_intrinsic
+LAL146,1,,2,LAL146,cb_intrinsic
+LAL153,1,,2,LAL153,cb_intrinsic
+LAL157,1,,2,LAL157,cb_intrinsic
+LAL162,1,,2,LAL162,cb_intrinsic
+LAL168b,1,,2,LAL168,cb_intrinsic
+LAL169,1,,2,LAL169,cb_intrinsic
+LAL170,1,,2,LAL170,cb_intrinsic
+LAL183,1,,2,LAL183,cb_intrinsic
+LAL190,1,,2,LAL190,cb_intrinsic
+LAL193,1,,2,LAL193,cb_intrinsic
+LAL195,1,,2,LAL195,cb_intrinsic
+LAL197,1,,2,LAL197,cb_intrinsic
+LAL198,1,,2,LAL198,cb_intrinsic
+LAL200,1,,2,LAL200,cb_intrinsic
+LHAD1a4c,2,,1,LHAD1a4_b,cb_intrinsic
+LHAD1f2,1,,2,LHAD1f2,cb_intrinsic
+LHAD1f4c,1,,2,LHAD1f4,cb_intrinsic
+LHAD1h1,1,,2,LHAD1h1,cb_intrinsic
+LHAD1k1,1,,2,LHAD1k1,cb_intrinsic
+LHAD2d1,1,,2,LHAD2d1,cb_intrinsic
+LHAD2e1,1,,2,LHAD2e1,cb_intrinsic
+LHAV1b3,1,,2,LHAV1b3,cb_intrinsic
+LHAV1e1,1,,2,LHAV1e1,cb_intrinsic
+LHAV2d1,1,,2,LHAV2d1,cb_intrinsic
+LHAV2g1b,1,,2,LHAV2g1,cb_intrinsic
+LHAV2k10,1,,2,LHAV2k10,cb_intrinsic
+LHAV2k6,1,,2,LHAV2k6,cb_intrinsic
+LHAV2n1,1,,2,LHAV2n1,cb_intrinsic
+LHAV3e3a,1,,2,LHAV3e3_a,cb_intrinsic
+LHAV3f1,1,,2,LHAV3f1,cb_intrinsic
+LHAV3h1,1,,2,LHAV3h1,cb_intrinsic
+LHAV3i1,1,,2,LHAV3i1,cb_intrinsic
+LHAV3k2,1,,2,LHAV3k2,cb_intrinsic
+LHAV3k4,1,,2,LHAV3k4,cb_intrinsic
+LHAV3k6,1,,2,LHAV3k6,cb_intrinsic
+LHAV3p1,1,,2,LHAV3p1,cb_intrinsic
+LHAV4a2,1,,2,LHAV4a2,cb_intrinsic
+LHAV5a10_b,1,,2,LHAV5a10_b,cb_intrinsic
+LHAV6b4,1,,2,LHAV6b4,cb_intrinsic
+LHAV6e1,1,,2,LHAV6e1,cb_intrinsic
+LHAV6g1,1,,2,LHAV6g1,cb_intrinsic
+LHAV6h1,1,,2,LHAV6h1,cb_intrinsic
+LHCENT1,1,,2,LHCENT1,cb_intrinsic
+LHCENT12a,1,,2,LHCENT12_a,cb_intrinsic
+LHCENT14,1,glia,2,LHCENT14,cb_intrinsic
+LHCENT3,1,,2,LHCENT3,cb_intrinsic
+LHCENT9,1,,2,LHCENT9,cb_intrinsic
+LHMB1,1,,2,LHMB1,cb_intrinsic
+LHPD2c1,1,,2,LHPD2c1,cb_intrinsic
+LHPD3a2,1,,2,LHPD3a2_b,cb_intrinsic
+LHPD4c1,1,,2,LHPD4c1,cb_intrinsic
+LHPD5c1,1,,2,LHPD5c1,cb_intrinsic
+LHPV10a1a,1,,2,LHPV10a1a,cb_intrinsic
+LHPV10a1b,1,,2,LHPV10a1b,cb_intrinsic
+LHPV10c1,1,,2,LHPV10c1,cb_intrinsic
+LHPV2h1,1,,2,LHPV2h1,cb_intrinsic
+LHPV2i2b,1,,2,LHPV2i2_b,cb_intrinsic
+LHPV4b9,1,,2,LHPV4b9,cb_intrinsic
+LHPV4e1,1,,2,LHPV4e1,cb_intrinsic
+LHPV4h3,1,,2,LHPV4h3,cb_intrinsic
+LHPV4l1,1,,2,LHPV4l1,cb_intrinsic
+LHPV5a5,2,,1,LHPV5a5,cb_intrinsic
+LHPV5e1,1,,2,LHPV5e1,cb_intrinsic
+LHPV5l1,1,,2,LHPV5l1,cb_intrinsic
+LHPV6j1,1,,2,LHPV6j1,cb_intrinsic
+LHPV6o1,1,,2,LHPV6o1,cb_intrinsic
+LHPV6q1,1,,2,LHPV6q1,cb_intrinsic
+LHPV7a1b,1,,2,LHPV7a1,cb_intrinsic
+LHPV9b1,1,,2,LHPV9b1,cb_intrinsic
+LPT04_HST,1,,2,HST,visual_projection
+LPT21,1,,2,LPT21,visual_projection
+LPT27,1,,2,LPT27,visual_projection
+LPT28,1,,2,LPT28,visual_projection
+LPT29,1,,2,LPT29,visual_projection
+LPT45_dCal1,1,,2,dCal1,ol_intrinsic
+LPT48_vCal3,1,,2,vCal3,visual_projection
+LPT58,1,,2,V1,visual_centrifugal
+LPsP,1,,2,LPsP,cb_intrinsic
+LT11,1,,2,LT11,visual_projection
+LT1c,1,,2,LT1c,visual_projection
+LT36,1,,2,LT36,visual_centrifugal
+LT37,1,,2,LT37,visual_centrifugal
+LT54,1,,2,LT54,ol_intrinsic
+LT59,1,,2,LT59,visual_projection
+LT61b,1,,2,LT61b,visual_projection
+LT62,1,,2,LT62,visual_projection
+LT67,1,,2,LT67,visual_projection
+LT72,1,,2,LT72,visual_projection
+LT76,1,,2,LT76,visual_projection
+LT83,1,,2,LT83,visual_projection
+LT85,1,,2,LT85,visual_projection
+LT86,1,,2,LT86,visual_projection
+LT87,1,,2,LT87,visual_projection
+LTe04,1,,2,LoVP41,visual_projection
+LTe05,1,,2,LoVP35,visual_projection
+LTe07,1,,2,LoVP30,visual_projection
+LTe08,1,,2,LoVP106,visual_projection
+LTe10,1,,2,LoVP69,visual_projection
+LTe14,1,,2,LoVP103,visual_projection
+LTe22,1,,2,LoVP46,visual_projection
+LTe23,1,,2,LoVP73,visual_projection
+LTe27,1,,2,LoVP29,visual_projection
+LTe28,1,,2,LoVP34,visual_projection
+LTe30,1,,2,LoVP72,visual_projection
+LTe31,1,,2,LoVP48,visual_projection
+LTe36,1,,2,LoVP68,visual_projection
+LTe40,1,,2,LoVP70,visual_projection
+LTe41,1,,2,LoVP51,visual_projection
+LTe44,1,,2,AOTU045,visual_projection
+LTe70,1,,2,LoVP64,visual_projection
+LTe72,1,,2,LoVP65,visual_projection
+LTe74,1,,2,LoVP67,visual_projection
+LTe76,1,,2,LoVP88,visual_projection
+Li23,1,,2,Li36,ol_intrinsic
+Li30,1,,2,Li33,ol_intrinsic
+Li33,1,,2,Li39,ol_intrinsic
+MBON01,1,,2,MBON01,cb_intrinsic
+MBON03,1,,2,MBON03,cb_intrinsic
+MBON05,1,CNS neuron,2,MBON05,cb_intrinsic
+MBON11,1,,2,MBON11,cb_intrinsic
+MBON17,1,,2,MBON17,cb_intrinsic
+MBON20,1,,2,MBON20,cb_intrinsic
+MBON24,1,,2,MBON24,cb_intrinsic
+MBON26,1,,2,MBON26,cb_intrinsic
+MBON29,1,,2,MBON29,cb_intrinsic
+MBON32,1,glia,2,MBON32,cb_intrinsic
+MTe19,2,,1,MeVP57,visual_projection
+MTe22,1,,2,MeVP30,visual_projection
+MTe25,1,,2,MeVP32,visual_projection
+MTe31,1,,2,MeVP48,visual_projection
+MTe36,1,,2,MeVP61,visual_projection
+MTe40,1,,2,MeVP43,visual_projection
+MTe41,1,,2,MeVP53,visual_projection
+MTe42,1,,2,MeVP26,visual_projection
+MTe43,1,,2,MeVP51,visual_projection
+MTe45,1,,2,MeVP38,visual_projection
+MTe49,1,,2,MeVP27,visual_projection
+M_adPNm3,1,,2,M_adPNm3,cb_intrinsic
+M_l2PNl22,1,,2,M_l2PNl22,cb_intrinsic
+M_l2PNl23,1,,2,M_l2PNl23,cb_intrinsic
+M_l2PNm17,1,,2,M_l2PNm17,cb_intrinsic
+M_lPNm11B,1,,2,M_lPNm11B,cb_intrinsic
+M_lvPNm31,1,,2,M_lvPNm31,cb_intrinsic
+M_smPN6t2,1,,2,M_smPN6t2,cb_intrinsic
+M_spPN5t10,1,,2,M_spPN5t10,cb_intrinsic
+M_vPNml54,1,,2,M_vPNml54,cb_intrinsic
+MeMe_e12,1,,2,MeVPMe13,ol_intrinsic
+MsAHN,1,,2,AN27X008,ascending_neuron
+MtAHN,1,,2,AN27X004,ascending_neuron
+NPFL1-I,1,,2,NPFL1-I,cb_intrinsic
+OA-ASM2,1,,2,OA-ASM2,cb_intrinsic
+OCG01d,1,,2,OCG01d,visual_projection
+OCG02a,1,sensory neuron,2,OCG03,visual_projection
+PAL03,1,,2,PAL03,cb_intrinsic
+PLP004,1,,2,PLP004,cb_intrinsic
+PLP006,1,,2,PLP006,cb_intrinsic
+PLP007,1,,2,PLP007,cb_intrinsic
+PLP008,1,,2,PLP008,cb_intrinsic
+PLP016,1,,2,PLP016,cb_intrinsic
+PLP019,1,,2,PLP019,cb_intrinsic
+PLP020,1,,2,PLP020,cb_intrinsic
+PLP029,1,,2,PLP029,cb_intrinsic
+PLP034,1,,2,PLP034,cb_intrinsic
+PLP035,1,,2,PLP035,cb_intrinsic
+PLP058,1,,2,PLP058,cb_intrinsic
+PLP067a,1,,2,PLP067,cb_intrinsic
+PLP068,1,,2,LoVP105,cb_intrinsic
+PLP078,1,,2,PLP078,cb_intrinsic
+PLP092,1,,2,PLP092,cb_intrinsic
+PLP096,1,,2,PLP096,cb_intrinsic
+PLP116,1,,2,PLP116,cb_intrinsic
+PLP119,1,,2,PLP119,cb_intrinsic
+PLP122,1,,2,PLP122_a,cb_intrinsic
+PLP130,1,,2,PLP130,cb_intrinsic
+PLP148,1,,2,PLP148,cb_intrinsic
+PLP171,1,,2,PLP171,cb_intrinsic
+PLP175,1,,2,PLP175,cb_intrinsic
+PLP197,1,,2,PLP197,cb_intrinsic
+PLP211,1,,2,PLP211,cb_intrinsic
+PLP214,1,,2,PLP214,cb_intrinsic
+PLP221,1,,2,PLP221,cb_intrinsic
+PLP229,1,,2,PLP229,cb_intrinsic
+PLP230,1,,2,PLP230,cb_intrinsic
+PLP239,1,,2,PLP239,cb_intrinsic
+PLP243,1,,2,PLP243,cb_intrinsic
+PLP248,1,,2,PLP248,cb_intrinsic
+PLP249,1,,2,PLP249,cb_intrinsic
+PLP250,1,,2,PLP250,cb_intrinsic
+PLP251,1,,2,LoVP97,cb_intrinsic
+PPL106,1,,2,PPL106,cb_intrinsic
+PPL107,1,,2,PPL107,cb_intrinsic
+PPL201,1,,2,PPL201,cb_intrinsic
+PPL203,1,,2,PPL203,cb_intrinsic
+PS010,1,,2,PS010,cb_intrinsic
+PS013,1,,2,PS013,cb_intrinsic
+PS020,1,,2,PS020,cb_intrinsic
+PS030,1,,2,PS030,cb_intrinsic
+PS041,1,,2,PS041,cb_intrinsic
+PS046,1,,2,PS046,cb_intrinsic
+PS047a,1,,2,PS047_a,cb_intrinsic
+PS048b,1,,2,PS048_a,cb_intrinsic
+PS050,1,,2,PS050,cb_intrinsic
+PS051,1,,2,PS051,cb_intrinsic
+PS057,1,,2,PS057,cb_intrinsic
+PS058,1,,2,PS058,cb_intrinsic
+PS062,1,,2,PS062,cb_intrinsic
+PS068,1,,2,PS068,cb_intrinsic
+PS080,1,,2,PS080,cb_intrinsic
+PS086,1,,2,PS085,cb_intrinsic
+PS090a,1,,2,PS090,cb_intrinsic
+PS090b,1,,2,PS090,cb_intrinsic
+PS091,1,,2,PS091,cb_intrinsic
+PS094b,1,,2,PS094,cb_intrinsic
+PS099a,1,,2,PS099_b,cb_intrinsic
+PS099b,1,,2,PS099_a,cb_intrinsic
+PS116,1,,2,PS116,cb_intrinsic
+PS117b,1,,2,PS117_b,cb_intrinsic
+PS124,1,,2,PS124,cb_intrinsic
+PS157,1,,2,PS157,cb_intrinsic
+PS158,1,,2,PS158,cb_intrinsic
+PS160,1,,2,PS160,cb_intrinsic
+PS170,1,,2,PS170,cb_intrinsic
+PS171,1,,2,PS171,cb_intrinsic
+PS175,1,,2,PS175,cb_intrinsic
+PS178,1,,2,PS178,cb_intrinsic
+PS183,1,,2,PS183,cb_intrinsic
+PS185a,1,,2,PS185,cb_intrinsic
+PS185b,1,,2,PS201,cb_intrinsic
+PS200,1,,2,PS200,cb_intrinsic
+PS224,1,,2,PS224,cb_intrinsic
+PS231,1,,2,PS231,cb_intrinsic
+PS232,1,,2,PS232,cb_intrinsic
+PS248,1,,2,PS248,cb_intrinsic
+PS249,1,,2,PS249,cb_intrinsic
+PS253,1,,2,PS253,cb_intrinsic
+PS265,1,,2,PS265,cb_intrinsic
+PS274,1,,2,PS274,cb_intrinsic
+PS300,1,,2,PS300,cb_intrinsic
+PV7c11,1,,2,LPN_b,cb_intrinsic
+PVLP010,1,,2,PVLP010,cb_intrinsic
+PVLP011,1,,2,PVLP011,cb_intrinsic
+PVLP016,1,,2,PVLP016,cb_intrinsic
+PVLP019,1,,2,PVLP019,cb_intrinsic
+PVLP030,1,,2,PVLP030,cb_intrinsic
+PVLP062,1,,2,PVLP062,cb_intrinsic
+PVLP076,1,,2,PVLP076,cb_intrinsic
+PVLP082a,2,,1,PVLP082,cb_intrinsic
+PVLP084,1,,2,PVLP084,cb_intrinsic
+PVLP093,1,,2,PVLP093,cb_intrinsic
+PVLP101a,1,,2,PVLP101,cb_intrinsic
+PVLP107,1,,2,PVLP107,cb_intrinsic
+PVLP115,1,,2,PVLP115,cb_intrinsic
+PVLP122a,1,,2,PVLP122,cb_intrinsic
+PVLP137,1,,2,PVLP137,cb_intrinsic
+PVLP143,1,,2,PVLP143,cb_intrinsic
+PVLP150,1,,2,PVLP150,cb_intrinsic
+SAD036,1,,2,SAD036,cb_intrinsic
+SAD043,1,,2,SAD043,cb_intrinsic
+SAD070,1,,2,SAD070,cb_intrinsic
+SAD072,1,,2,SAD072,cb_intrinsic
+SIP006,1,,2,SIP006,cb_intrinsic
+SIP018,1,,2,SIP018,cb_intrinsic
+SIP022,1,,2,SIP022,cb_intrinsic
+SIP031,1,,2,SIP031,cb_intrinsic
+SIP052,1,,2,SIP052,cb_intrinsic
+SIP065,1,,2,SIP065,cb_intrinsic
+SIP087,1,,2,SIP087,cb_intrinsic
+SLP001,1,,2,SLP001,cb_intrinsic
+SLP030,1,,2,SLP030,cb_intrinsic
+SLP032,1,,2,SLP032,cb_intrinsic
+SLP034,1,,2,SLP034,cb_intrinsic
+SLP047,1,,2,SLP047,cb_intrinsic
+SLP056,1,,2,SLP056,cb_intrinsic
+SLP057,1,,2,SLP057,cb_intrinsic
+SLP059,1,,2,SLP059,cb_intrinsic
+SLP064,1,,2,SLP064,cb_intrinsic
+SLP068,1,,2,SLP068,cb_intrinsic
+SLP070,1,,2,SLP070,cb_intrinsic
+SLP073,1,,2,SLP073,cb_intrinsic
+SLP077,1,,2,SLP077,cb_intrinsic
+SLP079,1,,2,SLP079,cb_intrinsic
+SLP083,1,,2,SLP083,cb_intrinsic
+SLP120,1,,2,SLP120,cb_intrinsic
+SLP126,1,,2,SLP126,cb_intrinsic
+SLP170,1,,2,SLP170,cb_intrinsic
+SLP184,1,,2,SLP184,cb_intrinsic
+SLP206,1,,2,SLP206,cb_intrinsic
+SLP207,1,,2,SLP207,cb_intrinsic
+SLP208,1,,2,SLP208,cb_intrinsic
+SLP211,1,,2,SLP211,cb_intrinsic
+SLP212a,1,,2,SLP212_a,cb_intrinsic
+SLP230,1,,2,SLP230,cb_intrinsic
+SLP234,1,,2,SLP234,cb_intrinsic
+SLP238,1,,2,SLP238,cb_intrinsic
+SLP247,1,,2,SLP247,cb_intrinsic
+SLP255,1,,2,SLP255,cb_intrinsic
+SLP265b,1,,2,SMP215,cb_intrinsic
+SLP269,1,,2,SLP269,cb_intrinsic
+SLP273,1,,2,SLP273,cb_intrinsic
+SLP279,1,,2,SLP279,cb_intrinsic
+SLP298,1,,2,SLP298,cb_intrinsic
+SLP307,2,,1,SLP307,cb_intrinsic
+SLP308a,1,,2,SLP308,cb_intrinsic
+SLP313,1,,2,SLP313,cb_intrinsic
+SLP319,1,,2,SLP319,cb_intrinsic
+SLP340,1,,2,SLP340,cb_intrinsic
+SLP355,1,,2,SLP355,cb_intrinsic
+SLP358,1,,2,SLP358,cb_intrinsic
+SLP363,1,,2,SLP363,cb_intrinsic
+SLP365,1,,2,SLP365,cb_intrinsic
+SLP366,1,,2,SLP366,cb_intrinsic
+SLP373,1,,2,SLP373,cb_intrinsic
+SLP374,1,,2,SLP374,cb_intrinsic
+SLP378,1,,2,SLP378,cb_intrinsic
+SLP386,1,,2,SLP386,cb_intrinsic
+SLP392,1,,2,SLP392,cb_intrinsic
+SLP393,1,,2,SLP393,cb_intrinsic
+SLP395,1,,2,SLP395,cb_intrinsic
+SLP397,1,,2,SLP397,cb_intrinsic
+SLP411,1,,2,SLP411,cb_intrinsic
+SLP435,1,,2,SLP435,cb_intrinsic
+SLP451a,1,,2,SLP451,cb_intrinsic
+SLP451b,1,,2,SLP451,cb_intrinsic
+SLP455,1,,2,SLP455,cb_intrinsic
+SLP462,1,,2,SLP462,cb_intrinsic
+SLP465b,1,,2,SLP465,cb_intrinsic
+SLPpm3_P01,1,,2,LHPD5b1,cb_intrinsic
+SLPpm3_P04,1,,2,SMP548,cb_intrinsic
+SMP001,1,,2,SMP001,cb_intrinsic
+SMP010,1,,2,SMP010,cb_intrinsic
+SMP014,1,,2,SMP014,cb_intrinsic
+SMP022a,1,,2,SMP022,cb_intrinsic
+SMP025c,1,,2,SIP007,cb_intrinsic
+SMP033,1,,2,SMP033,cb_intrinsic
+SMP036,1,,2,SMP036,cb_intrinsic
+SMP038,1,,2,SMP038,cb_intrinsic
+SMP040,1,,2,SMP040,cb_intrinsic
+SMP045,1,,2,SMP045,cb_intrinsic
+SMP046,1,,2,SMP046,cb_intrinsic
+SMP050,1,,2,SMP050,cb_intrinsic
+SMP053,1,,2,SMP154,cb_intrinsic
+SMP119,1,,2,SMP119,cb_intrinsic
+SMP146,1,,2,SMP146,cb_intrinsic
+SMP147,1,,2,SMP147,cb_intrinsic
+SMP153a,1,,2,SMP153_a,cb_intrinsic
+SMP161,1,,2,SMP161,cb_intrinsic
+SMP163,1,,2,SMP163,cb_intrinsic
+SMP168,1,,2,SMP168,cb_intrinsic
+SMP179,1,,2,SMP179,cb_intrinsic
+SMP181,1,,2,SMP181,cb_intrinsic
+SMP182,1,,2,SMP182,cb_intrinsic
+SMP183,1,,2,SMP183,cb_intrinsic
+SMP186,1,,2,SMP186,cb_intrinsic
+SMP187,1,,2,SMP187,cb_intrinsic
+SMP188,1,,2,SMP188,cb_intrinsic
+SMP192,1,,2,SMP192,cb_intrinsic
+SMP199,1,,2,SMP199,cb_intrinsic
+SMP201,1,,2,SMP201,cb_intrinsic
+SMP202,1,,2,SMP202,cb_intrinsic
+SMP234,1,,2,SMP234,cb_intrinsic
+SMP237,1,,2,SMP237,cb_intrinsic
+SMP240,1,,2,SMP240,cb_intrinsic
+SMP249,1,,2,SMP249,cb_intrinsic
+SMP250,1,,2,SMP250,cb_intrinsic
+SMP252,1,,2,SMP252,cb_intrinsic
+SMP253,1,,2,SMP253,cb_intrinsic
+SMP258,1,,2,SMP258,cb_intrinsic
+SMP266,1,,2,SMP266,cb_intrinsic
+SMP272,1,,2,SMP272,cb_intrinsic
+SMP284a,1,,2,SMP284_a,cb_intrinsic
+SMP284b,1,,2,SMP284_b,cb_intrinsic
+SMP286,1,,2,SMP286,cb_intrinsic
+SMP313,1,,2,SMP313,cb_intrinsic
+SMP314a,1,,2,SMP314,cb_intrinsic
+SMP328a,1,,2,SMP328_c,cb_intrinsic
+SMP335,1,,2,SMP335,cb_intrinsic
+SMP337,1,,2,SMP337,cb_intrinsic
+SMP361b,1,,2,SMP361,cb_intrinsic
+SMP368,1,,2,SMP368,cb_intrinsic
+SMP372,1,,2,SMP372,cb_intrinsic
+SMP375,1,,2,SMP375,cb_intrinsic
+SMP376,1,,2,SMP376,cb_intrinsic
+SMP387,1,,2,SMP387,cb_intrinsic
+SMP389a,1,,2,SMP389_a,cb_intrinsic
+SMP390,1,,2,SMP390,cb_intrinsic
+SMP393b,1,,2,SMP393,cb_intrinsic
+SMP404a,1,,2,SMP404,cb_intrinsic
+SMP407,1,,2,SMP407,cb_intrinsic
+SMP418,1,,2,SMP418,cb_intrinsic
+SMP419,1,,2,SMP419,cb_intrinsic
+SMP422,1,efferent neuron,2,SMP422,cb_intrinsic
+SMP423,1,,2,SMP423,cb_intrinsic
+SMP442,1,,2,SMP442,cb_intrinsic
+SMP444,1,,2,SMP444,cb_intrinsic
+SMP446a,1,,2,SMP446,cb_intrinsic
+SMP446b,1,,2,SMP446,cb_intrinsic
+SMP456,1,,2,SMP456,cb_intrinsic
+SMP458,1,,2,SMP458,cb_intrinsic
+SMP493,1,,2,SMP493,cb_intrinsic
+SMP495a,1,,2,SMP495_a,cb_intrinsic
+SMP495c,1,,2,SMP495_c,cb_intrinsic
+SMP504,1,,2,SMP504,cb_intrinsic
+SMP521,1,,2,SMP521,cb_intrinsic
+SMP526,2,,1,SMP526,cb_intrinsic
+SMP532a,1,,2,SMP532_a,cb_intrinsic
+SMP545,1,,2,SMP545,cb_intrinsic
+SMP569a,1,,2,SMP569,cb_intrinsic
+SMP569b,1,,2,SMP569,cb_intrinsic
+SMP570a,1,,2,SMP570,cb_intrinsic
+SMP571,1,,2,SMP571,cb_intrinsic
+SMP573,1,,2,SMP573,cb_intrinsic
+SMP577,1,,2,SMP577,cb_intrinsic
+SMP596,1,,2,SMP596,cb_intrinsic
+SMPp&v1A_S02,1,,2,SMP443,cb_intrinsic
+Sm35,1,,2,Cm32,ol_intrinsic
+Sm41,1,,2,Cm31b,ol_intrinsic
+VA6_adPN,1,,2,VA6_adPN,cb_intrinsic
+VC2_lPN,1,,2,VC2_lPN,cb_intrinsic
+VES001,1,,2,VES001,cb_intrinsic
+VES002,1,,2,VES002,cb_intrinsic
+VES004,1,,2,VES004,cb_intrinsic
+VES007,1,,2,VES007,cb_intrinsic
+VES012,1,,2,VES012,cb_intrinsic
+VES014,1,,2,VES014,cb_intrinsic
+VES018,1,,2,VES018,cb_intrinsic
+VES025,1,,2,VES025,cb_intrinsic
+VES030,1,,2,VES030,cb_intrinsic
+VES039,1,,2,VES039,cb_intrinsic
+VES048,1,,2,VES048,cb_intrinsic
+VES053,1,,2,VES053,cb_intrinsic
+VES056,1,,2,VES056,cb_intrinsic
+VES057,1,,2,VES057,cb_intrinsic
+VES059,1,,2,VES059,cb_intrinsic
+VES064,1,,2,VES064,cb_intrinsic
+VES067,1,,2,VES067,cb_intrinsic
+VES070,1,,2,VES070,cb_intrinsic
+VES073,1,,2,VES073,cb_intrinsic
+VES075,1,,2,VES075,cb_intrinsic
+VES077,1,,2,VES077,cb_intrinsic
+VES079,1,,2,VES079,cb_intrinsic
+VESa1_P02,1,,2,AVLP597,cb_intrinsic
+VESa2_H02,1,,2,PLP074,cb_intrinsic
+VESa2_H04,1,,2,SAD071,cb_intrinsic
+VL1_ilPN,1,,2,VL1_ilPN,cb_intrinsic
+VL1_vPN,1,,2,VL1_vPN,cb_intrinsic
+VL2a_adPN,1,,2,VL2a_adPN,cb_intrinsic
+VL2p_adPN,1,,2,VL2p_adPN,cb_intrinsic
+VM1_lPN,1,,2,VM1_lPN,cb_intrinsic
+VM6_adPN,1,glia,2,VM6_adPN,cb_intrinsic
+VP1d+VP4_l2PN1,1,,2,VP1d+VP4_l2PN1,cb_intrinsic
+VP1m+VP5_ilPN,1,,2,VP1m+VP5_ilPN,cb_intrinsic
+VP2+_adPN,1,,2,VP2+_adPN,cb_intrinsic
+VP3+_vPN,1,,2,VP3+_vPN,cb_intrinsic
+VP4_vPN,1,,2,VP4_vPN,cb_intrinsic
+WED011,1,,2,WED011,cb_intrinsic
+WED016,1,,2,WED016,cb_intrinsic
+WED045,1,,2,WED045,cb_intrinsic
+WED069,1,,2,WED069,cb_intrinsic
+WED071,1,,2,WED071,cb_intrinsic
+WED092b,1,,2,WED092,cb_intrinsic
+WED092e,1,,2,WED092,cb_intrinsic
+WED094a,1,,2,WED094,cb_intrinsic
+WED104,1,,2,WED104,cb_intrinsic
+WED107,1,,2,WED107,cb_intrinsic
+WED119,1,,2,WED119,cb_intrinsic
+WED121,1,,2,WED121,cb_intrinsic
+WED124,1,,2,WED124,cb_intrinsic
+WED146a,1,,2,WED146_a,cb_intrinsic
+WED152,1,,2,WED152,cb_intrinsic
+WEDPN10B,1,,2,WEDPN10B,cb_intrinsic
+WEDPN11,1,,2,WEDPN11,cb_intrinsic
+WEDPN12,1,,2,WEDPN12,cb_intrinsic
+Z_vPNml1,1,,2,Z_vPNml1,cb_intrinsic
+aMe13,1,glia,2,aMe13,cb_intrinsic
+aMe15,1,,2,aMe15,cb_intrinsic
+aMe17a1,1,,2,aMe17a,visual_centrifugal
+aMe19a,1,,2,MeVPaMe2,visual_projection
+aMe20,1,,2,aMe20,visual_projection
+aMe24,1,,2,aMe24,cb_intrinsic
+aMe6a,1,,2,aMe6a,visual_projection
+aMe6b,1,,2,aMe6b,ol_intrinsic
+cL14,1,,2,LoVC1,visual_centrifugal
+cL19,1,,2,LoVCLo2,visual_centrifugal
+cL20,1,,2,LoVC7,visual_centrifugal
+cLP04,1,,2,LPT110,visual_centrifugal
+cLP05,1,,2,LPT59,visual_centrifugal
+cM01c,1,,2,MeVC7b,visual_centrifugal
+cM02b,1,,2,MeVC6,visual_centrifugal
+cM05,1,,2,MeVC1,visual_centrifugal
+cM06,1,,2,MeVC12,visual_centrifugal
+cM07,1,,2,MeVC23,visual_centrifugal
+cM10,1,,2,LT88,visual_centrifugal
+cM12,1,,2,MeVC9,visual_centrifugal
+cM13,1,,2,MeVC10,visual_centrifugal
+cM14,1,,2,MeVC2,visual_centrifugal
+cML01,1,,2,MeVC25,visual_centrifugal
+cML02,1,,2,MeVC26,visual_centrifugal
+cMLLP01,1,,2,OLVC5,visual_centrifugal
+l2LN21,1,,2,l2LN21,cb_intrinsic
+lLN1_a,1,,2,lLN1_a,cb_intrinsic
+mAL5B,1,,2,mAL5B,cb_intrinsic
+mALC3,1,,2,LoVC21,visual_centrifugal
+mALC5,1,,2,OLVC2,visual_centrifugal
+mALD3,1,,2,mALD3,cb_intrinsic
+v2LN37,1,,2,v2LN37,cb_intrinsic
+AN_AVLP_GNG_9,1,,1,AN05B099,ascending_neuron
+AN_GNG_35,1,,1,AN00A009,ascending_neuron
+AN_GNG_AVLP_1,1,,1,AN08B095,ascending_neuron
+AVLP083,1,,1,AVLP083,cb_intrinsic
+AVLP330,1,,1,AVLP330,cb_intrinsic
+CB0086,1,,1,CB0086,cb_intrinsic
+CB0154,1,,1,CB0154,cb_intrinsic
+CB0206,1,,1,CB0206,cb_intrinsic
+CB0414,1,,1,CB0414,cb_intrinsic
+CB0674,1,,1,VES108,cb_intrinsic
+CB1132,1,,1,lLN15,cb_intrinsic
+CB1703,1,,1,GNG269,cb_intrinsic
+CB2549,1,,1,CB2549,cb_intrinsic
+CB2724,1,,1,LHPV2b3,cb_intrinsic
+CB2802,1,,1,CB2802,cb_intrinsic
+CB3084,1,,1,CB3084,cb_intrinsic
+CB3203,1,,1,SLP322,cb_intrinsic
+CB3638,1,,1,CB3638,cb_intrinsic
+CB3882,1,,1,WED190,cb_intrinsic
+CB3883,1,,1,GNG007,cb_intrinsic
+CB3884,1,,1,GNG347,cb_intrinsic
+CB3886,1,,1,GNG008,cb_intrinsic
+CB4202,1,,1,GNG671,cb_intrinsic
+CB4204,1,,1,GNG323,cb_intrinsic
+CL195,1,,1,CL195,cb_intrinsic
+DNg55,1,CNS neuron,1,DNg55,descending_neuron
+DNg66,1,CNS neuron,1,DNg66,descending_neuron
+DNge149,1,CNS neuron,1,DNge149,descending_neuron
+DNge152,1,CNS neuron,1,DNge152,descending_neuron
+LTe12,1,,1,LoVP109,visual_projection
+M_lvPNm27,1,,1,M_lvPNm27,cb_intrinsic
+OA-VUMa8,1,,1,OA-VUMa8,cb_intrinsic
+PS074,1,,1,PS074,cb_intrinsic
+PS247,1,,1,PS247,cb_intrinsic
+PVLP101b,1,,1,PVLP101,cb_intrinsic
+SLP028a,1,,1,SLP028,cb_intrinsic
+SLP459,1,,1,SLP459,cb_intrinsic
+SMP031,1,,1,SMP031,cb_intrinsic
+SMP522,1,,1,SMP522,cb_intrinsic
+VP2_adPN,1,,1,VP2_adPN,cb_intrinsic
+WED116,1,,1,WED116,cb_intrinsic
+WED163b,1,,1,WED163,cb_intrinsic
